@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-12-15T18:20:28.967850+08:00",
-  "total_titles_processed": 1397,
+  "generated_at": "2025-12-15T19:15:47.741368+08:00",
+  "total_titles_processed": 1486,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
+          "url": "https://wallstreetcn.com/articles/3761378",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[10时03分 ~ 19时15分]"
+        },
         {
           "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
           "url": "https://news.ifeng.com/c/8p51GzC9IVg",
@@ -17,19 +31,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时29分 ~ 07时23分]"
-        },
-        {
-          "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
-          "url": "https://wallstreetcn.com/articles/3761378",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时03分 ~ 18时20分]"
         },
         {
           "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
@@ -53,8 +54,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 18时20分]"
+          "appearance_count": 4,
+          "time_info": "[17时26分 ~ 19时15分]"
         },
         {
           "title": "连续表达“独立性”！哈塞特：若被选中领导美联储，特朗普可以提意见，但对美联储决策“毫无分量”",
@@ -64,8 +65,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时41分 ~ 18时20分]"
+          "appearance_count": 9,
+          "time_info": "[14时41分 ~ 19时15分]"
         },
         {
           "title": "悉尼水果店老板徒手夺枪获特朗普称赞",
@@ -152,6 +153,17 @@
           "time_info": "[00时29分 ~ 05时22分]"
         },
         {
+          "title": "拜登白送的无人机特朗普要收钱，台军：不要了",
+          "url": "https://news.ifeng.com/c/8p6WipSN2un",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时24分 ~ 19时15分]"
+        },
+        {
           "title": "哈塞特谈接掌美联储：考虑特朗普意见 但坚持决策独立性",
           "url": "https://flash.jin10.com/detail/20251215045241134800",
           "source": "金十数据",
@@ -165,15 +177,16 @@
           "time_info": "[05时22分 ~ 07时23分]"
         },
         {
-          "title": "拜登白送的无人机特朗普要收钱，台军：不要了",
-          "url": "https://news.ifeng.com/c/8p6WipSN2un",
-          "source": "凤凰网",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-15）",
+          "url": "https://flash.jin10.com/detail/20251215180602946800",
+          "source": "金十数据",
           "ranks": [
-            10
+            10,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时24分 ~ 18时20分]"
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 19时15分]"
         },
         {
           "title": "悉尼水果店老板徒手夺枪获特朗普称赞",
@@ -187,26 +200,26 @@
           "time_info": "[17时26分 ~ 17时27分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-15）",
-          "url": "https://flash.jin10.com/detail/20251215180602946800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
           "title": "欧盟官员表示，美国中东问题特使威特科夫和及特朗普高级顾问库什纳通过视频会议向欧盟各国外交部长简要通报加沙局势。",
           "url": "https://flash.jin10.com/detail/20251215174214172800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "特朗普指着台下女子说你好像伊万卡",
+          "url": "https://www.toutiao.com/trending/7583883670654681098/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         }
       ]
     },
@@ -222,11 +235,12 @@
             10,
             8,
             7,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时03分 ~ 18时20分]"
+          "appearance_count": 13,
+          "time_info": "[10时03分 ~ 19时15分]"
         },
         {
           "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
@@ -242,6 +256,20 @@
           "time_info": "[12时06分 ~ 16时24分]"
         },
         {
+          "title": "美股“英伟达们”强劲财报换来股价暴跌 AI泡沫破裂已进入倒计时?",
+          "url": "https://www.cls.cn/detail/2229441",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时41分 ~ 19时15分]"
+        },
+        {
           "title": "华尔街的“2026美股主题”是轮动！“老登”胜过Mag 7，高盛高呼“周期股尚未被完全定价”",
           "url": "https://wallstreetcn.com/articles/3761364",
           "source": "华尔街见闻",
@@ -255,29 +283,17 @@
           "time_info": "[10时03分 ~ 15时22分]"
         },
         {
-          "title": "美股“英伟达们”强劲财报换来股价暴跌 AI泡沫破裂已进入倒计时?",
-          "url": "https://www.cls.cn/detail/2229441",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时41分 ~ 18时20分]"
-        },
-        {
           "title": "iRobot股价美股盘前暴跌超80%，至0.76美元，此前公司已申请破产，并寻求收购制造商。",
           "url": "https://wallstreetcn.com/livenews/3020863",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            13
+            13,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时20分]"
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 19时15分]"
         },
         {
           "title": "iRobot股价美股盘前暴跌82.5%，至0.76美元，此前公司已申请破产，并寻求收购制造商。",
