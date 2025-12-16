@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T15:20:11.217025+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2025-12-16T16:23:03.346658+08:00",
+  "total_titles_processed": 1470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -52,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时11分 ~ 15时20分]"
+          "appearance_count": 12,
+          "time_info": "[09时11分 ~ 16时23分]"
         },
         {
           "title": "日媒爆特朗普警告高市早苗别添乱",
@@ -95,8 +95,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时20分 ~ 15时20分]"
+          "appearance_count": 11,
+          "time_info": "[11时20分 ~ 16时23分]"
         },
         {
           "title": "特朗普正式起诉BBC 共索赔100亿美元",
@@ -106,11 +106,12 @@
             22,
             25,
             20,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时31分 ~ 15时20分]"
+          "appearance_count": 9,
+          "time_info": "[12时31分 ~ 16时23分]"
         },
         {
           "title": "日媒：高市被特朗普警告后情绪低落",
@@ -459,6 +460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "英国工党大臣金诺克：我认为BBC在特朗普诉讼案上坚持立场是正确的。",
+          "url": "https://flash.jin10.com/detail/20251216152842242800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "美国纽约联储主席威廉姆斯：企业在一定程度上消耗掉（总统特朗普挑起）关税之前的库存。",
@@ -819,8 +831,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时25分 ~ 15时20分]"
+          "appearance_count": 5,
+          "time_info": "[14时25分 ~ 16时23分]"
         },
         {
           "title": "OpenAI聘请谷歌高管Alberta Lee，负责主导并购业务（M&A）。（The Information）",
