@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T16:23:03.346658+08:00",
-  "total_titles_processed": 1470,
+  "generated_at": "2025-12-16T17:22:19.952854+08:00",
+  "total_titles_processed": 1587,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时11分 ~ 16时23分]"
+          "appearance_count": 13,
+          "time_info": "[09时11分 ~ 17时22分]"
         },
         {
           "title": "日媒爆特朗普警告高市早苗别添乱",
@@ -92,11 +92,12 @@
             15,
             13,
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时20分 ~ 16时23分]"
+          "appearance_count": 12,
+          "time_info": "[11时20分 ~ 17时22分]"
         },
         {
           "title": "特朗普正式起诉BBC 共索赔100亿美元",
@@ -468,7 +469,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -799,7 +800,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -846,6 +847,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时24分 ~ 04时18分]"
+        },
+        {
+          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
+          "url": "https://wallstreetcn.com/articles/3761453",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "Zillow Group一度下跌13%，创最近十个月最差盘中表现，CoStar Group跌9.1%，创2022年7月份以来盘中新低。 谷歌公司测试新版房地产广告模式。",
