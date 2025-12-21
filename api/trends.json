@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T11:25:37.163950+08:00",
-  "total_titles_processed": 698,
+  "generated_at": "2025-12-21T12:33:54.563686+08:00",
+  "total_titles_processed": 770,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,18 @@
           "time_info": "[00时18分 ~ 09时15分]"
         },
         {
+          "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
+          "url": "https://news.ifeng.com/c/8pFTv3cncwR",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 12时33分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
           "url": "https://flash.jin10.com/detail/20251220184219205800",
           "source": "金十数据",
@@ -42,18 +54,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时18分 ~ 07时15分]"
-        },
-        {
-          "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
-          "url": "https://news.ifeng.com/c/8pFTv3cncwR",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 11时25分]"
         },
         {
           "title": "特朗普入股核聚变公司",
@@ -68,17 +68,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时12分 ~ 06时14分]"
-        },
-        {
-          "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
-          "url": "https://wallstreetcn.com/livenews/3024367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -119,6 +108,18 @@
           "time_info": "[01时12分 ~ 05时13分]"
         },
         {
+          "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
+          "url": "https://wallstreetcn.com/livenews/3024367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 12时33分]"
+        },
+        {
           "title": "美反对乌入约 泽连斯基疑诅咒特朗普",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%8F%8D%E5%AF%B9%E4%B9%8C%E5%85%A5%E7%BA%A6+%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%96%91%E8%AF%85%E5%92%92%E7%89%B9%E6%9C%97%E6%99%AE",
           "source": "百度热搜",
@@ -136,7 +137,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         }
@@ -157,8 +158,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 11时25分]"
+          "appearance_count": 16,
+          "time_info": "[00时17分 ~ 12时33分]"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
@@ -185,8 +186,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 11时25分]"
+          "appearance_count": 16,
+          "time_info": "[00时17分 ~ 12时33分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -230,8 +231,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 11时25分]"
+          "appearance_count": 16,
+          "time_info": "[00时17分 ~ 12时33分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -267,11 +268,12 @@
           "url": "https://wallstreetcn.com/articles/3761778",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 12时33分]"
         }
       ]
     }
