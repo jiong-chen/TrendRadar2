@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T18:15:44.917755+08:00",
-  "total_titles_processed": 1111,
+  "generated_at": "2025-12-21T19:13:36.805039+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
@@ -52,11 +52,12 @@
             10,
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时16分 ~ 18时15分]"
+          "appearance_count": 8,
+          "time_info": "[13时16分 ~ 19时13分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
@@ -68,6 +69,22 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时18分 ~ 07时15分]"
+        },
+        {
+          "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
+          "url": "https://flash.jin10.com/detail/20251221140435040800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            3,
+            9,
+            10,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时22分 ~ 19时13分]"
         },
         {
           "title": "特朗普入股核聚变公司",
@@ -82,21 +99,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时12分 ~ 06时14分]"
-        },
-        {
-          "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
-          "url": "https://flash.jin10.com/detail/20251221140435040800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            3,
-            9,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时22分 ~ 18时15分]"
         },
         {
           "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -158,9 +160,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
+          "url": "https://flash.jin10.com/detail/20251221182933074800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
@@ -240,8 +253,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时17分 ~ 18时15分]"
+          "appearance_count": 24,
+          "time_info": "[00时17分 ~ 19时13分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -265,11 +278,12 @@
             10,
             16,
             17,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时17分 ~ 18时15分]"
+          "appearance_count": 7,
+          "time_info": "[13时17分 ~ 19时13分]"
         },
         {
           "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
@@ -277,11 +291,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时22分 ~ 18时15分]"
+          "appearance_count": 6,
+          "time_info": "[14时22分 ~ 19时13分]"
         }
       ]
     },
