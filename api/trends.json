@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T18:17:26.152896+08:00",
-  "total_titles_processed": 1503,
+  "generated_at": "2025-12-25T19:14:19.947160+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
@@ -64,8 +64,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 18时17分]"
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 19时14分]"
         },
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -76,8 +76,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 18时17分]"
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 19时14分]"
         },
         {
           "title": "特朗普回应克林顿大尺度照被公布",
@@ -92,28 +92,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时12分 ~ 06时15分]"
-        },
-        {
-          "title": "特朗普这一年如何搅乱全球",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E4%B8%80%E5%B9%B4%E5%A6%82%E4%BD%95%E6%90%85%E4%B9%B1%E5%85%A8%E7%90%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-25）",
-          "url": "https://flash.jin10.com/detail/20251225173408748800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
         },
         {
           "title": "特朗普为何强调新战列舰不针对中国",
@@ -181,6 +159,18 @@
           "time_info": "[03时12分 ~ 05时14分]"
         },
         {
+          "title": "特朗普这一年如何搅乱全球",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E4%B8%80%E5%B9%B4%E5%A6%82%E4%BD%95%E6%90%85%E4%B9%B1%E5%85%A8%E7%90%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 19时14分]"
+        },
+        {
           "title": "帕劳与特朗普政府签署备忘录，从美国接收75名移民",
           "url": "https://flash.jin10.com/detail/20251225121328471800",
           "source": "金十数据",
@@ -191,6 +181,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时34分 ~ 13时20分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-25）",
+          "url": "https://flash.jin10.com/detail/20251225173408748800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 19时14分]"
         },
         {
           "title": "“特朗普”级战列舰来了",
@@ -262,8 +264,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时10分 ~ 18时17分]"
+          "appearance_count": 13,
+          "time_info": "[09时10分 ~ 19时14分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -286,11 +288,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时22分 ~ 18时17分]"
+          "appearance_count": 8,
+          "time_info": "[11时22分 ~ 19时14分]"
         },
         {
           "title": "美股行业ETF普遍收涨",
