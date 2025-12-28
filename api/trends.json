@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T19:13:26.510121+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2025-12-28T20:29:14.037269+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时40分 ~ 19时13分]"
+          "appearance_count": 12,
+          "time_info": "[12时40分 ~ 20时29分]"
         },
         {
           "title": "特朗普海湖庄园将上演“鸿门宴”吗",
@@ -92,11 +93,13 @@
             8,
             4,
             1,
-            2
+            2,
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时20分 ~ 19时13分]"
+          "appearance_count": 6,
+          "time_info": "[16时20分 ~ 20时29分]"
         },
         {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
@@ -108,6 +111,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时18分 ~ 03时12分]"
+        },
+        {
+          "title": "泽连斯基：我想跟特朗普谈5个问题",
+          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 20时29分]"
         },
         {
           "title": "乌媒：泽连斯基概述想和特朗普讨论“和平计划”的5个问题",
@@ -173,17 +187,6 @@
           "time_info": "[11时43分 ~ 13时20分]"
         },
         {
-          "title": "泽连斯基：我想跟特朗普谈5个问题",
-          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 19时13分]"
-        },
-        {
           "title": "泽连斯基抵达美国，准备与特朗普会谈",
           "url": "https://flash.jin10.com/detail/20251228084239521800",
           "source": "金十数据",
@@ -194,6 +197,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时18分 ~ 11时43分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-28）",
+          "url": "https://flash.jin10.com/detail/20251228180224795800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 20时29分]"
         },
         {
           "title": "特朗普为美国带来了什么改变",
@@ -216,17 +231,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时20分 ~ 02时21分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-28）",
-          "url": "https://flash.jin10.com/detail/20251228180224795800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
         }
       ]
     },
