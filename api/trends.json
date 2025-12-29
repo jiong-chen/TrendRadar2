@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T16:24:07.750075+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2025-12-29T17:25:29.814648+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普：不排除亲自前往乌克兰",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时44分 ~ 16时24分]"
+          "appearance_count": 10,
+          "time_info": "[11时44分 ~ 17时25分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -65,6 +65,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时18分 ~ 05时14分]"
+        },
+        {
+          "title": "特朗普当众施压泽连斯基",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            24,
+            20,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时44分 ~ 17时25分]"
         },
         {
           "title": "乌克兰总统办公室：乌克兰总统泽连斯基和美国总统特朗普将与欧洲领导人举行电话会议。",
@@ -108,20 +123,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 06时15分]"
-        },
-        {
-          "title": "特朗普当众施压泽连斯基",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            24,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时44分 ~ 16时24分]"
         },
         {
           "title": "乌克兰总统泽连斯基抵达美国佛罗里达州，即将会见美国总统特朗普。",
@@ -189,6 +190,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时18分 ~ 05时14分]"
+        },
+        {
+          "title": "MAGA“叛徒”喊话特朗普：我们能不能就关注美国？",
+          "url": "https://news.ifeng.com/c/8pTlUTKXGWO",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时22分 ~ 17时25分]"
         },
         {
           "title": "美银CEO：预计特朗普关税局势将开始降温",
@@ -313,18 +326,6 @@
           "time_info": "07时15分"
         },
         {
-          "title": "MAGA“叛徒”喊话特朗普：我们能不能就关注美国？",
-          "url": "https://news.ifeng.com/c/8pTlUTKXGWO",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时22分 ~ 16时24分]"
-        },
-        {
           "title": "特朗普：“谈判没有最后期限” 乌克兰重建工作带来经济利好",
           "url": "https://flash.jin10.com/detail/20251229123047731800",
           "source": "金十数据",
@@ -406,8 +407,20 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时22分 ~ 17时25分]"
+        },
+        {
+          "title": "俄乌和平信号频现！特朗普：“进度条”已至95% 不排除三方会晤",
+          "url": "https://www.cls.cn/detail/2242304",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时22分 ~ 16时24分]"
+          "time_info": "[16时23分 ~ 17时25分]"
         },
         {
           "title": "特朗普见泽连斯基前先与普京通话",
@@ -432,17 +445,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时15分]"
-        },
-        {
-          "title": "俄乌和平信号频现！特朗普：“进度条”已至95% 不排除三方会晤",
-          "url": "https://www.cls.cn/detail/2242304",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 16时24分]"
         },
         {
           "title": "唐宁街发言人：英国首相斯塔默今晚与美国总统特朗普、乌克兰总统泽连斯基以及欧洲领导人进行了通话。讨论重点是为乌克兰和平所做的努力，各国领导人称赞美国总统特朗普迄今取得的进展。",
@@ -621,6 +623,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "泽连斯基：特朗普告诉我，他曾与普京讨论过20点计划。 在特朗普和欧洲领导人就文件达成同意后，与俄罗斯举行会晤是可能的。 希望乌克兰在和平计划签署的同时获得安全保障。 20点计划应提交公投，至少需要60天的停火才能举行公投。",
+          "url": "https://wallstreetcn.com/livenews/3028029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "特朗普再次就泰柬停火邀功说了啥",
           "url": "https://www.toutiao.com/trending/7589048685074320939/",
           "source": "今日头条",
@@ -630,6 +643,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "泽连斯基请求特朗普提供30-50年的安全保障。泽连斯基称，特朗普告诉他会考虑这一请求。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3028027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：在美国总统特朗普和欧洲领导人就文件达成一致后，与俄罗斯举行会晤是可能的。",
+          "url": "https://flash.jin10.com/detail/20251229164800052800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "市场消息：特朗普和泽连斯基在双边会晤后与欧洲领导人通电话。",
@@ -731,6 +766,17 @@
           "time_info": "11时44分"
         },
         {
+          "title": "乌克兰总统泽连斯基：我告诉美国总统特朗普，我们非常愿意考虑30年、40年、50年（安全保障）的可能性。那将是特朗普做出的一个历史性决定。特朗普表示他会考虑一下。",
+          "url": "https://flash.jin10.com/detail/20251229164216864800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "法国总统马克龙：今晚，我与其他欧洲领导人一同参与了与泽连斯基总统、特朗普总统的交流。随后我又与泽连斯基进行了交谈。 我们在安全保障方面正取得进展，这些保障将是构建公正持久和平的核心要素。",
           "url": "https://wallstreetcn.com/livenews/3027744",
           "source": "华尔街见闻-快讯",
@@ -751,6 +797,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：美国总统特朗普表示，他曾与俄罗斯总统普京讨论过一项20点计划。",
+          "url": "https://flash.jin10.com/detail/20251229164104471800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "特朗普称，若有助于达成俄乌和平协议，不排除访问乌克兰的可能性",
@@ -822,7 +879,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股冲刺历史新高 年末聚焦美联储政策与板块轮动",
@@ -847,6 +904,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "美股三大股指期货走低，标普500指数期货下跌0.3%，纳斯达克100指数期货下跌0.5%，道琼斯指数期货下跌0.1%。",
+          "url": "https://flash.jin10.com/detail/20251229170123670800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         }
       ]
     },
