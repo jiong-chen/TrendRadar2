@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-10T22:15:11.594697+08:00",
-  "total_titles_processed": 1600,
+  "generated_at": "2026-01-10T23:15:29.292522+08:00",
+  "total_titles_processed": 1659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 140,
+      "match_count": 143,
       "titles": [
+        {
+          "title": "特朗普放话：我可不要中俄当邻居",
+          "url": "https://news.ifeng.com/c/8pnjeKLWxbZ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时20分 ~ 23时15分]"
+        },
         {
           "title": "特朗普极力拉投资声称“委美加起来有全球55%石油”",
           "url": "https://news.ifeng.com/c/8pnVKuGn9sJ",
@@ -44,21 +57,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时15分 ~ 22时15分]"
-        },
-        {
-          "title": "特朗普放话：我可不要中俄当邻居",
-          "url": "https://news.ifeng.com/c/8pnjeKLWxbZ",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时20分 ~ 22时15分]"
+          "appearance_count": 17,
+          "time_info": "[07时15分 ~ 23时15分]"
         },
         {
           "title": "特朗普威胁石油巨头在委投资：你们不干有的是人干",
@@ -97,11 +97,25 @@
             5,
             7,
             8,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时20分 ~ 22时15分]"
+          "appearance_count": 15,
+          "time_info": "[11时20分 ~ 23时15分]"
+        },
+        {
+          "title": "特朗普“泄密”！提前12小时发帖曝光美非农就业数据",
+          "url": "https://wallstreetcn.com/articles/3762989",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时15分 ~ 23时15分]"
         },
         {
           "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
@@ -114,8 +128,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时29分 ~ 22时15分]"
+          "appearance_count": 14,
+          "time_info": "[12时29分 ~ 23时15分]"
         },
         {
           "title": "关税裁决交易指南：如果最高法院说“不”，特朗普还有什么牌？",
@@ -128,19 +142,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[11时20分 ~ 19时13分]"
-        },
-        {
-          "title": "特朗普“泄密”！提前12小时发帖曝光美非农就业数据",
-          "url": "https://wallstreetcn.com/articles/3762989",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时15分 ~ 22时15分]"
         },
         {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
@@ -444,6 +445,17 @@
           "time_info": "05时16分"
         },
         {
+          "title": "特朗普暗示：突袭式军事行动，或成美未来海外用兵主要模式",
+          "url": "https://wallstreetcn.com/livenews/3034570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "美国总统特朗普：将决定哪些石油公司进入委内瑞拉。",
           "url": "https://flash.jin10.com/detail/20260110040940274800",
           "source": "金十数据",
@@ -542,6 +554,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[19时13分 ~ 22时15分]"
+        },
+        {
+          "title": "信号比规模重要--高盛解读“特朗普版QE”",
+          "url": "https://wallstreetcn.com/articles/3763012",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时28分 ~ 23时15分]"
         },
         {
           "title": "美国财长贝森特：如果美国最高法院裁定反对特朗普政府（关税政策），财政部有足够的资金支付任何关税退款。",
@@ -672,18 +697,6 @@
           "time_info": "[19时13分 ~ 22时15分]"
         },
         {
-          "title": "信号比规模重要--高盛解读“特朗普版QE”",
-          "url": "https://wallstreetcn.com/articles/3763012",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时28分 ~ 22时15分]"
-        },
-        {
           "title": "特朗普讲话期间，康菲石油(COP.N)股价下跌1%。",
           "url": "https://flash.jin10.com/detail/20260110045006833800",
           "source": "金十数据",
@@ -764,6 +777,20 @@
           "time_info": "[11时20分 ~ 14时23分]"
         },
         {
+          "title": "特朗普：很快打击墨境内",
+          "url": "https://wallstreetcn.com/livenews/3034537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15,
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时28分 ~ 23时15分]"
+        },
+        {
           "title": "特朗普：我解决了拜登留下的高房贷利率难题，为美国家庭减轻负担",
           "url": "https://flash.jin10.com/detail/20260110092012620800",
           "source": "金十数据",
@@ -792,17 +819,30 @@
           "time_info": "[11时20分 ~ 14时23分]"
         },
         {
-          "title": "特朗普：很快打击墨境内",
-          "url": "https://wallstreetcn.com/livenews/3034537",
+          "title": "意大利总理说很多问题上不同意特朗普做法",
+          "url": "https://wallstreetcn.com/livenews/3034549",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            15,
-            16
+            6,
+            7,
+            21
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时28分 ~ 22时15分]"
+          "time_info": "[21时26分 ~ 23时15分]"
+        },
+        {
+          "title": "G7峰会据悉系为特朗普而改期",
+          "url": "https://flash.jin10.com/detail/20260110203044449800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时26分 ~ 23时15分]"
         },
         {
           "title": "印度否认莫迪未致电特朗普让印美贸易谈判停滞",
@@ -935,30 +975,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时16分 ~ 07时15分]"
-        },
-        {
-          "title": "意大利总理说很多问题上不同意特朗普做法",
-          "url": "https://wallstreetcn.com/livenews/3034549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时26分 ~ 22时15分]"
-        },
-        {
-          "title": "G7峰会据悉系为特朗普而改期",
-          "url": "https://flash.jin10.com/detail/20260110203044449800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时26分 ~ 22时15分]"
         },
         {
           "title": "特朗普的“房管局长”Pulte：需要处理鲍威尔",
@@ -1240,6 +1256,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "特朗普称「无论难易」都要得到格陵兰岛，美国近期对委内瑞拉和格陵兰岛的一系列动作是否宣告危险时代的来临？",
+          "url": "https://www.zhihu.com/question/1993265925231761101",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "美国总统特朗普：将在2月份第一周会见哥伦比亚总统Petro。",
@@ -1616,6 +1643,17 @@
           "time_info": "05时16分"
         },
         {
+          "title": "俄罗斯回应特朗普释放俄船员",
+          "url": "https://www.douyin.com/hot/2362921",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "特朗普政府称ICE特工枪杀事件是自卫",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E7%A7%B0ICE%E7%89%B9%E5%B7%A5%E6%9E%AA%E6%9D%80%E4%BA%8B%E4%BB%B6%E6%98%AF%E8%87%AA%E5%8D%AB",
           "source": "百度热搜",
@@ -1729,8 +1767,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时10分 ~ 22时15分]"
+          "appearance_count": 16,
+          "time_info": "[09时10分 ~ 23时15分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -1743,8 +1781,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时22分 ~ 22时15分]"
+          "appearance_count": 12,
+          "time_info": "[14时22分 ~ 23时15分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -1757,8 +1795,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时15分 ~ 22时15分]"
+          "appearance_count": 10,
+          "time_info": "[15时15分 ~ 23时15分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -1769,11 +1807,12 @@
             7,
             24,
             26,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时22分 ~ 18时15分]"
+          "appearance_count": 7,
+          "time_info": "[14时22分 ~ 23时15分]"
         },
         {
           "title": "DeepSeek 计划二月中旬发布新模型 DeepSeek-V4，有哪些技术亮点？能第二次震惊世界吗？",
@@ -1785,8 +1824,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时28分 ~ 22时15分]"
+          "appearance_count": 5,
+          "time_info": "[20时28分 ~ 23时15分]"
         },
         {
           "title": "DeepSeek准备第二次震惊全世界",
@@ -1827,11 +1866,12 @@
             10,
             9,
             7,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时10分 ~ 22时15分]"
+          "appearance_count": 16,
+          "time_info": "[09时10分 ~ 23时15分]"
         },
         {
           "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
@@ -2046,8 +2086,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时10分 ~ 22时15分]"
+          "appearance_count": 16,
+          "time_info": "[09时10分 ~ 23时15分]"
         },
         {
           "title": "非农数据”温和“，标普新高，美元指数四连涨，黄金重回4500关口",
