@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T21:39:14.956563+08:00",
-  "total_titles_processed": 1685,
+  "generated_at": "2026-01-12T22:20:57.032982+08:00",
+  "total_titles_processed": 1754,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普发图自称“委内瑞拉代总统”",
@@ -70,6 +70,30 @@
           "time_info": "[00时17分 ~ 16时25分]"
         },
         {
+          "title": "特朗普威胁古巴，委内瑞拉发声",
+          "url": "https://news.ifeng.com/c/8pqpuA2I7mV",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时27分 ~ 22时20分]"
+        },
+        {
+          "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
+          "url": "https://news.ifeng.com/c/8pr7YJccLIS",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时27分 ~ 22时20分]"
+        },
+        {
           "title": "特朗普对台问题表态引岛内热议",
           "url": "https://www.douyin.com/hot/2364980",
           "source": "抖音",
@@ -83,30 +107,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[11时44分 ~ 19时16分]"
-        },
-        {
-          "title": "特朗普威胁古巴，委内瑞拉发声",
-          "url": "https://news.ifeng.com/c/8pqpuA2I7mV",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时27分 ~ 21时39分]"
-        },
-        {
-          "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
-          "url": "https://news.ifeng.com/c/8pr7YJccLIS",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时27分 ~ 21时39分]"
         },
         {
           "title": "为「保护」美方所持委石油收入，特朗普宣布进入国家紧急状态，这意味着什么？将带来哪些影响？",
@@ -245,6 +245,17 @@
           "time_info": "18时20分"
         },
         {
+          "title": "特朗普转发“鲁比奥将成为古巴总统”帖子：听起来不错",
+          "url": "https://news.ifeng.com/c/8pr1vFKruDQ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "特朗普威胁古巴尽快同美国“达成协议”",
           "url": "https://www.cls.cn/detail/2254162",
           "source": "财联社热门",
@@ -282,6 +293,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时17分 ~ 07时15分]"
+        },
+        {
+          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 22时20分]"
         },
         {
           "title": "特朗普谈古巴：我强烈建议他们趁为时未晚达成协议",
@@ -334,6 +358,17 @@
           "time_info": "[13时26分 ~ 14时28分]"
         },
         {
+          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
+          "url": "https://wallstreetcn.com/articles/3763089",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时34分 ~ 22时20分]"
+        },
+        {
           "title": "分析师：特朗普攻击美联储动摇市场信心",
           "url": "https://flash.jin10.com/detail/20260112115831082800",
           "source": "金十数据",
@@ -344,19 +379,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时45分 ~ 13时26分]"
-        },
-        {
-          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 21时39分]"
         },
         {
           "title": "特朗普：不会再有委内瑞拉石油与资金流向古巴",
@@ -392,17 +414,6 @@
           "time_info": "[00时18分 ~ 03时12分]"
         },
         {
-          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
-          "url": "https://wallstreetcn.com/articles/3763089",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时34分 ~ 21时39分]"
-        },
-        {
           "title": "美东时间1月11日晚，特朗普在社交平台发帖，自称“委内瑞拉代总统”。（CCTV国际时讯）",
           "url": "https://wallstreetcn.com/livenews/3034951",
           "source": "华尔街见闻-快讯",
@@ -414,6 +425,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时44分 ~ 13时26分]"
+        },
+        {
+          "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
+          "url": "https://wallstreetcn.com/articles/3763082",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时38分 ~ 22时20分]"
         },
         {
           "title": "特朗普发布系列指令震慑企业界，CEO们保持警惕",
@@ -429,6 +452,42 @@
           "time_info": "[05时14分 ~ 07时15分]"
         },
         {
+          "title": "德国财政部长克林贝伊尔就特朗普抨击美联储发表评论：作为财政部长，央行独立性对我来说是一条不容逾越的红线。",
+          "url": "https://flash.jin10.com/detail/20260112212737636800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时20分]"
+        },
+        {
+          "title": "美媒：特朗普本周将就美联储主席一职面试贝莱德高管里克·里德",
+          "url": "https://flash.jin10.com/detail/20260112212716396800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时20分]"
+        },
+        {
+          "title": "特朗普将就美联储主席一职面试贝莱德分析师Rick Rieder，面试将于本周进行。（福克斯）",
+          "url": "https://wallstreetcn.com/livenews/3035370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时20分]"
+        },
+        {
           "title": "美企业家：特朗普正在损害美国实力",
           "url": "https://www.toutiao.com/trending/7593575351952343059/",
           "source": "今日头条",
@@ -441,15 +500,16 @@
           "time_info": "[18时20分 ~ 19时16分]"
         },
         {
-          "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
-          "url": "https://wallstreetcn.com/articles/3763082",
-          "source": "华尔街见闻",
+          "title": "北约秘书长吕特：相信美国总统特朗普为北约做正确的事情。",
+          "url": "https://flash.jin10.com/detail/20260112212210051800",
+          "source": "金十数据",
           "ranks": [
-            10
+            10,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时38分 ~ 21时39分]"
+          "time_info": "[21时39分 ~ 22时20分]"
         },
         {
           "title": "特朗普发图自称委内瑞拉代总统",
@@ -464,6 +524,18 @@
           "time_info": "[11时44分 ~ 12时45分]"
         },
         {
+          "title": "特朗普将就美联储主席一职面试贝莱德高管里德（Rick Rieder）。面试将于本周举行。",
+          "url": "https://flash.jin10.com/detail/20260112211851443800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时20分]"
+        },
+        {
           "title": "美媒：特朗普盟友将投放超级碗广告宣传“特朗普账户”",
           "url": "https://flash.jin10.com/detail/20260112111415549800",
           "source": "金十数据",
@@ -473,39 +545,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
-        },
-        {
-          "title": "德国财政部长克林贝伊尔就特朗普抨击美联储发表评论：作为财政部长，央行独立性对我来说是一条不容逾越的红线。",
-          "url": "https://flash.jin10.com/detail/20260112212737636800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "美媒：特朗普本周将就美联储主席一职面试贝莱德高管里克·里德",
-          "url": "https://flash.jin10.com/detail/20260112212716396800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "特朗普将就美联储主席一职面试贝莱德分析师Rick Rieder，面试将于本周进行。（福克斯）",
-          "url": "https://wallstreetcn.com/livenews/3035370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
         },
         {
           "title": "巴克莱股价下跌，此前特朗普呼吁限制信用卡利率。",
@@ -519,15 +558,15 @@
           "time_info": "16时25分"
         },
         {
-          "title": "北约秘书长吕特：相信美国总统特朗普为北约做正确的事情。",
-          "url": "https://flash.jin10.com/detail/20260112212210051800",
-          "source": "金十数据",
+          "title": "META任命前特朗普顾问Dina Powell McCormick担任新设立的高管职位，负责与政府和投资者合作推动AI发展。",
+          "url": "https://wallstreetcn.com/livenews/3035386",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时39分"
+          "time_info": "22时20分"
         },
         {
           "title": "“木头姐”预言：特朗普政府将很快开始采购比特币，建立国家储备！",
@@ -561,17 +600,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
-        },
-        {
-          "title": "特朗普将就美联储主席一职面试贝莱德高管里德（Rick Rieder）。面试将于本周举行。",
-          "url": "https://flash.jin10.com/detail/20260112211851443800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
         },
         {
           "title": "传唤鲍威尔！特朗普折腾有啥图谋丨Hi，今天怎么看？",
@@ -764,7 +792,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -789,8 +817,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时15分 ~ 21时39分]"
+          "appearance_count": 16,
+          "time_info": "[09时15分 ~ 22时20分]"
         },
         {
           "title": "伊朗局势微妙，鲍威尔被诉，金银再创新高，油价连续走高、美股期货下跌",
@@ -826,8 +854,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 21时39分]"
+          "appearance_count": 3,
+          "time_info": "[21时38分 ~ 22时20分]"
         },
         {
           "title": "美股盘前，明星科技股普跌，英伟达、甲骨文跌超1%、英特尔跌2%。热门中概股走强，金山云涨13%、阿里巴巴涨超4%、百度涨3%。美股银行股普跌，摩根大通下跌2.4%，花旗下跌3.6%，美国银行下跌1.5%，特朗普呼吁给信用卡利率设“10%上限”。",
@@ -864,6 +892,17 @@
           "time_info": "15时23分"
         },
         {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3035390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "美股盘前，热门中概股走强，金山云(KC.O)涨13%、阿里巴巴(BABA.N)涨4.4%、百度(BIDU.O)涨3%。",
           "url": "https://flash.jin10.com/detail/20260112170224589800",
           "source": "金十数据",
@@ -873,6 +912,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-12）",
+          "url": "https://flash.jin10.com/detail/20260112214500163800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         }
       ]
     },
@@ -889,8 +939,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时23分 ~ 21时39分]"
+          "appearance_count": 10,
+          "time_info": "[15时23分 ~ 22时20分]"
         },
         {
           "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
@@ -947,6 +997,45 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数DXY日内跌超0.50%，现报98.68。",
+          "url": "https://flash.jin10.com/detail/20260112214654921800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "美元指数日内跌超0.50%，现报98.68。",
+          "url": "https://wallstreetcn.com/livenews/3035384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "美元指数DXY失守99，日内跌幅0.18%。",
+          "url": "https://flash.jin10.com/detail/20260112083545120800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -960,23 +1049,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时17分 ~ 07时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数DXY失守99，日内跌幅0.18%。",
-          "url": "https://flash.jin10.com/detail/20260112083545120800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
         }
       ]
     },
