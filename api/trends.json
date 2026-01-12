@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-12T19:16:35.916419+08:00",
-  "total_titles_processed": 1466,
+  "generated_at": "2026-01-12T20:34:45.093752+08:00",
+  "total_titles_processed": 1577,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
+        {
+          "title": "特朗普发图自称“委内瑞拉代总统”",
+          "url": "https://news.ifeng.com/c/8pqpIh8lxzW",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时45分 ~ 20时34分]"
+        },
         {
           "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
           "url": "https://wallstreetcn.com/articles/3763030",
@@ -19,19 +32,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时17分 ~ 09时16分]"
-        },
-        {
-          "title": "特朗普发图自称“委内瑞拉代总统”",
-          "url": "https://news.ifeng.com/c/8pqpIh8lxzW",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时45分 ~ 19时16分]"
         },
         {
           "title": "特朗普表态让万千台湾民众看清现实",
@@ -123,6 +123,30 @@
           "time_info": "[00时17分 ~ 09时16分]"
         },
         {
+          "title": "特朗普威胁古巴，委内瑞拉发声",
+          "url": "https://news.ifeng.com/c/8pqpuA2I7mV",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 20时34分]"
+        },
+        {
+          "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
+          "url": "https://news.ifeng.com/c/8pr7YJccLIS",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 20时34分]"
+        },
+        {
           "title": "“台湾问题是中国自己的事！”特朗普最新表态，岛内震动",
           "url": "https://news.ifeng.com/c/8pqfcPi6t1P",
           "source": "凤凰网",
@@ -182,30 +206,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时13分 ~ 07时15分]"
-        },
-        {
-          "title": "特朗普威胁古巴，委内瑞拉发声",
-          "url": "https://news.ifeng.com/c/8pqpuA2I7mV",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 19时16分]"
-        },
-        {
-          "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
-          "url": "https://news.ifeng.com/c/8pr7YJccLIS",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 19时16分]"
         },
         {
           "title": "美媒：特朗普政府正考虑多种方案，以支持伊朗抗议活动并削弱该国政权",
@@ -429,6 +429,18 @@
           "time_info": "[11时44分 ~ 12时45分]"
         },
         {
+          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时34分]"
+        },
+        {
           "title": "美媒：特朗普盟友将投放超级碗广告宣传“特朗普账户”",
           "url": "https://flash.jin10.com/detail/20260112111415549800",
           "source": "金十数据",
@@ -438,6 +450,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
+        },
+        {
+          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
+          "url": "https://wallstreetcn.com/articles/3763089",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "巴克莱股价下跌，此前特朗普呼吁限制信用卡利率。",
@@ -479,7 +502,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -490,7 +513,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -504,17 +527,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
-        },
-        {
-          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
         },
         {
           "title": "鲍威尔称被调查只因没听特朗普话",
@@ -688,19 +700,6 @@
       "match_count": 8,
       "titles": [
         {
-          "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
-          "url": "https://wallstreetcn.com/articles/3762924",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时15分 ~ 19时16分]"
-        },
-        {
           "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
           "url": "https://wallstreetcn.com/articles/3762924",
           "source": "华尔街见闻",
@@ -711,6 +710,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时17分 ~ 07时15分]"
+        },
+        {
+          "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
+          "url": "https://wallstreetcn.com/articles/3762924",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4,
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时15分 ~ 20时34分]"
         },
         {
           "title": "伊朗局势微妙，鲍威尔被诉，金银再创新高，油价连续走高、美股期货下跌",
@@ -731,11 +744,12 @@
           "url": "https://wallstreetcn.com/articles/3763053",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 19时16分]"
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 20时34分]"
         },
         {
           "title": "美股盘前，明星科技股普跌，英伟达、甲骨文跌超1%、英特尔跌2%。热门中概股走强，金山云涨13%、阿里巴巴涨超4%、百度涨3%。美股银行股普跌，摩根大通下跌2.4%，花旗下跌3.6%，美国银行下跌1.5%，特朗普呼吁给信用卡利率设“10%上限”。",
@@ -826,8 +840,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时23分 ~ 19时16分]"
+          "appearance_count": 7,
+          "time_info": "[15时23分 ~ 20时34分]"
         },
         {
           "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
