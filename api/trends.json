@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T22:20:50.950170+08:00",
-  "total_titles_processed": 2154,
+  "generated_at": "2026-01-15T23:20:03.562629+08:00",
+  "total_titles_processed": 2258,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 91,
+      "match_count": 94,
       "titles": [
         {
           "title": "特朗普：我会去委内瑞拉，委代总统将访美",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时23分 ~ 22时20分]"
+          "appearance_count": 12,
+          "time_info": "[16时23分 ~ 23时20分]"
         },
         {
           "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
@@ -56,6 +56,17 @@
           "time_info": "[00时23分 ~ 09时11分]"
         },
         {
+          "title": "美军航母开往中东，特朗普要“速战速决”？",
+          "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时15分 ~ 23时20分]"
+        },
+        {
           "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
           "url": "https://www.cls.cn/detail/2258223",
           "source": "财联社热门",
@@ -80,19 +91,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时11分 ~ 22时20分]"
-        },
-        {
-          "title": "美军航母开往中东，特朗普要“速战速决”？",
-          "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时15分 ~ 22时20分]"
+          "appearance_count": 19,
+          "time_info": "[09时11分 ~ 23时20分]"
         },
         {
           "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
@@ -103,8 +103,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时18分 ~ 22时20分]"
+          "appearance_count": 9,
+          "time_info": "[18时18分 ~ 23时20分]"
         },
         {
           "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
@@ -176,6 +176,17 @@
           "time_info": "09时11分"
         },
         {
+          "title": "特朗普预计将于三月初敲定2026年生物燃料掺混配额",
+          "url": "https://flash.jin10.com/detail/20260115225958433800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "【特朗普称观望伊朗局势发展】当地时间1月14日下午，美国总统特朗普在白宫对媒体谈及伊朗局势时表示，“我们要先观望局势发展”。他同时指出美国政府收到了“来自伊朗非常积极的声明”。不过他也并未排除美国采取军事行动的可能性。美媒分析指出，特朗普的这番言论“似乎意在缓解外界对局势可能升级为更广泛地区冲突的担忧”。(CCTV国际时讯",
           "url": "https://wallstreetcn.com/livenews/3037300",
           "source": "华尔街见闻-快讯",
@@ -226,7 +237,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -446,6 +457,17 @@
           "time_info": "[04时16分 ~ 05时16分]"
         },
         {
+          "title": "特朗普直播打瞌睡被小女孩发现",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%9B%B4%E6%92%AD%E6%89%93%E7%9E%8C%E7%9D%A1%E8%A2%AB%E5%B0%8F%E5%A5%B3%E5%AD%A9%E5%8F%91%E7%8E%B0%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时19分 ~ 23时20分]"
+        },
+        {
           "title": "美国总统特朗普威胁在明尼苏达州动用《叛乱法案》。",
           "url": "https://flash.jin10.com/detail/20260115210504906800",
           "source": "金十数据",
@@ -477,6 +499,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "贝莱德CEO芬克：下周我将在达沃斯与特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20260115225240448800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "委内瑞拉代总统罗德里格斯：和特朗普讨论了有利于两国的双边合作议程。",
@@ -1043,7 +1076,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 28,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -1053,8 +1086,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时11分 ~ 22时20分]"
+          "appearance_count": 19,
+          "time_info": "[09时11分 ~ 23时20分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -1115,6 +1148,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 01时24分]"
+        },
+        {
+          "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时19分 ~ 23时20分]"
         },
         {
           "title": "科技股重挫拖累美股，美小盘股指跑赢大盘，白银突破93美元，金银比跌破50",
@@ -1188,13 +1232,24 @@
           "time_info": "[06时17分 ~ 07时14分]"
         },
         {
+          "title": "美股集体高开 半导体板块领涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%BF%E5%9D%97%E9%A2%86%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时19分 ~ 23时20分]"
+        },
+        {
           "title": "金十数据整理：每日美股市场要闻速递（2026-01-15）",
           "url": "https://flash.jin10.com/detail/20260115215848815800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1208,6 +1263,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "台积电涨超6%，美股盘中总市值突破1.8万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3038101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "美股盘前，明星科技股走强，阿斯麦(ASML.O)涨超5%、台积电(TSM.N)涨超3%、美光科技(MU.O)涨超2%。",
@@ -1238,7 +1304,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1265,6 +1331,17 @@
           "time_info": "19时15分"
         },
         {
+          "title": "中概指数美股盘初跌超1%，世纪互联跌7%，万国数据跌约3%，小马智行涨约3%，富时A50回吐涨幅",
+          "url": "https://wallstreetcn.com/livenews/3038083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "金十图示：2026年01月14日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260115013047739800",
           "source": "金十数据",
@@ -1274,6 +1351,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260115223844779800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "行业ETF美股盘初多数走高，半导体ETF涨3.26%，科技行业ETF、全球科技股指数ETF至少涨1.57%，网络股指数ETF涨0.67%，能源业ETF跌1.29%。",
+          "url": "https://wallstreetcn.com/livenews/3038075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "美股开盘，道指涨100点、标普500指数涨0.64%、纳指涨0.88%。明星科技股普涨，阿斯麦(ASML.O)涨6.8%，总市值突破5200亿美元；台积电(TSM.N)涨4%和美光科技(MU.O)涨3%。纳斯达克中国金龙指数涨0.1%。",
+          "url": "https://flash.jin10.com/detail/20260115223034290800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "摩根士丹利：第四季度净营收178.9亿美元，市场预估176.2亿美元。 第四季度每股收益2.68美元。 第四季度财富管理净营收84.3亿美元，同比增长13%，市场预估83.4亿美元。 第四季度股票销售和交易业务营收36.7亿美元，同比增长10%，市场预估35.5亿美元。 第四季度FICC业务销售和交易营收17.6亿美元，市场预估19.2亿美元。 摩根士丹利美股盘前涨近1.4%。",
@@ -1300,8 +1410,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 22时20分]"
+          "appearance_count": 4,
+          "time_info": "[21时36分 ~ 23时20分]"
         },
         {
           "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
@@ -1397,11 +1507,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时32分 ~ 22时20分]"
+          "appearance_count": 6,
+          "time_info": "[20时32分 ~ 23时20分]"
         },
         {
           "title": "UP主大白话解读DeepSeek新论文",
@@ -1462,7 +1573,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         }
@@ -1486,11 +1597,13 @@
             9,
             19,
             22,
-            24
+            24,
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时36分 ~ 22时20分]"
+          "appearance_count": 16,
+          "time_info": "[12时36分 ~ 23时20分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
