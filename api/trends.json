@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T19:15:58.548341+08:00",
-  "total_titles_processed": 1839,
+  "generated_at": "2026-01-15T20:33:11.890311+08:00",
+  "total_titles_processed": 1956,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 82,
+      "match_count": 86,
       "titles": [
         {
           "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时36分 ~ 18时19分]"
+        },
+        {
+          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
+          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时23分 ~ 20时33分]"
         },
         {
           "title": "特朗普特使秘密见了伊朗末代王储",
@@ -59,17 +71,6 @@
           "time_info": "[12时36分 ~ 19时15分]"
         },
         {
-          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
-          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时23分 ~ 19时15分]"
-        },
-        {
           "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
           "url": "https://wallstreetcn.com/articles/3763310",
           "source": "华尔街见闻",
@@ -79,8 +80,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时11分 ~ 19时15分]"
+          "appearance_count": 15,
+          "time_info": "[09时11分 ~ 20时33分]"
+        },
+        {
+          "title": "美军航母开往中东，特朗普要“速战速决”？",
+          "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 20时33分]"
         },
         {
           "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
@@ -163,17 +175,6 @@
           "time_info": "05时16分"
         },
         {
-          "title": "美军航母开往中东，特朗普要“速战速决”？",
-          "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
           "title": "德国财长：敦促欧洲在特朗普时代展现强硬立场",
           "url": "https://wallstreetcn.com/livenews/3037193",
           "source": "华尔街见闻-快讯",
@@ -183,6 +184,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
+          "url": "https://news.ifeng.com/c/8pvxjHceg37",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时18分 ~ 20时33分]"
         },
         {
           "title": "克里姆林宫就特朗普称泽连斯基阻挠乌克兰和平协议一事回应：特朗普说得对。",
@@ -254,17 +267,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时23分 ~ 19时15分]"
-        },
-        {
-          "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
-          "url": "https://news.ifeng.com/c/8pvxjHceg37",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时18分 ~ 19时15分]"
         },
         {
           "title": "特朗普再批鲍威尔",
@@ -505,7 +507,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -530,6 +532,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "伊朗驻巴基斯坦大使表示，美国总统特朗普已告知伊朗他无意发动攻击，并要求德黑兰保持克制。",
+          "url": "https://flash.jin10.com/detail/20260115195255375800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         },
         {
           "title": "美国总统特朗普：已被告知伊朗的“杀戮”正在停止，没有处决计划。",
@@ -719,6 +732,17 @@
           "time_info": "06时17分"
         },
         {
+          "title": "美国总统特朗普：希望伊朗继续避免使用死刑。",
+          "url": "https://flash.jin10.com/detail/20260115192729557800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
           "title": "花旗警告称特朗普设置信用卡利率上限的想法可能导致经济放缓",
           "url": "https://wallstreetcn.com/livenews/3037280",
           "source": "华尔街见闻-快讯",
@@ -761,6 +785,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗抗议者不会被判处死刑，这是个好消息。",
+          "url": "https://flash.jin10.com/detail/20260115192711109800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         },
         {
           "title": "特朗普称“总会有办法解决”格陵兰岛问题",
@@ -895,6 +930,17 @@
           "time_info": "05时16分"
         },
         {
+          "title": "特朗普称“阻挠达成俄乌和平协议的人是泽连斯基”，克宫回应",
+          "url": "https://wallstreetcn.com/livenews/3037965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
           "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决。 标普500指数维持0.5%的跌幅，纳指跌超0.8%，半导体指数跌0.9%，银行指数跌1.1%。 标普1500服装指数跌1.3%，刷新日低。耐克、露露柠檬刷新日低。",
           "url": "https://wallstreetcn.com/livenews/3037168",
           "source": "华尔街见闻-快讯",
@@ -952,8 +998,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时11分 ~ 19时15分]"
+          "appearance_count": 15,
+          "time_info": "[09时11分 ~ 20时33分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -1093,7 +1139,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -1137,7 +1183,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -1230,7 +1276,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
@@ -1247,6 +1293,17 @@
           "time_info": "[00时23分 ~ 09时11分]"
         },
         {
+          "title": "DeepSeek 梁文锋旗下幻方量化 2025 年收益率 56.6%，如何评价这一业绩？",
+          "url": "https://www.zhihu.com/question/1995072623625855863",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 20时33分]"
+        },
+        {
           "title": "UP主大白话解读DeepSeek新论文",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%A7%E7%99%BD%E8%AF%9D%E8%A7%A3%E8%AF%BBDeepSeek%E6%96%B0%E8%AE%BA%E6%96%87",
           "source": "bilibili 热搜",
@@ -1256,6 +1313,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "摩根士丹利邢自强：2040年将迎来中国医药界的DeepSeek时刻",
+          "url": "https://wallstreetcn.com/livenews/3037962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         }
       ]
     },
@@ -1274,11 +1342,12 @@
             8,
             16,
             15,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时36分 ~ 19时15分]"
+          "appearance_count": 12,
+          "time_info": "[12时36分 ~ 20时33分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
