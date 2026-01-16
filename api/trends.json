@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T15:21:41.721704+08:00",
-  "total_titles_processed": 1340,
+  "generated_at": "2026-01-16T16:23:01.324364+08:00",
+  "total_titles_processed": 1442,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 77,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时13分 ~ 15时21分]"
+          "appearance_count": 9,
+          "time_info": "[09时13分 ~ 16时23分]"
         },
         {
           "title": "她给特朗普献了份大礼，诺奖气坏了",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时13分 ~ 15时21分]"
+          "appearance_count": 9,
+          "time_info": "[09时13分 ~ 16时23分]"
         },
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -61,8 +61,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时26分 ~ 15时21分]"
+          "appearance_count": 8,
+          "time_info": "[11时26分 ~ 16时23分]"
         },
         {
           "title": "梦想成真!特朗普喜提二手诺奖",
@@ -73,8 +73,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时25分 ~ 15时21分]"
+          "appearance_count": 5,
+          "time_info": "[14时25分 ~ 16时23分]"
+        },
+        {
+          "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
+          "url": "https://wallstreetcn.com/articles/3763392",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时13分 ~ 16时23分]"
         },
         {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
@@ -86,18 +98,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时28分 ~ 05时17分]"
-        },
-        {
-          "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
-          "url": "https://wallstreetcn.com/articles/3763392",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时13分 ~ 15时21分]"
         },
         {
           "title": "美国总统特朗普：欧盟对美国科技公司非常不公平。",
@@ -153,6 +153,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
+          "url": "https://wallstreetcn.com/articles/3763411",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 16时23分]"
         },
         {
           "title": "白宫发布关于美国总统特朗普医疗保健计划的清单。 特朗普希望降低保费。 特朗普要求国会山编纂关于降低医药成本的（立法）协议。",
@@ -263,17 +275,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时21分 ~ 14时26分]"
-        },
-        {
-          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
-          "url": "https://wallstreetcn.com/articles/3763411",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 13时21分]"
         },
         {
           "title": "邀记者畅饮放了5天的牛奶，特朗普：还挺新鲜的",
@@ -430,6 +431,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时35分 ~ 13时21分]"
+        },
+        {
+          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
+          "url": "https://www.zhihu.com/question/1995430633518944539",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
         },
         {
           "title": "市场消息：美国波士顿一名法官打算发布一项命令，旨在阻止特朗普政府拘留并驱逐那些对政府处理亲巴勒斯坦校园活动人士方式提出质疑的学者。",
@@ -890,6 +902,18 @@
           "time_info": "[00时28分 ~ 07时16分]"
         },
         {
+          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时13分 ~ 16时23分]"
+        },
+        {
           "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
           "url": "https://wallstreetcn.com/articles/3763348",
           "source": "华尔街见闻",
@@ -902,17 +926,6 @@
           "time_info": "[00时28分 ~ 06时17分]"
         },
         {
-          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
-          "url": "https://wallstreetcn.com/articles/3763348",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时13分 ~ 15时21分]"
-        },
-        {
           "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2259656",
           "source": "财联社热门",
@@ -923,6 +936,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时15分 ~ 13时21分]"
+        },
+        {
+          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
+          "url": "https://www.cls.cn/detail/2259861",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时35分 ~ 16时23分]"
         },
         {
           "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
@@ -947,20 +974,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时15分 ~ 07时16分]"
-        },
-        {
-          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
-          "url": "https://www.cls.cn/detail/2259861",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时35分 ~ 15时21分]"
         },
         {
           "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览（美股收盘）",
@@ -1119,8 +1132,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时35分 ~ 15时21分]"
+          "appearance_count": 7,
+          "time_info": "[12时35分 ~ 16时23分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
