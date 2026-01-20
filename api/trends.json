@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T20:36:55.694676+08:00",
-  "total_titles_processed": 1818,
+  "generated_at": "2026-01-20T21:42:53.328172+08:00",
+  "total_titles_processed": 1922,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 92,
+      "match_count": 96,
       "titles": [
         {
           "title": "特朗普致信挪威首相：我不再有义务只考虑和平",
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时22分 ~ 20时36分]"
+          "appearance_count": 24,
+          "time_info": "[00时22分 ~ 21时42分]"
         },
         {
           "title": "会武力夺岛？特朗普：无可奉告",
@@ -91,11 +91,12 @@
             10,
             6,
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时29分 ~ 20时36分]"
+          "appearance_count": 13,
+          "time_info": "[11时29分 ~ 21时42分]"
         },
         {
           "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
@@ -149,6 +150,17 @@
           "time_info": "[09时12分 ~ 17时28分]"
         },
         {
+          "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
+          "url": "https://news.ifeng.com/c/8q4QMT6vE0S",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时28分 ~ 21时42分]"
+        },
+        {
           "title": "特朗普继续威胁，“100%加税，欧洲等着吧”",
           "url": "https://news.ifeng.com/c/8q4ARvfivFN",
           "source": "凤凰网",
@@ -176,17 +188,6 @@
           "time_info": "[09时12分 ~ 16时24分]"
         },
         {
-          "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
-          "url": "https://news.ifeng.com/c/8q4QMT6vE0S",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 20时36分]"
-        },
-        {
           "title": "手握“10万亿美元武器”！分析师热议：欧洲是否会祭出“资本战”反击特朗普？",
           "url": "https://www.cls.cn/detail/2263060",
           "source": "财联社热门",
@@ -198,6 +199,32 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时40分 ~ 17时28分]"
+        },
+        {
+          "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
+          "url": "https://wallstreetcn.com/articles/3763675",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 21时42分]"
+        },
+        {
+          "title": "“特朗普计划4月访华”，中方回应",
+          "url": "https://www.cls.cn/detail/2263523",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时28分 ~ 21时42分]"
         },
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -220,6 +247,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时20分]"
+        },
+        {
+          "title": "关税、热战、AI！世界目光齐聚达沃斯 特朗普携“史上最大代表团”参会",
+          "url": "https://www.cls.cn/detail/2263371",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时24分 ~ 21时42分]"
         },
         {
           "title": "美国总统特朗普在其社交平台“真实社交”上发图，暗示吞并丹麦自治领地格陵兰岛。（CCTV国际时讯）",
@@ -245,6 +286,22 @@
           "time_info": "[12时40分 ~ 15时23分]"
         },
         {
+          "title": "外交部回应特朗普计划4月访华",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%924%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            18,
+            13,
+            15,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时24分 ~ 21时42分]"
+        },
+        {
           "title": "特朗普“颠覆性”的政策手段引燃贵金属行情",
           "url": "https://flash.jin10.com/detail/20260120161310643800",
           "source": "金十数据",
@@ -262,9 +319,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
+        },
+        {
+          "title": "特朗普执政一年都干了什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%A7%E6%94%BF%E4%B8%80%E5%B9%B4%E9%83%BD%E5%B9%B2%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         },
         {
           "title": "丹麦外交部长：相信英国首相斯塔默已与美国总统特朗普直接通话。",
@@ -289,18 +357,6 @@
           "time_info": "15时23分"
         },
         {
-          "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
-          "url": "https://wallstreetcn.com/articles/3763675",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 20时36分]"
-        },
-        {
           "title": "美国总统特朗普：我将对法国葡萄酒和香槟征收200%的关税，法国总统马克龙将加入和平委员会。",
           "url": "https://flash.jin10.com/detail/20260120125358466800",
           "source": "金十数据",
@@ -312,45 +368,28 @@
           "time_info": "13时25分"
         },
         {
-          "title": "关税、热战、AI！世界目光齐聚达沃斯 特朗普携“史上最大代表团”参会",
-          "url": "https://www.cls.cn/detail/2263371",
-          "source": "财联社热门",
+          "title": "不可能既要又要，诺贝尔和平奖得主批特朗普政府",
+          "url": "https://news.ifeng.com/c/8q4TQszY1yW",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时24分 ~ 20时36分]"
-        },
-        {
-          "title": "外交部回应特朗普计划4月访华",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%924%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            18,
-            13,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时24分 ~ 20时36分]"
-        },
-        {
-          "title": "“特朗普计划4月访华”，中方回应",
-          "url": "https://www.cls.cn/detail/2263523",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时28分 ~ 20时36分]"
+          "time_info": "[18时22分 ~ 21时42分]"
+        },
+        {
+          "title": "特朗普 2.0 任期与其上一届任期相比，他的执政思路有变化吗？背后有哪些深层的逻辑？",
+          "url": "https://www.zhihu.com/question/1996539214104322510",
+          "source": "知乎",
+          "ranks": [
+            15,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 21时42分]"
         },
         {
           "title": "特朗普将于周三欧洲中部时间下午2:30在达沃斯论坛发表特别讲话。",
@@ -374,17 +413,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时23分 ~ 03时17分]"
-        },
-        {
-          "title": "不可能既要又要，诺贝尔和平奖得主批特朗普政府",
-          "url": "https://news.ifeng.com/c/8q4TQszY1yW",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 20时36分]"
         },
         {
           "title": "欧盟将召开特别峰会应对特朗普“夺岛”关税",
@@ -439,18 +467,6 @@
           "time_info": "[02时24分 ~ 04时18分]"
         },
         {
-          "title": "特朗普 2.0 任期与其上一届任期相比，他的执政思路有变化吗？背后有哪些深层的逻辑？",
-          "url": "https://www.zhihu.com/question/1996539214104322510",
-          "source": "知乎",
-          "ranks": [
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 20时36分]"
-        },
-        {
           "title": "报道：法国总统将拒绝特朗普“和平委员会”的加入邀请",
           "url": "https://wallstreetcn.com/livenews/3039877",
           "source": "华尔街见闻-快讯",
@@ -462,6 +478,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时24分 ~ 04时18分]"
+        },
+        {
+          "title": "特朗普计划于4月访华？外交部回应",
+          "url": "https://www.toutiao.com/trending/7596273635871031359/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 21时42分]"
         },
         {
           "title": "经济学家：特朗普加征关税或使英国陷入衰退",
@@ -548,6 +575,18 @@
           "time_info": "[13时25分 ~ 14时28分]"
         },
         {
+          "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32424436",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时42分]"
+        },
+        {
           "title": "特朗普想打造新版联合国吗",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E6%89%93%E9%80%A0%E6%96%B0%E7%89%88%E8%81%94%E5%90%88%E5%9B%BD%E5%90%97",
           "source": "bilibili 热搜",
@@ -619,17 +658,6 @@
           "time_info": "[18时22分 ~ 19时20分]"
         },
         {
-          "title": "特朗普计划于4月访华？外交部回应",
-          "url": "https://www.toutiao.com/trending/7596273635871031359/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时36分]"
-        },
-        {
           "title": "乌克兰总统泽连斯基：乌克兰受邀加入特朗普的和平委员会，外交官们正在为此努力。",
           "url": "https://flash.jin10.com/detail/20260120185147206800",
           "source": "金十数据",
@@ -639,6 +667,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
+        },
+        {
+          "title": "英国对俄罗斯总统普京邀请加入美国总统特朗普和平委员会表示担忧。",
+          "url": "https://flash.jin10.com/detail/20260120213328450800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         },
         {
           "title": "特朗普展示马克龙短信截图",
@@ -716,6 +755,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
+        },
+        {
+          "title": "美国财长贝森特：美国总统特朗普认为，格陵兰岛对“金色圆顶”导弹防御系统至关重要。",
+          "url": "https://flash.jin10.com/detail/20260120213302531800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         },
         {
           "title": "芬兰总统：欧盟拥有多种工具说服特朗普撤销格陵兰岛威胁",
@@ -861,15 +911,15 @@
           "time_info": "16时24分"
         },
         {
-          "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32424436",
-          "source": "澎湃新闻",
+          "title": "特朗普称英“愚蠢至极”",
+          "url": "https://www.douyin.com/hot/2374249",
+          "source": "抖音",
           "ranks": [
-            17
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时36分"
+          "time_info": "21时42分"
         },
         {
           "title": "美国总统特朗普，欧洲应关注俄乌，而“不要关注格陵兰”。",
@@ -955,7 +1005,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -1084,7 +1134,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
@@ -1092,11 +1142,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时16分 ~ 20时36分]"
+          "appearance_count": 15,
+          "time_info": "[07时16分 ~ 21时42分]"
         },
         {
           "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
@@ -1137,11 +1188,23 @@
           "url": "https://wallstreetcn.com/articles/3763668",
           "source": "华尔街见闻",
           "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时42分]"
+        },
+        {
+          "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2264127",
+          "source": "财联社热门",
+          "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时36分"
+          "time_info": "21时42分"
         },
         {
           "title": "3M四季度净销售额61亿美元，同比增长1.5%。 调整后持续经营业务每股收益为1.83美元，预估1.80美元。 3M预计2026年经调整后销售总额增长4%。 3M预计2026年调整后有机销售额同比增长约3%。 3M美股盘前跌0.6%。",
@@ -1150,7 +1213,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -1169,7 +1232,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
@@ -1218,6 +1281,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "ServiceNow美股盘前涨近5%，报道称OpenAI与ServiceNow在商业软件领域达成AI Agent合作协议。",
+          "url": "https://wallstreetcn.com/livenews/3040488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
+          "title": "OpenAI与ServiceNow在商业软件领域达成AI Agent合作协议。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3040487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         },
         {
           "title": "OpenAI首席财务官：2025年年化营收突破200亿美元",
@@ -1298,11 +1383,12 @@
           "ranks": [
             13,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 20时36分]"
+          "appearance_count": 5,
+          "time_info": "[17时28分 ~ 21时42分]"
         },
         {
           "title": "谷歌Gemini商业化高歌猛进 API调用量5个月暴增140%",
