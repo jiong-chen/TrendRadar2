@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T15:22:31.254192+08:00",
-  "total_titles_processed": 1467,
+  "generated_at": "2026-01-23T16:23:05.739250+08:00",
+  "total_titles_processed": 1584,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 95,
+      "match_count": 102,
       "titles": [
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -32,6 +32,18 @@
           "time_info": "[00时27分 ~ 09时13分]"
         },
         {
+          "title": "特朗普称加拿大因美国而存在，加总理回应",
+          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时13分 ~ 16时23分]"
+        },
+        {
           "title": "特朗普180度转折，欧洲懵了",
           "url": "https://wallstreetcn.com/articles/3763911",
           "source": "华尔街见闻",
@@ -46,18 +58,6 @@
           "time_info": "[00时27分 ~ 14时26分]"
         },
         {
-          "title": "特朗普称加拿大因美国而存在，加总理回应",
-          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时13分 ~ 15时22分]"
-        },
-        {
           "title": "特朗普达沃斯演讲，被群嘲了",
           "url": "https://news.ifeng.com/c/8q7oOaAst69",
           "source": "凤凰网",
@@ -69,6 +69,18 @@
           "time_info": "[00时27分 ~ 13时24分]"
         },
         {
+          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
+          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时29分 ~ 16时23分]"
+        },
+        {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
           "url": "https://news.ifeng.com/c/8q7nDFVG9w6",
           "source": "凤凰网",
@@ -77,8 +89,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 15时22分]"
+          "appearance_count": 21,
+          "time_info": "[00时27分 ~ 16时23分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -90,6 +102,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时27分 ~ 09时13分]"
+        },
+        {
+          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
+          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时29分 ~ 16时23分]"
         },
         {
           "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
@@ -173,28 +197,16 @@
           "time_info": "[01时24分 ~ 07时17分]"
         },
         {
-          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
-          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
+          "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
+          "url": "https://news.ifeng.com/c/8q96HMKxd1u",
           "source": "凤凰网",
           "ranks": [
             5,
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时29分 ~ 15时22分]"
-        },
-        {
-          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
-          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时29分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[14时26分 ~ 16时23分]"
         },
         {
           "title": "特朗普执政一年把美国推向何方",
@@ -223,16 +235,26 @@
           "time_info": "[00时27分 ~ 01时24分]"
         },
         {
-          "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
-          "url": "https://news.ifeng.com/c/8q96HMKxd1u",
+          "title": "达沃斯后，特朗普狂发80条帖子…",
+          "url": "https://news.ifeng.com/c/8q9DLsy9hjV",
           "source": "凤凰网",
           "ranks": [
-            5,
-            4
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 16时23分]"
+        },
+        {
+          "title": "特朗普称将于4月访华 中方回应",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E%20%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时26分 ~ 15时22分]"
+          "time_info": "[16时22分 ~ 16时23分]"
         },
         {
           "title": "德国总理默茨：特朗普放弃吞并格陵兰的计划，这让人感到欣慰。",
@@ -255,17 +277,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
-        },
-        {
-          "title": "达沃斯后，特朗普狂发80条帖子…",
-          "url": "https://news.ifeng.com/c/8q9DLsy9hjV",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
         },
         {
           "title": "美国总统特朗普声称：我并不热衷于401K计划 。",
@@ -377,6 +388,18 @@
           "time_info": "[12时38分 ~ 14时26分]"
         },
         {
+          "title": "可“全面进入”格陵兰岛？特朗普透露协议细节，又被“光速打脸”！",
+          "url": "https://www.cls.cn/detail/2267216",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 16时23分]"
+        },
+        {
           "title": "法国用特朗普表情包回怼特朗普",
           "url": "https://www.toutiao.com/trending/7597353774646624262/",
           "source": "今日头条",
@@ -398,6 +421,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 00时28分]"
+        },
+        {
+          "title": "特朗普称将于4月访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2267695",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
+        },
+        {
+          "title": "特朗普称将于4月访华 中方回应",
+          "url": "https://www.douyin.com/hot/2377206",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
         },
         {
           "title": "美国总统特朗普：一些“和平委员会”成员国已经出资10亿美元，其他国家出资更多。",
@@ -472,6 +517,17 @@
           "time_info": "[02时23分 ~ 03时21分]"
         },
         {
+          "title": "外交部回应特朗普称将于4月访问中国",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
+        },
+        {
           "title": "中方回应特朗普达沃斯言论",
           "url": "https://www.toutiao.com/trending/7598085406047453226/",
           "source": "今日头条",
@@ -481,6 +537,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 07时17分]"
+        },
+        {
+          "title": "外交部回应特朗普称将于4月访问中国",
+          "url": "https://www.toutiao.com/trending/7597610597631033407/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
         },
         {
           "title": "特朗普称与泽连斯基会晤“非常好”",
@@ -514,6 +581,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "分析师：黄金越来越像是对冲特朗普政策不确定性的工具",
+          "url": "https://flash.jin10.com/detail/20260123154520032800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "美国参议员沃伦警告AI债务隐忧，敦促特朗普政府调查“不透明”的数据中心融资",
@@ -580,17 +658,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
-        },
-        {
-          "title": "可“全面进入”格陵兰岛？特朗普透露协议细节，又被“光速打脸”！",
-          "url": "https://www.cls.cn/detail/2267216",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
         },
         {
           "title": "美国总统特朗普：意大利需获得立法部门批准才能加入“和平委员会”。",
@@ -679,6 +746,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "法国外交部长：目前尚无北约秘书长与美国总统特朗普就格陵兰岛达成协议的细节。",
+          "url": "https://flash.jin10.com/detail/20260123153716040800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "罗马尼亚总统丹：仍在分析罗马尼亚是否能够加入美国总统特朗普的和平委员会。",
@@ -1380,7 +1458,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -1402,7 +1480,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         }
@@ -1485,8 +1563,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "美元指数DXY短线下跌25点，现报98.27。",
+          "url": "https://flash.jin10.com/detail/20260123154510389800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
         {
           "title": "美元指数DXY日内跌超0.50%，现报98.30。",
           "url": "https://flash.jin10.com/detail/20260123044526005800",
@@ -1562,6 +1651,23 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[02时23分 ~ 09时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "仅用半小时！Claude Code“终结”英伟达“最强护城河”？",
+          "url": "https://wallstreetcn.com/articles/3764001",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
         }
       ]
     }
