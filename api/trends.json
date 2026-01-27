@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T18:22:31.041008+08:00",
-  "total_titles_processed": 1643,
+  "generated_at": "2026-01-27T19:19:46.620882+08:00",
+  "total_titles_processed": 1752,
   "failed_sources": [],
   "trends": [
     {
@@ -76,8 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时17分 ~ 18时22分]"
+          "appearance_count": 15,
+          "time_info": "[07时17分 ~ 19时19分]"
         },
         {
           "title": "美伊局势持续紧张：“哈梅内伊进入地堡”，特朗普表态自相矛盾",
@@ -104,6 +104,20 @@
           "time_info": "[00时26分 ~ 07时17分]"
         },
         {
+          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时23分 ~ 19时19分]"
+        },
+        {
           "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
           "url": "https://www.cls.cn/detail/2270513",
           "source": "财联社热门",
@@ -126,20 +140,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时26分 ~ 05时19分]"
-        },
-        {
-          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时23分 ~ 18时22分]"
         },
         {
           "title": "特朗普：提高对韩国多种商品关税税率至25%",
@@ -227,6 +227,17 @@
           "time_info": "[04时20分 ~ 05时19分]"
         },
         {
+          "title": "美媒：特朗普一周内两次妥协",
+          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 19时19分]"
+        },
+        {
           "title": "美国白宫：总统特朗普并未承诺允许进行地方调查。",
           "url": "https://flash.jin10.com/detail/20260127024457827800",
           "source": "金十数据",
@@ -237,17 +248,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 04时20分]"
-        },
-        {
-          "title": "美媒：特朗普一周内两次妥协",
-          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 18时22分]"
         },
         {
           "title": "美国稀土上市公司披露获特朗普政府投资意向 年内股价接近翻3倍",
@@ -780,8 +780,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时17分 ~ 18时22分]"
+          "appearance_count": 15,
+          "time_info": "[07时17分 ~ 19时19分]"
         },
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -981,7 +981,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "微软云计算与人工智能业务主管斯科特·古特里（Scott Guthrie）：首批Maia 200芯片单位将分配给微软的“超级智能（superintelligence）”团队，用于生成数据以改进下一代人工智能（AI）模型。 这些芯片还将用于驱动面向企业的Copilot助手，以及微软向云客户租用的各种AI模型（包括OpenAI的最新模型）。 第二代AI芯片Maia 200在某些AI任务上的性能优于谷歌和亚马逊的同类半导体。 Maia 200也是微软部署过的效率最高的推理（Inference）系统。 目前已在设计该芯片的继任者Maia 300。",
@@ -1013,7 +1013,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -1024,9 +1024,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        },
+        {
+          "title": "欧盟就谷歌违反《数字市场法》法规启动法律程序",
+          "url": "https://flash.jin10.com/detail/20260127183055031800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "谷歌法律顾问：Android从设计上就是开放的，我们已经在根据《数字市场法》向竞争对手发放搜索数据获取许可。",
@@ -1035,9 +1046,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        },
+        {
+          "title": "欧盟就谷歌违反《数字市场法》法规启动法律程序",
+          "url": "https://wallstreetcn.com/livenews/3044717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "欧盟：第二项程序涉及谷歌在《数字市场法案》（DMA）项下的义务，即在公平条件下，向第三方在线搜索引擎提供对Google搜索所持有的匿名化排名及相关数据的访问权限。",
@@ -1046,7 +1068,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -1057,7 +1079,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -1068,7 +1090,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -1096,7 +1118,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -1119,7 +1141,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -1252,11 +1274,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时23分 ~ 18时22分]"
+          "appearance_count": 8,
+          "time_info": "[15时23分 ~ 19时19分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -1264,11 +1287,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时25分 ~ 18时22分]"
+          "appearance_count": 6,
+          "time_info": "[16时25分 ~ 19时19分]"
         },
         {
           "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
@@ -1292,11 +1316,12 @@
           "url": "https://www.zhihu.com/question/1999268803641639542",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 19时19分]"
         },
         {
           "title": "Hugging Face最新数据显示，Qwen衍生模型数量突破20万，成为全球首个达成此目标的开源大模型。 同时，Qwen系列模型下载量突破10亿次，平均每天被开发者们下载110万次，稳居全球开源大模型TOP1。",
