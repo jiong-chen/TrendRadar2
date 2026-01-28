@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T11:41:16.682672+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2026-01-28T12:40:51.364917+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 59,
       "titles": [
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 11时41分]"
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 12时40分]"
         },
         {
           "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 11时41分]"
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 12时40分]"
         },
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
@@ -49,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 11时41分]"
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 12时40分]"
         },
         {
           "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
@@ -64,15 +64,26 @@
           "time_info": "07时17分"
         },
         {
-          "title": "外媒：特朗普声称自己没有阿尔茨海默病，但忘了这个病名",
-          "url": "https://flash.jin10.com/detail/20260128113831950800",
-          "source": "金十数据",
+          "title": "特朗普放狠话：若民主党赢得中期选举，后果会很糟糕",
+          "url": "https://wallstreetcn.com/livenews/3045261",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时41分"
+          "time_info": "12时40分"
+        },
+        {
+          "title": "特朗普放狠话：若民主党赢得中期选举 后果会很糟糕",
+          "url": "https://flash.jin10.com/detail/20260128123413943800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "美国总统特朗普：美元表现很好。 日本一直都向让货币贬值。 可以让美元像一个Yo Yo（悠悠球）一样波动。",
@@ -144,6 +155,18 @@
           "time_info": "[01时24分 ~ 02时31分]"
         },
         {
+          "title": "外媒：特朗普声称自己没有阿尔茨海默病，但忘了这个病名",
+          "url": "https://flash.jin10.com/detail/20260128113831950800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时40分]"
+        },
+        {
           "title": "美国总统特朗普所谓“和平委员会”料将让（开发商出身的）特朗普掌握对加沙的广泛权力。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3044930",
           "source": "华尔街见闻-快讯",
@@ -206,6 +229,18 @@
           "time_info": "[03时23分 ~ 04时18分]"
         },
         {
+          "title": "特朗普，两天内动手？",
+          "url": "https://news.ifeng.com/c/8qGwey6pidp",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 12时40分]"
+        },
+        {
           "title": "美国总统特朗普：美方准备支持叙利亚重建。",
           "url": "https://wallstreetcn.com/livenews/3044943",
           "source": "华尔街见闻-快讯",
@@ -219,15 +254,26 @@
           "time_info": "[03时23分 ~ 05时14分]"
         },
         {
-          "title": "特朗普，两天内动手？",
-          "url": "https://news.ifeng.com/c/8qGwey6pidp",
-          "source": "凤凰网",
+          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
+          "url": "https://wallstreetcn.com/articles/3764299",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时14分 ~ 11时41分]"
+          "time_info": "[11时41分 ~ 12时40分]"
+        },
+        {
+          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
+          "url": "https://www.cls.cn/detail/2271977",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时40分]"
         },
         {
           "title": "叙利亚总统府表示，总统沙拉向美国总统特朗普强调，必须统一国际努力，以阻止包括“伊斯兰国”在内的“恐怖组织”卷土重来。",
@@ -278,17 +324,6 @@
           "time_info": "[06时18分 ~ 07时17分]"
         },
         {
-          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
-          "url": "https://wallstreetcn.com/articles/3764299",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
           "title": "美国法官判定Martha旗下Vineyard风电项目胜诉，此前该国总统特朗普叫停其风电项目。",
           "url": "https://wallstreetcn.com/livenews/3044972",
           "source": "华尔街见闻-快讯",
@@ -311,6 +346,17 @@
           "time_info": "07时17分"
         },
         {
+          "title": "特朗普称还有一支舰队正驶向伊朗",
+          "url": "https://www.douyin.com/hot/2381636",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "美国总统特朗普：正在努力就E15混合燃料达成协议。我会毫不犹豫地签署相关法案。",
           "url": "https://flash.jin10.com/detail/20260128065145858800",
           "source": "金十数据",
@@ -331,17 +377,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
-        },
-        {
-          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
-          "url": "https://www.cls.cn/detail/2271977",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
         },
         {
           "title": "投资者押注辛鲍姆能保护墨西哥比索免受特朗普冲击",
@@ -666,8 +701,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 11时41分]"
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 12时40分]"
         },
         {
           "title": "金十图示：2026年01月27日（周二）美股热门股票行情一览（美股收盘）",
@@ -809,7 +844,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
@@ -839,11 +874,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 11时41分]"
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 12时40分]"
         },
         {
           "title": "美元指数DXY短线走低超50点，特朗普释放让美元走弱的信号。",
@@ -866,6 +902,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "美元指数跌至近4年来低点",
+          "url": "https://wallstreetcn.com/livenews/3045248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "一项新兴市场货币指数连续第四个交易日上涨，彭博追踪的22种发展中市场货币中，有16种兑美元走强。该指数纳入了利率回报因素，随着美元回落，该指数目前处于纪录高位。",
@@ -929,6 +976,18 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "前西班牙主帅因过度依赖 ChatGPT 做决策、战绩惨淡被解雇，如何看待此事？",
+          "url": "https://www.zhihu.com/question/1999186592472986900",
+          "source": "知乎",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时40分]"
+        },
+        {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
           "url": "https://wallstreetcn.com/livenews/3044925",
           "source": "华尔街见闻-快讯",
@@ -939,17 +998,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 03时23分]"
-        },
-        {
-          "title": "前西班牙主帅因过度依赖 ChatGPT 做决策、战绩惨淡被解雇，如何看待此事？",
-          "url": "https://www.zhihu.com/question/1999186592472986900",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
         },
         {
           "title": "软银拟向OpenAI追投至多300亿美元",
@@ -1043,8 +1091,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 11时41分]"
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 12时40分]"
         },
         {
           "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",
@@ -1089,7 +1137,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         }
@@ -1109,8 +1157,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 11时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 12时40分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -1120,11 +1168,12 @@
             5,
             4,
             15,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 11时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 12时40分]"
         },
         {
           "title": "如何评价 DeepSeek-OCR-2 模型？",
