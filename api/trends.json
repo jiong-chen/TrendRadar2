@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T03:42:27.967787+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-02-04T04:30:54.748847+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 03时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 04时30分]"
         },
         {
           "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 03时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 04时30分]"
         },
         {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 03时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 04时30分]"
         },
         {
           "title": "城堡投资创始人格里芬：美国总统特朗普提名的美联储主席人选是“非常稳妥的选择”。",
@@ -52,27 +52,29 @@
           "time_info": "00时45分"
         },
         {
-          "title": "美国众议院批准政府融资法案，将结束局部停摆。 后续，法案将移交给总统特朗普签字为法律。 标普500指数跌幅收窄至不足1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3049293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
           "title": "比特币创特朗普第二次当选为美国总统以来的新低，目前跌超5%，逼近7.4万美元。",
           "url": "https://wallstreetcn.com/livenews/3049277",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            17
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时48分 ~ 04时30分]"
+        },
+        {
+          "title": "美国众议院批准政府融资法案，将结束局部停摆。 后续，法案将移交给总统特朗普签字为法律。 标普500指数跌幅收窄至不足1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3049293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时48分 ~ 03时42分]"
+          "time_info": "[03时42分 ~ 04时30分]"
         },
         {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
@@ -84,6 +86,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时44分 ~ 01时53分]"
+        },
+        {
+          "title": "市场消息：美国众议院批准拨款法案以结束政府停摆；法案将送交美国总统特朗普签署成法。",
+          "url": "https://flash.jin10.com/detail/20260204031034048800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时42分 ~ 04时30分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普觉得，政府关门只会伤害经济。",
@@ -98,6 +112,29 @@
           "time_info": "[02时48分 ~ 03时42分]"
         },
         {
+          "title": "特朗普与哥伦比亚总统佩特罗会晤，讨论打击毒品走私",
+          "url": "https://wallstreetcn.com/livenews/3049283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时42分 ~ 04时30分]"
+        },
+        {
+          "title": "特朗普称有问题的是比尔盖茨那些人",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9C%89%E9%97%AE%E9%A2%98%E7%9A%84%E6%98%AF%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E9%82%A3%E4%BA%9B%E4%BA%BA%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 04时30分]"
+        },
+        {
           "title": "白宫新闻秘书：特朗普在伊朗问题上有很多选项。",
           "url": "https://flash.jin10.com/detail/20260204022425976800",
           "source": "金十数据",
@@ -109,17 +146,6 @@
           "time_info": "02时48分"
         },
         {
-          "title": "市场消息：美国众议院批准拨款法案以结束政府停摆；法案将送交美国总统特朗普签署成法。",
-          "url": "https://flash.jin10.com/detail/20260204031034048800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
           "title": "美国白宫：已与特朗普就俄罗斯袭击乌克兰一事进行沟通，特朗普的反应并不意外。",
           "url": "https://flash.jin10.com/detail/20260204022404753800",
           "source": "金十数据",
@@ -129,17 +155,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
-        },
-        {
-          "title": "特朗普与哥伦比亚总统佩特罗会晤，讨论打击毒品走私",
-          "url": "https://wallstreetcn.com/livenews/3049283",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时42分"
         },
         {
           "title": "白宫新闻秘书：特朗普认为政府停摆只会损害经济。",
@@ -170,7 +185,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
         },
@@ -200,7 +215,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -214,17 +229,6 @@
           "time_info": "01时53分"
         },
         {
-          "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)对OpenAI的投资计划正在按计划推进。",
-          "url": "https://flash.jin10.com/detail/20260204033202172800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
           "title": "OpenAI的CEO Altman：Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。",
           "url": "https://wallstreetcn.com/livenews/3049251",
           "source": "华尔街见闻-快讯",
@@ -234,6 +238,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)对OpenAI的投资计划正在按计划推进。",
+          "url": "https://flash.jin10.com/detail/20260204033202172800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时42分 ~ 04时30分]"
         },
         {
           "title": "报道称OpenAI对英伟达AI芯片不满意，寻求推理芯片替代",
@@ -268,6 +284,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "黄仁勋：英伟达希望参与OpenAI的IPO",
+          "url": "https://wallstreetcn.com/livenews/3049302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)将投资于OpenAI的下一轮（融资），公司希望参与未来OpenAI的IPO。",
+          "url": "https://flash.jin10.com/detail/20260204033430684800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
+          "title": "OpenAI拟运用AI助力药企研发并从中获利",
+          "url": "https://flash.jin10.com/detail/20260204033311635800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
         },
         {
           "title": "OpenAI的CEO Altman：我的确担心美国无法在开源AI领域领先。 最重要的是，美国在前沿模型领先。 Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。 在某些方面人工智能的普及速度比自己预想的要慢。 OPENAI最终目标是实现全面的人工智能业务。",
@@ -305,8 +354,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 03时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 04时30分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -316,19 +365,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 03时42分]"
-        },
-        {
-          "title": "堡证券称美股步入季节性偏弱的2月，散户买入潮或显现疲态",
-          "url": "https://wallstreetcn.com/livenews/3049298",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时42分"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 04时30分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -338,19 +376,32 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 03时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 04时30分]"
+        },
+        {
+          "title": "堡证券称美股步入季节性偏弱的2月，散户买入潮或显现疲态",
+          "url": "https://wallstreetcn.com/livenews/3049298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时42分 ~ 04时30分]"
         },
         {
           "title": "美股延续跌势，道指下跌1.00%。",
           "url": "https://flash.jin10.com/detail/20260204030013728800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时42分 ~ 04时30分]"
         },
         {
           "title": "美股延续跌势，纳指下跌2.00%。",
@@ -378,8 +429,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 03时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 04时30分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
@@ -443,6 +494,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "彭博美元指数跌约0.3%",
+          "url": "https://wallstreetcn.com/livenews/3049308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
         }
       ]
     },
