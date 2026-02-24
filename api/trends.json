@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T13:55:44.680487+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2026-02-24T14:53:54.245187+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 59,
       "titles": [
         {
           "title": "加州州长：特朗普正摧毁美国经济",
@@ -66,8 +66,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时03分 ~ 13时55分]"
+          "appearance_count": 5,
+          "time_info": "[08时03分 ~ 14时53分]"
         },
         {
           "title": "特朗普否认美军将领“反对与伊朗开战”",
@@ -92,8 +92,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 13时55分]"
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 14时53分]"
         },
         {
           "title": "特朗普10%全球关税生效",
@@ -102,7 +102,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -113,7 +113,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -205,6 +205,18 @@
           "time_info": "[02时28分 ~ 03时57分]"
         },
         {
+          "title": "特朗普接连出招，伤害性不大，侮辱性极强",
+          "url": "https://news.ifeng.com/c/8qzr8hme4jH",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 14时53分]"
+        },
+        {
           "title": "美国总统特朗普：希望与伊朗达成协议，而不是开战。 我才是哪个决定是否发动战争的人。",
           "url": "https://wallstreetcn.com/livenews/3057661",
           "source": "华尔街见闻-快讯",
@@ -242,16 +254,15 @@
           "time_info": "[09时51分 ~ 13时55分]"
         },
         {
-          "title": "特朗普接连出招，伤害性不大，侮辱性极强",
-          "url": "https://news.ifeng.com/c/8qzr8hme4jH",
+          "title": "特朗普发出邀请，美国女子冰球队：婉拒了哈",
+          "url": "https://news.ifeng.com/c/8r0DvNIO9e9",
           "source": "凤凰网",
           "ranks": [
-            7,
-            9
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 13时55分]"
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 14时53分]"
         },
         {
           "title": "欧盟方面警告称，特朗普的新关税政策违反了现有的贸易协定。",
@@ -374,17 +385,6 @@
           "time_info": "[01时03分 ~ 02时28分]"
         },
         {
-          "title": "特朗普发出邀请，美国女子冰球队：婉拒了哈",
-          "url": "https://news.ifeng.com/c/8r0DvNIO9e9",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
           "title": "美国众议院议长约翰逊称：不认为特朗普政府应该退还关税款项。（CNN）",
           "url": "https://wallstreetcn.com/livenews/3057629",
           "source": "华尔街见闻-快讯",
@@ -424,7 +424,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -440,15 +440,37 @@
           "time_info": "08时03分"
         },
         {
+          "title": "电价攀升惹民怨，特朗普要求美国科技公司承诺自掏腰包建设AI数据中心",
+          "url": "https://wallstreetcn.com/livenews/3057913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "据悉特朗普要求科技企业高管承诺承担数据中心相关费用",
           "url": "https://flash.jin10.com/detail/20260224123615325800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
+        },
+        {
+          "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
+          "url": "https://www.cls.cn/detail/2293302",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "美国总统特朗普将于周五访问德克萨斯州Corpus Christi，发表“以能源和经济为主题”的演讲。（MS Now）",
@@ -471,6 +493,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
+        },
+        {
+          "title": "特朗普：很多人想置我于死地",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E5%A4%9A%E4%BA%BA%E6%83%B3%E7%BD%AE%E6%88%91%E4%BA%8E%E6%AD%BB%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "特朗普释放美伊局势缓和信号：更倾向协议而非战争",
@@ -594,6 +627,28 @@
           "time_info": "08时03分"
         },
         {
+          "title": "特朗普第二任期首场国情咨文谈什么",
+          "url": "https://www.toutiao.com/trending/7610257077706457134/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：伊朗应该达成协议。伊朗有机会达成协议。这是特朗普所希望的结果。如果伊朗决定不达成协议，我们将为特朗普准备选项。",
+          "url": "https://flash.jin10.com/detail/20260224134038685800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "短中期美债收益率至少跌4个基点，特朗普关税带来贸易不确定性风险",
           "url": "https://wallstreetcn.com/livenews/3057637",
           "source": "华尔街见闻-快讯",
@@ -625,6 +680,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "特朗普称不知道还能活多久",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E7%9F%A5%E9%81%93%E8%BF%98%E8%83%BD%E6%B4%BB%E5%A4%9A%E4%B9%85%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         }
       ]
     },
@@ -667,8 +733,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时03分 ~ 13时55分]"
+          "appearance_count": 5,
+          "time_info": "[08时03分 ~ 14时53分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -678,8 +744,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 13时55分]"
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 14时53分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
@@ -701,8 +767,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 13时55分]"
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 14时53分]"
         },
         {
           "title": "美股七巨头收盘播报｜微软收跌3.2%，特斯拉、Meta、亚马逊至多跌2.9%",
@@ -777,6 +843,17 @@
           "time_info": "[04时40分 ~ 05时50分]"
         },
         {
+          "title": "美股看跌保护需求创四年新高，高盛交易员：专业投资者正在为\"某种突破\"做准备",
+          "url": "https://wallstreetcn.com/articles/3765995",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时13分 ~ 14时53分]"
+        },
+        {
           "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260224015251428800",
           "source": "金十数据",
@@ -799,17 +876,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时50分 ~ 06时35分]"
-        },
-        {
-          "title": "美股看跌保护需求创四年新高，高盛交易员：专业投资者正在为\"某种突破\"做准备",
-          "url": "https://wallstreetcn.com/articles/3765995",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 13时55分]"
         },
         {
           "title": "华纳兄弟探索公司（WBD）美股盘后涨1.6%。",
