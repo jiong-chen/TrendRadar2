@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T14:53:12.406700+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2026-02-26T15:47:55.910970+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时25分 ~ 14时53分]"
+          "appearance_count": 7,
+          "time_info": "[09时25分 ~ 15时47分]"
         },
         {
           "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
@@ -64,8 +64,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 14时53分]"
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 15时47分]"
         },
         {
           "title": "白宫官员：特朗普和泽连斯基通电话。",
@@ -124,8 +124,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时54分 ~ 14时53分]"
+          "appearance_count": 4,
+          "time_info": "[13时54分 ~ 15时47分]"
         },
         {
           "title": "被批“脱离群众”，特朗普演讲后民调出炉",
@@ -298,8 +298,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时23分 ~ 14时53分]"
+          "appearance_count": 9,
+          "time_info": "[07时23分 ~ 15时47分]"
         },
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -314,6 +314,19 @@
           "time_info": "[00时10分 ~ 06时41分]"
         },
         {
+          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
+          "url": "https://www.cls.cn/detail/2295296",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时23分 ~ 15时47分]"
+        },
+        {
           "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
           "url": "https://www.cls.cn/detail/2295156",
           "source": "财联社热门",
@@ -324,18 +337,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时10分 ~ 13时54分]"
-        },
-        {
-          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
-          "url": "https://www.cls.cn/detail/2295296",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时23分 ~ 14时53分]"
         },
         {
           "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
@@ -499,11 +500,12 @@
           "url": "https://www.cls.cn/detail/2295271",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 14时53分]"
+          "appearance_count": 3,
+          "time_info": "[14时52分 ~ 15时47分]"
         },
         {
           "title": "马来西亚总理：这项投资涵盖了谷歌在马来西亚首个数据中心和云服务基础设施的开发和运营。该项目投入运营后，预计到2030年将带来32亿美元的经济效益，并创造26,500个就业岗位。",
@@ -512,7 +514,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -523,7 +525,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
