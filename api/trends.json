@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T19:28:25.200750+08:00",
-  "total_titles_processed": 1685,
+  "generated_at": "2026-02-27T20:42:45.585104+08:00",
+  "total_titles_processed": 1784,
   "failed_sources": [],
   "trends": [
     {
@@ -57,11 +57,12 @@
             15,
             19,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时23分 ~ 19时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时23分 ~ 20时42分]"
         },
         {
           "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
@@ -84,6 +85,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            10,
+            9,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时34分 ~ 20时42分]"
         },
         {
           "title": "消息人士：没有美国情报支持美国总统特朗普关于伊朗“很快”将拥有可抵达美国的导弹的说法。",
@@ -118,20 +134,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时08分 ~ 14时44分]"
-        },
-        {
-          "title": "美军中东最高指挥官向特朗普汇报",
-          "url": "https://www.toutiao.com/trending/7611361368545280036/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            10,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时34分 ~ 19时28分]"
         },
         {
           "title": "特朗普旨在引导古巴加大对美依赖",
@@ -229,8 +231,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时35分 ~ 19时28分]"
+          "appearance_count": 4,
+          "time_info": "[17时35分 ~ 20时42分]"
         },
         {
           "title": "特朗普2026国会演讲全解析",
@@ -306,7 +308,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -457,7 +459,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -575,6 +577,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时27分]"
+        },
+        {
+          "title": "2025年沙特投资者大幅增加美股交易量，国内交易额近乎减半",
+          "url": "https://flash.jin10.com/detail/20260227200350341800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "现货黄金涨0.4%，美股金银指数涨2.7%创收盘历史新高",
