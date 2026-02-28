@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T18:18:22.433845+08:00",
-  "total_titles_processed": 1638,
+  "generated_at": "2026-02-28T19:15:28.382952+08:00",
+  "total_titles_processed": 1745,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时49分 ~ 18时18分]"
+          "appearance_count": 12,
+          "time_info": "[11时49分 ~ 19时15分]"
         },
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时18分 ~ 18时18分]"
+          "appearance_count": 13,
+          "time_info": "[09时18分 ~ 19时15分]"
         },
         {
           "title": "专访｜打击伊核设施“刺激”特朗普军事冒进，以色列欲再推美国动武",
@@ -43,8 +43,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时18分 ~ 18时18分]"
+          "appearance_count": 13,
+          "time_info": "[09时18分 ~ 19时15分]"
         },
         {
           "title": "特朗普扬言：美国或“友好接管”古巴",
@@ -83,8 +83,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时18分 ~ 18时18分]"
+          "appearance_count": 13,
+          "time_info": "[09时18分 ~ 19时15分]"
+        },
+        {
+          "title": "特朗普透露美伊将继续谈判 但警告“有时候不得不打”",
+          "url": "https://www.cls.cn/detail/2297953",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时51分 ~ 19时15分]"
         },
         {
           "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
@@ -110,28 +123,17 @@
           "time_info": "[00时34分 ~ 06时17分]"
         },
         {
-          "title": "特朗普透露美伊将继续谈判 但警告“有时候不得不打”",
-          "url": "https://www.cls.cn/detail/2297953",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时51分 ~ 18时18分]"
-        },
-        {
           "title": "特朗普宣布打击伊朗",
           "url": "https://www.douyin.com/hot/2414412",
           "source": "抖音",
           "ranks": [
             2,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时21分 ~ 18时18分]"
+          "appearance_count": 6,
+          "time_info": "[16时21分 ~ 19时15分]"
         },
         {
           "title": "特朗普宣布打击伊朗",
@@ -140,11 +142,12 @@
           "ranks": [
             1,
             12,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时21分 ~ 18时18分]"
+          "appearance_count": 6,
+          "time_info": "[16时21分 ~ 19时15分]"
         },
         {
           "title": "特朗普呼吁伊朗政权更迭",
@@ -178,6 +181,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "特朗普称美军对伊朗进行军事打击",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E8%BF%9B%E8%A1%8C%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            15,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时21分 ~ 19时15分]"
         },
         {
           "title": "特朗普发布白宫宴会厅完工效果图，称其为“同类建筑中最宏伟的一座”。",
@@ -241,7 +258,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -255,19 +272,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
-        },
-        {
-          "title": "特朗普称美军对伊朗进行军事打击",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E8%BF%9B%E8%A1%8C%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时21分 ~ 18时18分]"
         },
         {
           "title": "美国总统特朗普：我们看看伊朗局势将如何发展，一切都会有好的结果。",
@@ -679,6 +683,17 @@
           "time_info": "[07时19分 ~ 09时18分]"
         },
         {
+          "title": "特朗普呼吁伊朗政权更迭，他在打什么主意？能如愿吗？",
+          "url": "https://www.zhihu.com/question/2011106976499724764",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时15分]"
+        },
+        {
           "title": "克林顿闭门作证爱泼斯坦案，特朗普表态",
           "url": "https://news.ifeng.com/c/8r6bGfY13Ho",
           "source": "凤凰网",
@@ -845,6 +860,18 @@
           "time_info": "[02时34分 ~ 03时30分]"
         },
         {
+          "title": "特朗普：等行动结束接管伊朗政府",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%AD%89%E8%A1%8C%E5%8A%A8%E7%BB%93%E6%9D%9F%E6%8E%A5%E7%AE%A1%E4%BC%8A%E6%9C%97%E6%94%BF%E5%BA%9C",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时15分]"
+        },
+        {
           "title": "特朗普就伊朗问题释放最新信号",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%B1%E4%BC%8A%E6%9C%97%E9%97%AE%E9%A2%98%E9%87%8A%E6%94%BE%E6%9C%80%E6%96%B0%E4%BF%A1%E5%8F%B7",
           "source": "百度热搜",
@@ -917,7 +944,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -931,17 +958,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
-        },
-        {
-          "title": "特朗普呼吁伊朗政权更迭，他在打什么主意？能如愿吗？",
-          "url": "https://www.zhihu.com/question/2011106976499724764",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
         },
         {
           "title": "美国总统特朗普：（谈对伊军事行动）我非常希望不要动用武力。",
@@ -1236,7 +1252,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -1362,17 +1378,6 @@
           "time_info": "02时34分"
         },
         {
-          "title": "特朗普：等行动结束接管伊朗政府",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%AD%89%E8%A1%8C%E5%8A%A8%E7%BB%93%E6%9D%9F%E6%8E%A5%E7%AE%A1%E4%BC%8A%E6%9C%97%E6%94%BF%E5%BA%9C",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
           "title": "美国总统特朗普：我们的目标是通过消除伊朗政权的迫切威胁来保护美国民众。",
           "url": "https://flash.jin10.com/detail/20260228153644862800",
           "source": "金十数据",
@@ -1467,7 +1472,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -1541,7 +1546,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
@@ -1555,8 +1560,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[05时23分 ~ 18时18分]"
+          "appearance_count": 17,
+          "time_info": "[05时23分 ~ 19时15分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -1592,11 +1597,12 @@
             8,
             16,
             13,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时31分 ~ 18时18分]"
+          "appearance_count": 8,
+          "time_info": "[14时31分 ~ 19时15分]"
         },
         {
           "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
@@ -1722,6 +1728,17 @@
           "time_info": "09时18分"
         },
         {
+          "title": "AI界的“冰火两重天”：Anthropic刚被封杀 OpenAI就拿下了五角大楼",
+          "url": "https://www.cls.cn/detail/2298126",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "AWS与OpenAI联合开发“有状态运行时环境”，预计数月内推出",
           "url": "https://flash.jin10.com/detail/20260228132543765800",
           "source": "金十数据",
@@ -1758,8 +1775,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时18分 ~ 18时18分]"
+          "appearance_count": 13,
+          "time_info": "[09时18分 ~ 19时15分]"
         },
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
@@ -1797,8 +1814,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时22分 ~ 18时18分]"
+          "appearance_count": 7,
+          "time_info": "[15时22分 ~ 19时15分]"
         },
         {
           "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
@@ -1824,6 +1841,17 @@
           "time_info": "[06时17分 ~ 07时19分]"
         },
         {
+          "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
+          "url": "https://www.zhihu.com/question/2011096140146286806",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时15分]"
+        },
+        {
           "title": "美股下跌对普通人有何启示",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E4%B8%8B%E8%B7%8C%E5%AF%B9%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%90%AF%E7%A4%BA",
           "source": "bilibili 热搜",
@@ -1844,17 +1872,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
-        },
-        {
-          "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
-          "url": "https://www.zhihu.com/question/2011096140146286806",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
         },
         {
           "title": "美股金银指数收涨超1.6%，历史上首次站上470点，2月份累涨23%",
