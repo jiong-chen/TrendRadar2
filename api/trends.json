@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T21:36:14.026396+08:00",
-  "total_titles_processed": 1736,
+  "generated_at": "2026-03-01T22:19:57.313095+08:00",
+  "total_titles_processed": 1809,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时17分 ~ 21时36分]"
+          "appearance_count": 13,
+          "time_info": "[12时17分 ~ 22时19分]"
         },
         {
           "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
@@ -44,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时46分 ~ 21时36分]"
+          "appearance_count": 14,
+          "time_info": "[09时46分 ~ 22时19分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -72,8 +72,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时46分 ~ 21时36分]"
+          "appearance_count": 14,
+          "time_info": "[09时46分 ~ 22时19分]"
         },
         {
           "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
@@ -303,6 +303,19 @@
           "time_info": "09时46分"
         },
         {
+          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
+          "url": "https://wallstreetcn.com/articles/3766448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 22时19分]"
+        },
+        {
           "title": "特朗普：对伊朗的不间断打击将持续一周甚至更长时间",
           "url": "https://wallstreetcn.com/livenews/3061008",
           "source": "华尔街见闻-快讯",
@@ -353,18 +366,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时17分 ~ 15时29分]"
-        },
-        {
-          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
-          "url": "https://wallstreetcn.com/articles/3766448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 21时36分]"
         },
         {
           "title": "特朗普称伊朗最高领袖哈梅内伊“已死”",
@@ -878,7 +879,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -983,8 +984,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时19分 ~ 21时36分]"
+          "appearance_count": 22,
+          "time_info": "[00时19分 ~ 22时19分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
