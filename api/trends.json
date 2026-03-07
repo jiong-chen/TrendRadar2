@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T15:25:09.901162+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2026-03-07T16:23:28.500761+08:00",
+  "total_titles_processed": 1268,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时21分 ~ 15时25分]"
+          "appearance_count": 10,
+          "time_info": "[09时21分 ~ 16时23分]"
         },
         {
           "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
@@ -78,6 +78,18 @@
           "time_info": "09时21分"
         },
         {
+          "title": "奥巴马、拜登“不点名”抨击特朗普政府",
+          "url": "https://news.ifeng.com/c/8rIXypaKu4O",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 16时23分]"
+        },
+        {
           "title": "特朗普：不接受哈梅内伊儿子担任伊朗新领导人，“我必须亲自参与任命”，伊朗外长：这完全是伊朗人民的事，任何人都无权干涉",
           "url": "https://wallstreetcn.com/articles/3766863",
           "source": "华尔街见闻",
@@ -122,18 +134,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时37分 ~ 14时32分]"
-        },
-        {
-          "title": "奥巴马、拜登“不点名”抨击特朗普政府",
-          "url": "https://news.ifeng.com/c/8rIXypaKu4O",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 15时25分]"
         },
         {
           "title": "美国总统特朗普：（谈伊朗）无条件投降可能是（伊朗人）宣布无条件投降，也可能是他们再也无法战斗，没有人或东西可以战斗时。",
@@ -379,8 +379,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时22分 ~ 15时25分]"
+          "appearance_count": 11,
+          "time_info": "[07时22分 ~ 16时23分]"
         },
         {
           "title": "非农疲软提振降息预期，美债走高，美股指低开，纳指跌超1.4%，WTI原油近两年来首破86美元，现货黄金短线拉升",
