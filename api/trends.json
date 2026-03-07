@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T09:21:22.409213+08:00",
-  "total_titles_processed": 771,
+  "generated_at": "2026-03-07T11:55:59.156521+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 09时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 11时55分]"
         },
         {
           "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
@@ -26,11 +26,12 @@
             10,
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 09时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 11时55分]"
         },
         {
           "title": "“甩锅”特朗普，与下属传婚外情，她被开了",
@@ -40,8 +41,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 09时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 11时55分]"
         },
         {
           "title": "特朗普威胁下一个就是古巴",
@@ -55,24 +56,24 @@
           "time_info": "[00时33分 ~ 09时21分]"
         },
         {
-          "title": "据NBC新闻：特朗普在与助手和共和党官员讨论战后情景时提到了在伊朗部署地面部队的想法。",
-          "url": "https://flash.jin10.com/detail/20260307090102717800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
           "title": "特朗普宣称“与伊朗不会达成任何协议”，军工企业同意将“精良级”武器产量“翻两番”",
           "url": "https://wallstreetcn.com/articles/3766927",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 11时55分]"
+        },
+        {
+          "title": "据NBC新闻：特朗普在与助手和共和党官员讨论战后情景时提到了在伊朗部署地面部队的想法。",
+          "url": "https://flash.jin10.com/detail/20260307090102717800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -208,9 +209,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "消息人士称特朗普对在伊朗部署美地面部队表达“浓厚兴趣”",
+          "url": "https://flash.jin10.com/detail/20260307105857912800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "特朗普称“与伊朗不会达成任何协议” 引发市场剧烈震荡",
+          "url": "https://www.cls.cn/detail/2305816",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "白宫：美国总统特朗普签署行政命令，打击针对美国人的网络犯罪、欺诈和掠夺性骗局。",
@@ -230,7 +253,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -266,6 +289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "美媒称特朗普对在伊朗部署美地面部队表达“浓厚兴趣”",
+          "url": "https://wallstreetcn.com/livenews/3065567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         }
       ]
     },
@@ -299,6 +333,19 @@
           "time_info": "[00时33分 ~ 06时21分]"
         },
         {
+          "title": "美股收盘：油价暴涨叠加就业数据疲软 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2305872",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 11时55分]"
+        },
+        {
           "title": "周五（3月6日）纽约尾盘，美国10年期基准国债收益率涨0.19个基点，报4.1383%，北京时间21:30发布美国非农就业报告时跳水至4.1035%刷新日低，随后反弹、在22:38（美股盘初）刷新日高至4.1848%，本周累计上涨20.08个基点，整体持续走高。 两年期美债收益率跌1.59个基点，报3.5605%，本周累涨18.56个基点，整体交投于3.3586%-3.6289%区间。",
           "url": "https://wallstreetcn.com/livenews/3065494",
           "source": "华尔街见闻-快讯",
@@ -316,21 +363,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
-        },
-        {
-          "title": "美股收盘：油价暴涨叠加就业数据疲软 三大指数集体收跌",
-          "url": "https://www.cls.cn/detail/2305872",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 09时21分]"
         },
         {
           "title": "半导体ETF收跌超3.7%，领跌美股行业ETF",
@@ -449,7 +484,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         }
