@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T20:44:27.852986+08:00",
-  "total_titles_processed": 1867,
+  "generated_at": "2026-03-10T22:02:40.697381+08:00",
+  "total_titles_processed": 1990,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 124,
+      "match_count": 125,
       "titles": [
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时22分 ~ 20时44分]"
+          "appearance_count": 12,
+          "time_info": "[09时22分 ~ 22时02分]"
         },
         {
           "title": "特朗普回应拉里贾尼威胁",
@@ -49,8 +49,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时22分 ~ 20时44分]"
+          "appearance_count": 12,
+          "time_info": "[09时22分 ~ 22时02分]"
         },
         {
           "title": "是时候卖原油了？美银Hartnett：特朗普要赢中期选举，美伊战争必须在3月“降级”",
@@ -158,17 +158,6 @@
           "time_info": "[00时52分 ~ 12时04分]"
         },
         {
-          "title": "美媒最新民调：特朗普支持率下滑至44%",
-          "url": "https://news.ifeng.com/c/8rNS9E6Ovmp",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时41分 ~ 20时44分]"
-        },
-        {
           "title": "普京与特朗普通话讨论伊朗局势",
           "url": "https://www.douyin.com/hot/2424957",
           "source": "抖音",
@@ -179,6 +168,17 @@
             25,
             26,
             23
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时41分 ~ 22时02分]"
+        },
+        {
+          "title": "美媒最新民调：特朗普支持率下滑至44%",
+          "url": "https://news.ifeng.com/c/8rNS9E6Ovmp",
+          "source": "凤凰网",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -230,6 +230,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时36分 ~ 03时37分]"
+        },
+        {
+          "title": "美以伊战争｜特朗普称可能与伊朗对话",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 22时02分]"
+        },
+        {
+          "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
+          "url": "https://news.ifeng.com/c/8rNxjUXwYy8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 22时02分]"
+        },
+        {
+          "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
+          "url": "https://v.ifeng.com/c/8rNwUGNMvZG",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 22时02分]"
         },
         {
           "title": "特朗普称对伊战事将很快结束 G7承诺必要时释放石油储备 | 环球市场",
@@ -300,28 +333,6 @@
           "time_info": "12时04分"
         },
         {
-          "title": "美以伊战争｜特朗普称可能与伊朗对话",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
-        },
-        {
-          "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
-          "url": "https://news.ifeng.com/c/8rNxjUXwYy8",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
-        },
-        {
           "title": "美国总统特朗普：谈论缴获伊朗石油还为时尚早。",
           "url": "https://flash.jin10.com/detail/20260310011925949800",
           "source": "金十数据",
@@ -375,17 +386,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
-        },
-        {
-          "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
-          "url": "https://v.ifeng.com/c/8rNwUGNMvZG",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
         },
         {
           "title": "特朗普新闻发布会：对伊军事行动会很快结束、油价涨幅低于预期",
@@ -467,6 +467,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普：有可能有条件同伊朗谈判",
+          "url": "https://www.cls.cn/detail/2308807",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 22时02分]"
         },
         {
           "title": "俄总统助理：普京与特朗普通话，讨论中东地区形势及乌克兰问题",
@@ -874,7 +886,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -951,7 +963,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -1011,17 +1023,6 @@
           "time_info": "14时40分"
         },
         {
-          "title": "特朗普：有可能有条件同伊朗谈判",
-          "url": "https://www.cls.cn/detail/2308807",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
-        },
-        {
           "title": "黎巴嫩请求特朗普政府斡旋与以色列的直接和平谈判，以结束冲突。",
           "url": "https://flash.jin10.com/detail/20260310015030516800",
           "source": "金十数据",
@@ -1042,6 +1043,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "特朗普称有可能有条件同伊朗谈判",
+          "url": "https://www.toutiao.com/trending/7615598658259521050/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "美国总统特朗普：战争可能很快就会结束。",
@@ -1105,7 +1117,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -1336,7 +1348,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -1432,7 +1444,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
         {
           "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
@@ -1493,6 +1505,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "金十图示：2026年03月09日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260310040546091800",
           "source": "金十数据",
@@ -1510,7 +1533,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -1596,6 +1619,17 @@
           "time_info": "19时28分"
         },
         {
+          "title": "金十图示：2026年03月10日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260310214202868800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "柯尔百货第四季度销售净额49.7亿美元，同比下降3.9%，市场预估50.5亿美元。 第四季度毛利率33.1％，上年同期32.9％。 第四季度每股收益1.07美元，上年同期0.43美元，市场预估0.91美元。 第四季度经营利润2.12亿美元，同比增长68%。 柯尔百货美股盘前跌超7%。",
           "url": "https://wallstreetcn.com/livenews/3067251",
           "source": "华尔街见闻-快讯",
@@ -1616,6 +1650,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
+        },
+        {
+          "title": "美股三大指数开盘涨跌不一，纳指涨0.1%，道指跌0.05%，标普500指数跌0.05%。蔚来涨超6%，公司Q4实现经营利润12.5亿元，交付量大增71.7%。存储概念股普涨，西部数据涨超4%，闪迪、美光科技涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3067349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "美股尾盘，三大美股指数均转涨，纳斯达克指数涨超1.3%。",
@@ -1651,6 +1696,17 @@
           "time_info": "19时28分"
         },
         {
+          "title": "BioNTech(BNTX.O)美股盘中暴跌19%，创4月25日以来最大跌幅。",
+          "url": "https://flash.jin10.com/detail/20260310213243409800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "美股三大指数集体收涨",
           "url": "https://www.toutiao.com/trending/7615396444580646454/",
           "source": "今日头条",
@@ -1673,6 +1729,17 @@
           "time_info": "19时28分"
         },
         {
+          "title": "美股开盘，道指跌0.13%，标普500指数跌0.03%，纳指涨0.1%。蔚来汽车(NIO.N)涨约6%，一季度营收指引同比增长103.4%至109.2%。BioNTech(BNTX.O)大跌约19%，公司2026年营收指引不及预期。",
+          "url": "https://flash.jin10.com/detail/20260310213028106800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "标普500指数跌幅收窄至0.5%，美股盘初一度下跌1.5%。",
           "url": "https://wallstreetcn.com/livenews/3066608",
           "source": "华尔街见闻-快讯",
@@ -1690,9 +1757,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
+        },
+        {
+          "title": "腾讯控股ADR美股盘前走高，现涨4.7%。",
+          "url": "https://flash.jin10.com/detail/20260310211708526800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         }
       ]
     },
@@ -1777,6 +1855,35 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股七巨头收盘播报｜英伟达、谷歌A至少收涨2.7%",
+          "url": "https://wallstreetcn.com/livenews/3066727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时22分]"
+        },
+        {
+          "title": "一项由谷歌和特斯拉等公司组成的新联盟将通过利用电网闲置容量来解决能源可负担性问题。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3067324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Claude",
       "match_count": 2,
       "titles": [
@@ -1799,24 +1906,6 @@
           "ranks": [
             22,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股七巨头收盘播报｜英伟达、谷歌A至少收涨2.7%",
-          "url": "https://wallstreetcn.com/livenews/3066727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            23
           ],
           "is_new": false,
           "appearance_count": 2,
