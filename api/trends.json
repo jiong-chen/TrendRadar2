@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T23:29:55.192674+08:00",
-  "total_titles_processed": 2107,
+  "generated_at": "2026-03-10T23:59:14.968355+08:00",
+  "total_titles_processed": 2154,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 125,
+      "match_count": 126,
       "titles": [
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时22分 ~ 23时29分]"
+          "appearance_count": 15,
+          "time_info": "[09时22分 ~ 23时59分]"
         },
         {
           "title": "特朗普回应拉里贾尼威胁",
@@ -49,8 +49,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时22分 ~ 23时29分]"
+          "appearance_count": 15,
+          "time_info": "[09时22分 ~ 23时59分]"
         },
         {
           "title": "是时候卖原油了？美银Hartnett：特朗普要赢中期选举，美伊战争必须在3月“降级”",
@@ -174,6 +174,17 @@
           "time_info": "[13时41分 ~ 22时02分]"
         },
         {
+          "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
+          "url": "https://news.ifeng.com/c/8rNxjUXwYy8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时44分 ~ 23时59分]"
+        },
+        {
           "title": "美媒最新民调：特朗普支持率下滑至44%",
           "url": "https://news.ifeng.com/c/8rNS9E6Ovmp",
           "source": "凤凰网",
@@ -183,6 +194,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[13时41分 ~ 20时44分]"
+        },
+        {
+          "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
+          "url": "https://v.ifeng.com/c/8rNwUGNMvZG",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时44分 ~ 23时59分]"
         },
         {
           "title": "特朗普：若伊朗阻断霍尔木兹海峡，美将施以“比以往猛烈20倍的打击”",
@@ -197,6 +220,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时41分 ~ 19时28分]"
+        },
+        {
+          "title": "特朗普：有可能有条件同伊朗谈判",
+          "url": "https://www.cls.cn/detail/2308807",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时44分 ~ 23时59分]"
         },
         {
           "title": "美以伊战争｜特朗普：战争已基本结束",
@@ -221,29 +257,6 @@
           "time_info": "[16时34分 ~ 17时38分]"
         },
         {
-          "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
-          "url": "https://news.ifeng.com/c/8rNxjUXwYy8",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时44分 ~ 23时29分]"
-        },
-        {
-          "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
-          "url": "https://v.ifeng.com/c/8rNwUGNMvZG",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时44分 ~ 23时29分]"
-        },
-        {
           "title": "美以伊战争｜特朗普：距离向伊朗派兵“还差得远”",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -264,19 +277,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时44分 ~ 22时02分]"
-        },
-        {
-          "title": "特朗普：有可能有条件同伊朗谈判",
-          "url": "https://www.cls.cn/detail/2308807",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时44分 ~ 23时29分]"
         },
         {
           "title": "特朗普称对伊战事将很快结束 G7承诺必要时释放石油储备 | 环球市场",
@@ -356,6 +356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "美国总统特使威特科夫：（谈伊朗问题）美国总统特朗普始终愿意对话。",
+          "url": "https://flash.jin10.com/detail/20260310234539359800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "金十提示：特朗普在共和党活动上的发言结束，其此前宣称在5:30左右举行的新闻发布会势必延后。",
@@ -1461,6 +1472,18 @@
           "time_info": "[07时23分 ~ 16时34分]"
         },
         {
+          "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时02分 ~ 23时59分]"
+        },
+        {
           "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
           "url": "https://www.cls.cn/detail/2307187",
           "source": "财联社热门",
@@ -1472,18 +1495,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时52分 ~ 06时22分]"
-        },
-        {
-          "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
-          "url": "https://wallstreetcn.com/articles/3767097",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 23时29分]"
         },
         {
           "title": "全球股债遭遇双杀！美股三大股指开盘走低，芯片股普跌，美油回落至100美元下方",
@@ -1550,6 +1561,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时28分 ~ 20时44分]"
+        },
+        {
+          "title": "波音(BA.N)公布2月交付数据公布后，美股股价下跌3.1%。",
+          "url": "https://flash.jin10.com/detail/20260310230408773800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时59分]"
         },
         {
           "title": "新兴市场ETF收涨将近2%，领跑美股大类资产类ETF。布油基金跌2.8%",
@@ -1631,17 +1654,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
-        },
-        {
-          "title": "波音(BA.N)公布2月交付数据公布后，美股股价下跌3.1%。",
-          "url": "https://flash.jin10.com/detail/20260310230408773800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
         },
         {
           "title": "柯尔百货第四季度销售净额49.7亿美元，同比下降3.9%，市场预估50.5亿美元。 第四季度毛利率33.1％，上年同期32.9％。 第四季度每股收益1.07美元，上年同期0.43美元，市场预估0.91美元。 第四季度经营利润2.12亿美元，同比增长68%。 柯尔百货美股盘前跌超7%。",
@@ -1833,7 +1845,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时29分"
         }
@@ -1848,11 +1860,12 @@
           "url": "https://wallstreetcn.com/livenews/3067419",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时59分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达、谷歌A至少收涨2.7%",
