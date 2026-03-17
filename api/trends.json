@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T09:28:05.885741+08:00",
-  "total_titles_processed": 893,
+  "generated_at": "2026-03-17T12:13:07.878932+08:00",
+  "total_titles_processed": 1066,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普会投入地面部队吗？",
@@ -40,11 +40,12 @@
           "source": "澎湃新闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 09时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 12时13分]"
         },
         {
           "title": "特朗普，赚了近100亿",
@@ -77,8 +78,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 09时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 12时13分]"
         },
         {
           "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
@@ -102,8 +103,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 09时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 12时13分]"
         },
         {
           "title": "中美就特朗普总统访华事保持着沟通",
@@ -133,6 +134,29 @@
           "time_info": "[06时34分 ~ 07时26分]"
         },
         {
+          "title": "美以伊战争丨美财长：特朗普不是因护航事件推迟访华",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 12时13分]"
+        },
+        {
+          "title": "特朗普抱怨部分盟友不帮忙 并暗示将袭击哈尔克岛石油设施 | 环球市场",
+          "url": "https://www.cls.cn/detail/2314895",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 12时13分]"
+        },
+        {
           "title": "白宫官员：特朗普拒绝重启与伊朗谈判",
           "url": "https://news.ifeng.com/c/8rYnLJ4bT0Q",
           "source": "凤凰网",
@@ -142,6 +166,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时27分 ~ 09时28分]"
+        },
+        {
+          "title": "特朗普“护航联盟”为何应者寥寥？美军真的会夺哈尔克岛吗｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32777497",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 12时13分]"
         },
         {
           "title": "【特朗普：希望欧洲国家等协助保障霍尔木兹海峡安全】美国总统特朗普16日对媒体表示，希望欧洲国家以及日本、韩国等国协助保障霍尔木兹海峡航行安全。 (新华社)",
@@ -164,6 +200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
+        },
+        {
+          "title": "特朗普“三个很开心”，让全世界脊背发凉",
+          "url": "https://news.ifeng.com/c/8rYllPsJnfC",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 12时13分]"
         },
         {
           "title": "特朗普暗示袭击哈尔克岛石油设施",
@@ -226,37 +273,26 @@
           "time_info": "[05时33分 ~ 06时34分]"
         },
         {
-          "title": "特朗普抱怨部分盟友不帮忙 并暗示将袭击哈尔克岛石油设施 | 环球市场",
-          "url": "https://www.cls.cn/detail/2314895",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时27分 ~ 09时28分]"
-        },
-        {
-          "title": "特朗普“三个很开心”，让全世界脊背发凉",
-          "url": "https://news.ifeng.com/c/8rYllPsJnfC",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时27分 ~ 09时28分]"
-        },
-        {
-          "title": "特朗普“护航联盟”为何应者寥寥？美军真的会夺哈尔克岛吗｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32777497",
+          "title": "全球前瞻｜特朗普称将继续“猛烈空袭”伊朗，中美正探讨建立全新机制",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32776082",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 12时13分]"
+        },
+        {
+          "title": "特朗普：古巴现在非常脆弱，我可以随心所欲拿下它",
+          "url": "https://news.ifeng.com/c/8rYzLJPGX5T",
+          "source": "凤凰网",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时27分 ~ 09时28分]"
+          "time_info": "[12时12分 ~ 12时13分]"
         },
         {
           "title": "美国总统特朗普：我确实认为我将有幸把古巴“拿下”。",
@@ -293,17 +329,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时34分 ~ 07时26分]"
-        },
-        {
-          "title": "全球前瞻｜特朗普称将继续“猛烈空袭”伊朗，中美正探讨建立全新机制",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32776082",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时27分 ~ 09时28分]"
         },
         {
           "title": "特朗普称他将“有幸拿下古巴”",
@@ -706,7 +731,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
@@ -727,8 +752,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时27分 ~ 09时28分]"
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 12时13分]"
+        },
+        {
+          "title": "美股收盘：标普纳指均涨超1% 国际油价回落提振市场情绪",
+          "url": "https://www.cls.cn/detail/2314857",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时26分 ~ 12时13分]"
         },
         {
           "title": "霍尔木兹海峡现通航迹象，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -742,16 +779,15 @@
           "time_info": "07时26分"
         },
         {
-          "title": "美股收盘：标普纳指均涨超1% 国际油价回落提振市场情绪",
-          "url": "https://www.cls.cn/detail/2314857",
+          "title": "国际油价大跌推高美股 大摩首席：市场调整已接近尾声",
+          "url": "https://www.cls.cn/detail/2314987",
           "source": "财联社热门",
           "ranks": [
-            7,
-            3
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时26分 ~ 09时28分]"
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 12时13分]"
         },
         {
           "title": "金十图示：2026年03月16日（周一）美股热门股票行情一览（美股收盘）",
@@ -793,7 +829,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
