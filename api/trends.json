@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T19:41:39.310198+08:00",
-  "total_titles_processed": 1702,
+  "generated_at": "2026-03-18T20:56:33.716772+08:00",
+  "total_titles_processed": 1813,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普称将接管古巴",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时27分 ~ 19时41分]"
+          "appearance_count": 14,
+          "time_info": "[06时27分 ~ 20时56分]"
         },
         {
           "title": "【早报】特朗普：应考虑美国退出北约的可能性；存储现货倒挂加剧",
@@ -95,6 +95,17 @@
           "time_info": "[00时00分 ~ 05时32分]"
         },
         {
+          "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
+          "url": "https://news.ifeng.com/c/8rb4ORiCMhg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时46分 ~ 20时56分]"
+        },
+        {
           "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
           "url": "https://www.cls.cn/detail/2316263",
           "source": "财联社热门",
@@ -106,17 +117,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时19分 ~ 18时45分]"
-        },
-        {
-          "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
-          "url": "https://news.ifeng.com/c/8rb4ORiCMhg",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时46分 ~ 19时41分]"
         },
         {
           "title": "伊朗证实拉里贾尼已经身亡 特朗普称对北约感到失望 | 环球市场",
@@ -246,6 +246,19 @@
           "time_info": "[00时00分 ~ 01时06分]"
         },
         {
+          "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
+          "url": "https://www.cls.cn/detail/2316670",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时46分 ~ 20时56分]"
+        },
+        {
           "title": "遭北约背刺，特朗普怒了：愚蠢！美国一定会“记仇”",
           "url": "https://news.ifeng.com/c/8radF7mAvMh",
           "source": "凤凰网",
@@ -257,6 +270,18 @@
           "time_info": "[12时19分 ~ 14时00分]"
         },
         {
+          "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
+          "url": "https://news.ifeng.com/c/8rb2oC4BRVx",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时46分 ~ 20时56分]"
+        },
+        {
           "title": "为何不谴责美以？高市早苗：因为我要见特朗普，说完了",
           "url": "https://news.ifeng.com/c/8raajLUudf0",
           "source": "凤凰网",
@@ -266,6 +291,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时19分 ~ 14时00分]"
+        },
+        {
+          "title": "特朗普就伊朗问题施压日本怎么办？高市可能使出拖字诀",
+          "url": "https://news.ifeng.com/c/8rb3KwO5fcb",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时46分 ~ 20时56分]"
         },
         {
           "title": "特朗普亲自澄清：因对伊朗战事未了请求推迟行程，“期待访华”",
@@ -280,42 +317,6 @@
           "time_info": "[13时59分 ~ 16时40分]"
         },
         {
-          "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
-          "url": "https://www.cls.cn/detail/2316670",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时46分 ~ 19时41分]"
-        },
-        {
-          "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
-          "url": "https://news.ifeng.com/c/8rb2oC4BRVx",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时46分 ~ 19时41分]"
-        },
-        {
-          "title": "特朗普就伊朗问题施压日本怎么办？高市可能使出拖字诀",
-          "url": "https://news.ifeng.com/c/8rb3KwO5fcb",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时46分 ~ 19时41分]"
-        },
-        {
           "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
           "url": "https://m.thepaper.cn/newsDetail_forward_32787473",
           "source": "澎湃新闻",
@@ -324,8 +325,20 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时46分 ~ 20时56分]"
+        },
+        {
+          "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
+          "url": "https://news.ifeng.com/c/8rb1B6BXYFH",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时46分 ~ 19时41分]"
+          "time_info": "[18时45分 ~ 20时56分]"
         },
         {
           "title": "美国总统特朗普重申，将在任期内封杀风力发电机",
@@ -362,18 +375,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时27分]"
-        },
-        {
-          "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
-          "url": "https://news.ifeng.com/c/8rb1B6BXYFH",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时41分]"
         },
         {
           "title": "美国总统特朗普谈及与爱尔兰的贸易赤字，宣称：（爱尔兰）需要购买我们的能源。",
@@ -479,6 +480,17 @@
           "time_info": "12时20分"
         },
         {
+          "title": "美国民主党参议员沃伦：美国总统特朗普在限制美联储降息空间。",
+          "url": "https://wallstreetcn.com/livenews/3072450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "特朗普称应考虑美国退出北约的可能性",
           "url": "https://wallstreetcn.com/livenews/3071810",
           "source": "华尔街见闻-快讯",
@@ -534,6 +546,17 @@
           "time_info": "01时06分"
         },
         {
+          "title": "美国民主党参议员沃伦声称特朗普正在限制美联储降息的空间。",
+          "url": "https://flash.jin10.com/detail/20260318203629754800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "美国总统特朗普兜售股市上涨。",
           "url": "https://wallstreetcn.com/livenews/3071838",
           "source": "华尔街见闻-快讯",
@@ -584,7 +607,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -609,6 +632,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "美国民主党参议员沃伦：美国总统特朗普在阻挠美联储降息。",
+          "url": "https://flash.jin10.com/detail/20260318203318142800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "美国总统特朗普谈论法国总统马克龙，声称：他很快就会下台。",
@@ -721,6 +755,17 @@
           "time_info": "01时06分"
         },
         {
+          "title": "美国总统特朗普：美联储主席鲍威尔什么时候降息？",
+          "url": "https://wallstreetcn.com/livenews/3072430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "美国总统特朗普：将努力阻止在美国建设风力发电厂。",
           "url": "https://flash.jin10.com/detail/20260318001934971800",
           "source": "金十数据",
@@ -743,13 +788,24 @@
           "time_info": "02时54分"
         },
         {
+          "title": "特朗普称正考虑进一步打击伊朗现政权",
+          "url": "https://wallstreetcn.com/livenews/3072425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "美国总统特朗普：民主党故意使国土安全部停摆，导致机场混乱。他们完全要为此负责，并且必须为我们国家的利益在中期选举中付出代价。",
           "url": "https://flash.jin10.com/detail/20260318191222852800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -768,7 +824,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -818,6 +874,17 @@
           "time_info": "[00时00分 ~ 09时43分]"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3072458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "微博美股盘前下跌3%，公司第四季度调整后每股收益不及预期。",
           "url": "https://wallstreetcn.com/livenews/3072307",
           "source": "华尔街见闻-快讯",
@@ -839,6 +906,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 05时32分]"
+        },
+        {
+          "title": "美国2月PPI数据公布后，美股三大股指期货跌幅扩大，均跌至日内低点；美元指数短线拉升，日内涨0.2%。现货黄金回落至4890美元/盎司下方，日内跌2.36%。美国国债走低，10年期国债收益率快速拉升，现报4.206%。",
+          "url": "https://wallstreetcn.com/livenews/3072449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "金十图示：2026年03月17日（周二）美股热门股票行情一览（美股盘中）",
@@ -902,7 +980,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -916,6 +994,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "现货黄金跌破4900美元/盎司，日内跌超2%，续创2月18日以来新低。 美股三大股指期货集体跳水，纳指期货日内转跌，现跌0.04%，标普500指数期货跌0.07%，道指期货跌0.05%。 美国2年期国债收益率升至日内高点3.70%。",
+          "url": "https://wallstreetcn.com/livenews/3072433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "2月生产者物价指数数据公布后，美股股指期货下滑，标普500指数期货下跌0.1%。",
+          "url": "https://flash.jin10.com/detail/20260318203137832800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         }
       ]
     },
@@ -1099,11 +1199,12 @@
             7,
             9,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时19分 ~ 19时41分]"
+          "appearance_count": 10,
+          "time_info": "[12时19分 ~ 20时56分]"
         }
       ]
     }
