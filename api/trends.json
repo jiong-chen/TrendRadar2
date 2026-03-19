@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T12:18:34.575680+08:00",
-  "total_titles_processed": 1064,
+  "generated_at": "2026-03-19T13:55:01.462911+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
@@ -63,8 +63,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时04分 ~ 12时18分]"
+          "appearance_count": 16,
+          "time_info": "[00时04分 ~ 13时55分]"
         },
         {
           "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
@@ -99,8 +99,30 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时04分 ~ 12时18分]"
+          "appearance_count": 16,
+          "time_info": "[00时04分 ~ 13时55分]"
+        },
+        {
+          "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
+          "url": "https://www.cls.cn/detail/2317562",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时18分 ~ 13时55分]"
+        },
+        {
+          "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
+          "url": "https://news.ifeng.com/c/8rcHthVvS8A",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时18分 ~ 13时55分]"
         },
         {
           "title": "据华盛顿检查者报：特朗普将于下周会见农业机械公司约翰迪尔的首席执行官。",
@@ -131,7 +153,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
@@ -147,28 +169,6 @@
           "time_info": "07时28分"
         },
         {
-          "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
-          "url": "https://www.cls.cn/detail/2317562",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
-          "url": "https://news.ifeng.com/c/8rcHthVvS8A",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
           "title": "消息人士：特朗普政府预计将很快取消夏季汽油法规，以抑制能源价格。",
           "url": "https://flash.jin10.com/detail/20260319015210394800",
           "source": "金十数据",
@@ -178,6 +178,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "被质问为何不谴责美以袭击伊朗？高市早苗语出惊人：因为我要见特朗普",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32788330",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时44分 ~ 13时55分]"
         },
         {
           "title": "报道：特朗普政府预计将很快取消夏季汽油法规，以抑制能源价格",
@@ -190,18 +203,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时57分 ~ 02时53分]"
-        },
-        {
-          "title": "被质问为何不谴责美以袭击伊朗？高市早苗语出惊人：因为我要见特朗普",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32788330",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时44分 ~ 12时18分]"
         },
         {
           "title": "美国官员：特朗普暂不想再袭伊朗能源设施",
@@ -276,8 +277,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
+          "url": "https://www.cls.cn/detail/2317455",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时28分 ~ 13时55分]"
+        },
         {
           "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
           "url": "https://wallstreetcn.com/articles/3767807",
@@ -291,18 +304,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时04分 ~ 05时29分]"
-        },
-        {
-          "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
-          "url": "https://www.cls.cn/detail/2317455",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时28分 ~ 12时18分]"
         },
         {
           "title": "美股三大指数全线下挫",
@@ -408,6 +409,17 @@
           "time_info": "04时30分"
         },
         {
+          "title": "技术分析师警告：美股濒临变盘！一旦跌破临界线，将再跌10%",
+          "url": "https://flash.jin10.com/detail/20260319125418834800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
           "title": "美股收盘：三大股指在美联储议息日均跌超1%",
           "url": "https://flash.jin10.com/detail/20260319040154086800",
           "source": "金十数据",
@@ -501,8 +513,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时04分 ~ 12时18分]"
+          "appearance_count": 16,
+          "time_info": "[00时04分 ~ 13时55分]"
         }
       ]
     },
