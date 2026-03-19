@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T13:55:01.462911+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2026-03-19T14:51:23.245747+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普称对伊行动无需北约和日韩澳帮助，伊朗宣告打击进入\"加速阶段\"、总统证实拉里贾尼身亡",
@@ -63,8 +63,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时04分 ~ 13时55分]"
+          "appearance_count": 17,
+          "time_info": "[00时04分 ~ 14时51分]"
         },
         {
           "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
@@ -99,19 +99,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时04分 ~ 13时55分]"
+          "appearance_count": 17,
+          "time_info": "[00时04分 ~ 14时51分]"
         },
         {
           "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
           "url": "https://www.cls.cn/detail/2317562",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 13时55分]"
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 14时51分]"
         },
         {
           "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
@@ -121,8 +122,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 13时55分]"
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 14时51分]"
         },
         {
           "title": "据华盛顿检查者报：特朗普将于下周会见农业机械公司约翰迪尔的首席执行官。",
@@ -241,6 +242,17 @@
           "time_info": "[05时29分 ~ 06时29分]"
         },
         {
+          "title": "油价分裂！阿曼冲到150，WTI还在100下挣扎，真怕了特朗普？",
+          "url": "https://flash.jin10.com/detail/20260319141414344800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "美国加州州长纽森：唐纳德·特朗普想让美国倒退。如果我们不站出来，我们将失去这个国家。",
           "url": "https://flash.jin10.com/detail/20260319064615377800",
           "source": "金十数据",
@@ -261,6 +273,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "特朗普盟友警告：美国经济实力不足以应对伊朗战争！",
+          "url": "https://flash.jin10.com/detail/20260319140651826800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         },
         {
           "title": "美媒：特朗普希望以色列暂缓进一步打击伊朗能源设施",
@@ -415,7 +438,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -510,11 +533,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时04分 ~ 13时55分]"
+          "appearance_count": 17,
+          "time_info": "[00时04分 ~ 14时51分]"
         }
       ]
     },
