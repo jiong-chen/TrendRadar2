@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T22:22:14.760523+08:00",
-  "total_titles_processed": 1524,
+  "generated_at": "2026-03-21T23:20:59.845473+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时23分 ~ 22时22分]"
+          "appearance_count": 18,
+          "time_info": "[07时23分 ~ 23时20分]"
         },
         {
           "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
@@ -36,8 +36,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[06时21分 ~ 22时22分]"
+          "appearance_count": 20,
+          "time_info": "[06时21分 ~ 23时20分]"
         },
         {
           "title": "特朗普据称考虑占领或封锁哈尔克岛 以迫使伊朗重开霍尔木兹海峡",
@@ -51,8 +51,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时36分 ~ 22时22分]"
+          "appearance_count": 26,
+          "time_info": "[00时36分 ~ 23时20分]"
         },
         {
           "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
@@ -66,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时01分 ~ 22时22分]"
+          "appearance_count": 16,
+          "time_info": "[12时01分 ~ 23时20分]"
         },
         {
           "title": "美日领导人会晤，特朗普只想聊伊朗",
@@ -162,8 +162,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时22分 ~ 22时22分]"
+          "appearance_count": 17,
+          "time_info": "[09时22分 ~ 23时20分]"
         },
         {
           "title": "向特朗普提问的日本记者，遭疯狂网暴",
@@ -177,6 +177,17 @@
           "time_info": "[01时44分 ~ 09时22分]"
         },
         {
+          "title": "江学勤教授预警：特朗普或启动全美征兵",
+          "url": "https://news.ifeng.com/c/8rg6sjUJDpt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时18分 ~ 23时20分]"
+        },
+        {
           "title": "美以伊战争丨特朗普：当美想结束冲突时，以也会同步",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -186,17 +197,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时25分 ~ 06时22分]"
-        },
-        {
-          "title": "江学勤教授预警：特朗普或启动全美征兵",
-          "url": "https://news.ifeng.com/c/8rg6sjUJDpt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时18分 ~ 22时22分]"
         },
         {
           "title": "特朗普：目前不想停火 霍尔木兹海峡会自动开放",
@@ -233,6 +233,17 @@
           "time_info": "03时34分"
         },
         {
+          "title": "捅了马蜂窝却让别人去护航，特朗普为何频频发出矛盾表态？",
+          "url": "https://news.ifeng.com/c/8rgDgdm9Vc6",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时38分 ~ 23时20分]"
+        },
+        {
           "title": "德国总理默茨：周末将与美国总统特朗普通电话。",
           "url": "https://flash.jin10.com/detail/20260321011955505800",
           "source": "金十数据",
@@ -242,6 +253,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "伊朗官员誓言要给特朗普“一个教训”",
+          "url": "https://flash.jin10.com/detail/20260321211515397800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时39分 ~ 23时20分]"
         },
         {
           "title": "特朗普：正考虑逐步降级对伊朗的军事行动",
@@ -257,27 +281,17 @@
           "time_info": "[06时22分 ~ 09时22分]"
         },
         {
-          "title": "捅了马蜂窝却让别人去护航，特朗普为何频频发出矛盾表态？",
-          "url": "https://news.ifeng.com/c/8rgDgdm9Vc6",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时38分 ~ 22时22分]"
-        },
-        {
-          "title": "伊朗官员誓言要给特朗普“一个教训”",
-          "url": "https://flash.jin10.com/detail/20260321211515397800",
+          "title": "海湾国家担忧特朗普留下烂摊子 称伊朗控制海峡“不可接受”",
+          "url": "https://flash.jin10.com/detail/20260321211140614800",
           "source": "金十数据",
           "ranks": [
-            1,
-            11
+            2,
+            12,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 22时22分]"
+          "appearance_count": 3,
+          "time_info": "[21时39分 ~ 23时20分]"
         },
         {
           "title": "布伦特原油期货在电子交易盘回吐涨幅，美国总统特朗普宣称，美方考虑“逐步缩减”对伊朗的军事行动。",
@@ -291,18 +305,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时22分 ~ 09时22分]"
-        },
-        {
-          "title": "海湾国家担忧特朗普留下烂摊子 称伊朗控制海峡“不可接受”",
-          "url": "https://flash.jin10.com/detail/20260321211140614800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 22时22分]"
         },
         {
           "title": "据Politico：联合国秘书长表示，他正与特朗普在加沙的和平委员会合作。",
@@ -759,8 +761,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时22分 ~ 22时22分]"
+          "appearance_count": 17,
+          "time_info": "[09时22分 ~ 23时20分]"
         },
         {
           "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
@@ -775,8 +777,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时23分 ~ 22时22分]"
+          "appearance_count": 18,
+          "time_info": "[07时23分 ~ 23时20分]"
         },
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
@@ -806,8 +808,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时01分 ~ 22时22分]"
+          "appearance_count": 16,
+          "time_info": "[12时01分 ~ 23时20分]"
         },
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -852,6 +854,17 @@
           "time_info": "[00时36分 ~ 12时02分]"
         },
         {
+          "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
+          "url": "https://wallstreetcn.com/articles/3768039",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时26分 ~ 23时20分]"
+        },
+        {
           "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260321040633903800",
           "source": "金十数据",
@@ -873,17 +886,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
-          "url": "https://wallstreetcn.com/articles/3768039",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时26分 ~ 22时22分]"
         },
         {
           "title": "美股持续下挫，基准指数跌至盘中低点，标普500指数最新下跌1.39%。消息面上，美国正为可能向伊朗派遣地面部队做准备。",
@@ -1099,11 +1101,12 @@
           "ranks": [
             5,
             9,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时35分 ~ 22时22分]"
+          "appearance_count": 4,
+          "time_info": "[20时35分 ~ 23时20分]"
         },
         {
           "title": "OpenAI计划到2026年底将员工人数增至8000人，以缩小与竞争对手Anthropic的差距。",
