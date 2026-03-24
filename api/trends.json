@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-25T01:07:40.463600+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-03-25T02:54:36.782684+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "信口雌黄、反复无常？特朗普告诉“华尔街空头”：撒谎可耻但有用！",
+          "url": "https://wallstreetcn.com/articles/3768213",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时54分]"
+        },
         {
           "title": "特朗普：同伊朗对话“完美”、已形成协议要点，正就达成更广泛协议与伊磋商",
           "url": "https://wallstreetcn.com/articles/3768191",
@@ -19,15 +31,48 @@
           "time_info": "[00时02分 ~ 01时07分]"
         },
         {
-          "title": "信口雌黄、反复无常？特朗普告诉“华尔街空头”：撒谎可耻但有用！",
-          "url": "https://wallstreetcn.com/articles/3768213",
-          "source": "华尔街见闻",
+          "title": "【美第82空降师约3000人将赴中东】3月24日，美国第82空降师部分部队即将部署至中东地区。目前相关命令正在制定中，预计将在接到指令后迅速出发。消息称，此次调动将包括地面作战部队及负责后勤与作战规划的指挥单元。第82空降师常备一支约3000人的“即时反应部队”，可在约18小时内部署至全球任一地区。该部队隶属于轻步兵编制，擅长通过空降方式快速进入争议地区执行任务，驻地位于北卡罗来纳州布拉格堡。3月24日，白宫表示，在总统特朗普考虑外交选项的同时，美国对伊朗的军事行动仍在“持续进行、未有减弱”。(央视新闻)",
+          "url": "https://wallstreetcn.com/livenews/3076142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗已同意永远不会拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260325023014175800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        },
+        {
+          "title": "美国总统特朗普：美国国务卿鲁比奥、副总统范斯和其他人正在与伊朗进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260325022938356800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        },
+        {
+          "title": "美国总统特朗普：将研究参议院就政府停摆问题达成的可能协议。",
+          "url": "https://flash.jin10.com/detail/20260325022652626800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
         },
         {
           "title": "视频丨特朗普称同伊朗对话“完美”：若一切顺利，将结束冲突",
@@ -37,8 +82,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时54分]"
         },
         {
           "title": "美伊谈判是真是假，至少华尔街已从特朗普引发的五分钟狂飙获得明确信号",
@@ -48,19 +93,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时54分]"
         },
         {
           "title": "美伊到底“谈了吗”？特朗普立场突变背后的秘密外交和压力测试",
           "url": "https://m.thepaper.cn/newsDetail_forward_32818612",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时54分]"
         },
         {
           "title": "特朗普“临阵变卦”有何意图",
@@ -70,8 +116,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时54分]"
         },
         {
           "title": "开始甩锅？特朗普谈中东点名美防长：是他第一个说要打伊朗",
@@ -79,11 +125,23 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时54分]"
+        },
+        {
+          "title": "美国总统特朗普：在伊朗取得了巨大成功。",
+          "url": "https://flash.jin10.com/detail/20260325022128210800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
         },
         {
           "title": "美国国务院官员：特朗普政府仍在评估恢复美国核武器试验的方法。",
@@ -108,13 +166,24 @@
           "time_info": "00时02分"
         },
         {
+          "title": "美国总统特朗普：伊朗已无领导人；我们正在与合适的人士交谈，他们想达成协议。",
+          "url": "https://flash.jin10.com/detail/20260325022030697800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        },
+        {
           "title": "美国前中情局局长：比起特朗普我更信伊朗",
           "url": "https://wallstreetcn.com/livenews/3076090",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
         },
@@ -125,7 +194,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
         },
@@ -136,7 +205,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
         },
@@ -150,6 +219,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "民调：特朗普支持率降至重返白宫以来最低",
+          "url": "https://wallstreetcn.com/livenews/3076119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
         },
         {
           "title": "谁比总统快一步？起底特朗普2.0最危险交易局！",
@@ -169,7 +249,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
         },
@@ -188,8 +268,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "OpenAI料将从MGX、Coatue、Thrive募集大约100亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3076139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        },
         {
           "title": "OpenAI Nonprofit任命了多位领导人，希望在2026年开支10亿美元。",
           "url": "https://wallstreetcn.com/livenews/3076075",
@@ -203,6 +294,28 @@
           "time_info": "[00时02分 ~ 01时07分]"
         },
         {
+          "title": "OpenAI发布基于推广的安全政策。 政策将帮助开发面向青少年的保护措施。 政策精准定位青少年面临的常规风险。",
+          "url": "https://wallstreetcn.com/livenews/3076134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        },
+        {
+          "title": "OpenAI 计划从MGX、Coatue和Thrive等公司融资约100亿美元",
+          "url": "https://flash.jin10.com/detail/20260325021945780800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        },
+        {
           "title": "微软将租用美国得州被甲骨文和OpenAI抛弃的数据中心。 微软和英伟达宣布，就核能展开AI合作。",
           "url": "https://wallstreetcn.com/livenews/3076067",
           "source": "华尔街见闻-快讯",
@@ -214,13 +327,35 @@
           "time_info": "00时02分"
         },
         {
+          "title": "市场消息：OpenAI拟从MGX、Coatue、Thrive处筹集约100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260325021429443800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        },
+        {
+          "title": "OpenAI：发布基于提示的安全策略，帮助开发者为青少年打造适龄保护措施。",
+          "url": "https://flash.jin10.com/detail/20260325020915604800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        },
+        {
           "title": "OpenAI：扩大智能体商务协议（Agentic Commerce Protocol，简称ACP）。 ACP将支持产品发现。 （ACP）在ChatGPT中支持产品发现。",
           "url": "https://wallstreetcn.com/livenews/3076085",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
         },
@@ -231,7 +366,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
         },
@@ -242,7 +377,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
         }
@@ -250,7 +385,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
@@ -260,8 +395,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时54分]"
         },
         {
           "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
@@ -271,8 +406,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时54分]"
         },
         {
           "title": "国际油价涨势再起 美股期指小幅下跌 | 今夜看点",
@@ -280,11 +415,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时54分]"
         },
         {
           "title": "李大霄解读美股反弹",
@@ -295,8 +431,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时54分]"
         },
         {
           "title": "美股软件股暴跌，报道称亚马逊推出新AI工具",
@@ -308,12 +444,84 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "金十图示：2026年03月24日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260325021350460800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        },
+        {
+          "title": "金十图示：2026年03月24日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260325021257768800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "Claude刚刚杀死了OpenClaw！",
+          "url": "https://wallstreetcn.com/articles/3768255",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        },
+        {
+          "title": "Anthropic宣布，大模型Claude现在可以自主做出权限决策。 为Claude Code推出“自动模式”（Auto Model）。 安全防护机制将在操作执行前进行预监测。 现已作为“研究预览版”面向团队版（Team Plan）用户开放。 将在未来几天内推送到企业版（Enterprise Plan）和API用户。",
+          "url": "https://wallstreetcn.com/livenews/3076129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        },
+        {
+          "title": "Anthropic：Claude现已可操控用户电脑完成任务，加速布局AI智能体",
+          "url": "https://wallstreetcn.com/livenews/3076056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "Anthropic：Claude现已具备权限判定能力，安全防护系统可在操作执行前进行监控。团队版现已开放研究预览，企业版及API用户将在未来数日内推出。",
+          "url": "https://flash.jin10.com/detail/20260325020626675800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌公司：开源安卓Auto OS SDV平台。",
@@ -322,7 +530,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
         },
@@ -333,9 +541,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "谷歌公司Quantum AI拓展量子计算研究，将中性原子量子计算（Neutral Atom Quantum Computing）纳入其中。",
+          "url": "https://wallstreetcn.com/livenews/3076108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
         }
       ]
     },
@@ -351,25 +570,25 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时54分]"
         }
       ]
     },
     {
-      "keyword_group": "Claude",
+      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "Anthropic：Claude现已可操控用户电脑完成任务，加速布局AI智能体",
-          "url": "https://wallstreetcn.com/livenews/3076056",
+          "title": "WTI原油期货涨幅扩大，刷新日高至93美元/桶附近。 标普500指数转跌，目前跌超0.3%，道指跌0.1%，纳指跌184点、跌幅0.8%。 美国2-5年期国债收益率涨幅扩大至10个基点。 新兴市场货币回吐涨幅。 彭博美元指数刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3076109",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "02时54分"
         }
       ]
     }
