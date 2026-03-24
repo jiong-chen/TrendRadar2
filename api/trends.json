@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T04:35:49.925672+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-03-25T05:32:29.282829+08:00",
+  "total_titles_processed": 636,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 05时32分]"
         },
         {
           "title": "特朗普：同伊朗对话“完美”、已形成协议要点，正就达成更广泛协议与伊磋商",
@@ -29,6 +29,65 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 01时07分]"
+        },
+        {
+          "title": "视频丨特朗普称同伊朗对话“完美”：若一切顺利，将结束冲突",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32817617",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 05时32分]"
+        },
+        {
+          "title": "美伊谈判是真是假，至少华尔街已从特朗普引发的五分钟狂飙获得明确信号",
+          "url": "https://wallstreetcn.com/articles/3768206",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 05时32分]"
+        },
+        {
+          "title": "美伊到底“谈了吗”？特朗普立场突变背后的秘密外交和压力测试",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32818612",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 05时32分]"
+        },
+        {
+          "title": "特朗普“临阵变卦”有何意图",
+          "url": "https://www.toutiao.com/trending/7619698764027166763/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 05时32分]"
+        },
+        {
+          "title": "开始甩锅？特朗普谈中东点名美防长：是他第一个说要打伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32818073",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 05时32分]"
         },
         {
           "title": "美国总统特朗普：伊朗已同意永远不会拥有核武器。",
@@ -53,17 +112,6 @@
           "time_info": "02时54分"
         },
         {
-          "title": "视频丨特朗普称同伊朗对话“完美”：若一切顺利，将结束冲突",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32817617",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时35分]"
-        },
-        {
           "title": "美国总统特朗普：将研究参议院就政府停摆问题达成的可能协议。",
           "url": "https://flash.jin10.com/detail/20260325022652626800",
           "source": "金十数据",
@@ -73,54 +121,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
-        },
-        {
-          "title": "美伊谈判是真是假，至少华尔街已从特朗普引发的五分钟狂飙获得明确信号",
-          "url": "https://wallstreetcn.com/articles/3768206",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时35分]"
-        },
-        {
-          "title": "美伊到底“谈了吗”？特朗普立场突变背后的秘密外交和压力测试",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32818612",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时35分]"
-        },
-        {
-          "title": "特朗普“临阵变卦”有何意图",
-          "url": "https://www.toutiao.com/trending/7619698764027166763/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时35分]"
-        },
-        {
-          "title": "开始甩锅？特朗普谈中东点名美防长：是他第一个说要打伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32818073",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时35分]"
         },
         {
           "title": "【美第82空降师约3000人将赴中东】3月24日，美国第82空降师部分部队即将部署至中东地区。目前相关命令正在制定中，预计将在接到指令后迅速出发。消息称，此次调动将包括地面作战部队及负责后勤与作战规划的指挥单元。第82空降师常备一支约3000人的“即时反应部队”，可在约18小时内部署至全球任一地区。该部队隶属于轻步兵编制，擅长通过空降方式快速进入争议地区执行任务，驻地位于北卡罗来纳州布拉格堡。3月24日，白宫表示，在总统特朗普考虑外交选项的同时，美国对伊朗的军事行动仍在“持续进行、未有减弱”。(央视新闻)",
@@ -394,7 +394,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         }
@@ -411,18 +411,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "OpenAI旗下文生视频Sora确认，该部门将不会再得到公司的支持。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3076186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         },
@@ -451,6 +440,30 @@
           "time_info": "[00时02分 ~ 01时07分]"
         },
         {
+          "title": "OpenAI旗下文生视频Sora确认，该部门将不会再得到公司的支持。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3076186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时32分]"
+        },
+        {
+          "title": "报道：OpenAI完成了新款AI模型的初步开发，Altman将专注供应链和打造数据中心",
+          "url": "https://wallstreetcn.com/livenews/3076185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时32分]"
+        },
+        {
           "title": "OpenAI发布基于推广的安全政策。 政策将帮助开发面向青少年的保护措施。 政策精准定位青少年面临的常规风险。",
           "url": "https://wallstreetcn.com/livenews/3076134",
           "source": "华尔街见闻-快讯",
@@ -463,24 +476,13 @@
           "time_info": "[02时54分 ~ 03时51分]"
         },
         {
-          "title": "报道：OpenAI完成了新款AI模型的初步开发，Altman将专注供应链和打造数据中心",
-          "url": "https://wallstreetcn.com/livenews/3076185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
           "title": "据The Information：OpenAI创始人奥尔特曼调整职责分工，并筹备推出SPUD新型人工智能模型。",
           "url": "https://flash.jin10.com/detail/20260325041357943800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         },
@@ -524,7 +526,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         },
@@ -535,7 +537,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         },
@@ -557,7 +559,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         },
@@ -601,7 +603,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         },
@@ -612,7 +614,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         },
@@ -623,7 +625,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         }
@@ -631,7 +633,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
@@ -641,8 +643,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 05时32分]"
         },
         {
           "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
@@ -652,8 +654,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 05时32分]"
         },
         {
           "title": "国际油价涨势再起 美股期指小幅下跌 | 今夜看点",
@@ -662,11 +664,12 @@
           "ranks": [
             11,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 05时32分]"
         },
         {
           "title": "李大霄解读美股反弹",
@@ -674,22 +677,46 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 05时32分]"
+        },
+        {
+          "title": "非美货币多数在美股盘后走高",
+          "url": "https://wallstreetcn.com/livenews/3076209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         },
         {
           "title": "Arm控股预计，新芯片部门未来五年的年度销售额将达到150亿美元。 Arm控股ADR美股盘后涨3.7%。",
           "url": "https://wallstreetcn.com/livenews/3076183",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时32分]"
+        },
+        {
+          "title": "美元指数周二涨约0.3%，美股收盘后急剧跳水，日元美股盘后瞬间拉升",
+          "url": "https://wallstreetcn.com/livenews/3076170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时35分"
+          "time_info": "05时32分"
         },
         {
           "title": "美股软件股暴跌，报道称亚马逊推出新AI工具",
@@ -703,15 +730,37 @@
           "time_info": "00时02分"
         },
         {
+          "title": "现货白银涨超2.6%，在美股盘后迅速刷新日高，纽约铜、铂族贵金属也短线拉升",
+          "url": "https://wallstreetcn.com/livenews/3076200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
           "title": "金十图示：2026年03月24日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260325040543913800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        },
+        {
+          "title": "金价美股盘后拉升，投资者紧盯中东局势",
+          "url": "https://wallstreetcn.com/livenews/3076199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         },
         {
           "title": "金十图示：2026年03月24日（周二）热门中概股行情一览（美股盘中）",
@@ -731,7 +780,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         },
@@ -747,13 +796,24 @@
           "time_info": "02时54分"
         },
         {
+          "title": "WTI原油期货在电子交易盘下挫。 美元兑G10货币尾盘回吐涨幅。 标普500指数ETF涨幅迅速扩大，（美股盘后）一度达到1%。纳斯达克100指数ETF涨1.3%。 美国国债价格短线走高，使得日内整体跌幅收窄，10年期美债收益率目前报4.35%。",
+          "url": "https://wallstreetcn.com/livenews/3076192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
           "title": "美股收盘：三大股指收跌 Circle大跌20%",
           "url": "https://flash.jin10.com/detail/20260325040120661800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         }
@@ -771,8 +831,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时54分 ~ 04时35分]"
+          "appearance_count": 4,
+          "time_info": "[02时54分 ~ 05时32分]"
         },
         {
           "title": "Anthropic宣布，大模型Claude现在可以自主做出权限决策。 为Claude Code推出“自动模式”（Auto Model）。 安全防护机制将在操作执行前进行预监测。 现已作为“研究预览版”面向团队版（Team Plan）用户开放。 将在未来几天内推送到企业版（Enterprise Plan）和API用户。",
@@ -859,7 +919,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         },
@@ -870,7 +930,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         },
@@ -900,8 +960,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 05时32分]"
         }
       ]
     }
