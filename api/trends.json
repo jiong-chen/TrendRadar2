@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T19:45:17.634564+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2026-03-26T20:59:50.825404+08:00",
+  "total_titles_processed": 1737,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "美以伊战争丨美媒：军方只向特朗普展示胜利画面",
@@ -53,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[05时33分 ~ 19时45分]"
+          "appearance_count": 15,
+          "time_info": "[05时33分 ~ 20时59分]"
         },
         {
           "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
@@ -75,8 +75,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时58分 ~ 19时45分]"
+          "appearance_count": 8,
+          "time_info": "[15时58分 ~ 20时59分]"
         },
         {
           "title": "中方回应特朗普称5月中旬访华",
@@ -87,8 +87,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时58分 ~ 19时45分]"
+          "appearance_count": 8,
+          "time_info": "[15时58分 ~ 20时59分]"
         },
         {
           "title": "释新闻｜美伊谈判迷雾：特朗普的算盘和巴基斯坦的中间人角色",
@@ -101,8 +101,23 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时40分 ~ 19时45分]"
+          "appearance_count": 13,
+          "time_info": "[07时40分 ~ 20时59分]"
+        },
+        {
+          "title": "传特朗普团队正研究200美元油价影响？白宫矢口否认！",
+          "url": "https://www.cls.cn/detail/2325422",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时58分 ~ 20时59分]"
         },
         {
           "title": "伊朗喊话特朗普：美国在中东地区的投资将不复存在",
@@ -143,20 +158,6 @@
           "time_info": "[00时03分 ~ 09时49分]"
         },
         {
-          "title": "传特朗普团队正研究200美元油价影响？白宫矢口否认！",
-          "url": "https://www.cls.cn/detail/2325422",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时58分 ~ 19时45分]"
-        },
-        {
           "title": "外交部：中美双方就特朗普总统访华保持着沟通",
           "url": "https://www.cls.cn/detail/2325505",
           "source": "财联社热门",
@@ -166,8 +167,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时58分 ~ 19时45分]"
+          "appearance_count": 6,
+          "time_info": "[16时58分 ~ 20时59分]"
         },
         {
           "title": "白宫：特朗普将于5月中旬访华",
@@ -193,13 +194,25 @@
           "time_info": "[15时58分 ~ 16时59分]"
         },
         {
+          "title": "“我们大赢特赢”，特朗普：伊朗太想达成协议，就是不敢承认",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32834414",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时58分 ~ 20时59分]"
+        },
+        {
           "title": "美国总统特朗普：舒默是一个绝望的、瘫痪的政客，他已经失去了对激进左翼民主党的控制。",
           "url": "https://flash.jin10.com/detail/20260326192358142800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -215,26 +228,26 @@
           "time_info": "01时53分"
         },
         {
-          "title": "特朗普再次抨击北约盟友 称不需要北约的任何东西",
-          "url": "https://wallstreetcn.com/livenews/3077434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
           "title": "特朗普警告伊朗在和平协议问题上“认真起来”",
           "url": "https://wallstreetcn.com/livenews/3077432",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
+        },
+        {
+          "title": "担心特朗普叫停，内塔尼亚胡下令猛炸伊朗",
+          "url": "https://news.ifeng.com/c/8roGSbDHfgm",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "中方回应特朗普称5月中旬访华",
@@ -262,18 +275,6 @@
           "time_info": "[06时29分 ~ 12时29分]"
         },
         {
-          "title": "“我们大赢特赢”，特朗普：伊朗太想达成协议，就是不敢承认",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32834414",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时58分 ~ 19时45分]"
-        },
-        {
           "title": "美媒：以总理希望呼吁伊朗人民“起义” 遭特朗普拒绝",
           "url": "https://flash.jin10.com/detail/20260326032123527800",
           "source": "金十数据",
@@ -298,15 +299,16 @@
           "time_info": "[03时43分 ~ 04时33分]"
         },
         {
-          "title": "标志性投票！特朗普“后院失火”：民主党赢了“海湖庄园所在地”的佛州选区",
-          "url": "https://wallstreetcn.com/articles/3768421",
-          "source": "华尔街见闻",
+          "title": "特朗普再次抨击北约盟友 称不需要北约的任何东西",
+          "url": "https://wallstreetcn.com/livenews/3077434",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            2,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时58分 ~ 16时59分]"
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 20时59分]"
         },
         {
           "title": "特朗普何时再“TACO”？华尔街发现规律：美油逼近100美元 or 美债收益率4.5%",
@@ -316,8 +318,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时02分 ~ 19时45分]"
+          "appearance_count": 4,
+          "time_info": "[18时02分 ~ 20时59分]"
         },
         {
           "title": "中方回应特朗普称5月中旬访华",
@@ -328,8 +330,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时02分 ~ 19时45分]"
+          "appearance_count": 4,
+          "time_info": "[18时02分 ~ 20时59分]"
+        },
+        {
+          "title": "标志性投票！特朗普“后院失火”：民主党赢了“海湖庄园所在地”的佛州选区",
+          "url": "https://wallstreetcn.com/articles/3768421",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时58分 ~ 16时59分]"
         },
         {
           "title": "特朗普政府发布紧急豁免令，放宽夏季燃料限制以平抑战争高油价",
@@ -343,6 +356,41 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时53分 ~ 03时43分]"
+        },
+        {
+          "title": "特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32835719",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时44分 ~ 20时59分]"
+        },
+        {
+          "title": "特朗普重大公告前，市场多次出现抢跑交易，特朗普真的在操纵金融市场吗？背后都有哪些可能？",
+          "url": "https://www.zhihu.com/question/2020434705586102279",
+          "source": "知乎",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时44分 ~ 20时59分]"
+        },
+        {
+          "title": "外交部回应「特朗普称将在 5 月中旬访华」，表示中美保持着沟通，透露出哪些信息？",
+          "url": "https://www.zhihu.com/question/2020523519075710358",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时44分 ~ 20时59分]"
         },
         {
           "title": "美以伊战争丨特朗普被曝想尽快结束对伊战争",
@@ -424,48 +472,26 @@
           "time_info": "[19时44分 ~ 19时45分]"
         },
         {
-          "title": "特朗普重大公告前，市场多次出现抢跑交易，特朗普真的在操纵金融市场吗？背后都有哪些可能？",
-          "url": "https://www.zhihu.com/question/2020434705586102279",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时44分 ~ 19时45分]"
-        },
-        {
-          "title": "特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32835719",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时44分 ~ 19时45分]"
-        },
-        {
-          "title": "外交部回应「特朗普称将在 5 月中旬访华」，表示中美保持着沟通，透露出哪些信息？",
-          "url": "https://www.zhihu.com/question/2020523519075710358",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时44分 ~ 19时45分]"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-26）",
           "url": "https://flash.jin10.com/detail/20260326191830680800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
+        },
+        {
+          "title": "伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事",
+          "url": "https://www.cls.cn/detail/2325824",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "美方坚称和谈“仍在进行”，伊朗公开回绝特朗普外交倡议",
@@ -573,7 +599,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -614,7 +640,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
@@ -625,8 +651,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时40分 ~ 19时45分]"
+          "appearance_count": 13,
+          "time_info": "[07时40分 ~ 20时59分]"
         },
         {
           "title": "美伊谈判存疑，美股三大股指涨超1%，存储板块走低，现货黄金涨2%，原油跌幅重回5%",
@@ -698,6 +724,17 @@
           "time_info": "04时33分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-03-26）",
+          "url": "https://flash.jin10.com/detail/20260326203558390800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "金十图示：2026年03月25日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260326040604173800",
           "source": "金十数据",
@@ -713,11 +750,12 @@
           "url": "https://wallstreetcn.com/articles/3768430",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时02分 ~ 19时45分]"
+          "appearance_count": 4,
+          "time_info": "[18时02分 ~ 20时59分]"
         },
         {
           "title": "生物科技ETF收涨超2.5%，领跑美股行业ETF",
@@ -765,6 +803,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "受银价下跌5%影响，美股上市的银矿股盘前走低。赫克拉矿业下跌4.4%，科埃尔矿业下跌4.3%，西尔弗科普金属下跌4.6%，恩迪沃银业下跌4.2%。",
+          "url": "https://flash.jin10.com/detail/20260326203151213800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "美股期货收复失地，纳斯达克100指数期货转为涨0.1%，标普500指数期货转为涨跌持平。 日经225指数小幅反弹，转为涨跌持平。",
@@ -837,8 +886,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时40分 ~ 19时45分]"
+          "appearance_count": 13,
+          "time_info": "[07时40分 ~ 20时59分]"
         },
         {
           "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
@@ -847,11 +896,12 @@
           "ranks": [
             8,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时58分 ~ 19时45分]"
+          "appearance_count": 8,
+          "time_info": "[15时58分 ~ 20时59分]"
         },
         {
           "title": "谷歌在青少年社交媒体成瘾案中被判定负有责任。",
@@ -980,8 +1030,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时03分 ~ 19时45分]"
+          "appearance_count": 22,
+          "time_info": "[00时03分 ~ 20时59分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
@@ -1012,8 +1062,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时28分 ~ 19时45分]"
+          "appearance_count": 11,
+          "time_info": "[12时28分 ~ 20时59分]"
         }
       ]
     }
