@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T14:10:05.147604+08:00",
-  "total_titles_processed": 897,
+  "generated_at": "2026-03-29T15:50:00.733789+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 14时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 15时50分]"
         },
         {
           "title": "特朗普谈中国：对中国的成就必须非常尊重",
@@ -44,6 +44,17 @@
           "time_info": "[00时27分 ~ 14时10分]"
         },
         {
+          "title": "全美超900万人举行抗议反对特朗普",
+          "url": "https://www.toutiao.com/trending/7621824327100940294/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 15时50分]"
+        },
+        {
           "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
           "url": "https://wallstreetcn.com/articles/3768631",
           "source": "华尔街见闻",
@@ -55,6 +66,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 07时25分]"
+        },
+        {
+          "title": "特朗普：战争总会有意外，“有些本应打赢的战争却输了”，北约这次不帮美国，美国以后也不会帮北约！",
+          "url": "https://wallstreetcn.com/articles/3768645",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 15时50分]"
         },
         {
           "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
@@ -69,16 +93,28 @@
           "time_info": "[00时27分 ~ 07时25分]"
         },
         {
+          "title": "伦敦超十万人游行，高喊“反对极右翼、反对特朗普”",
+          "url": "https://news.ifeng.com/c/8rsRuzH8VRV",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时22分 ~ 15时50分]"
+        },
+        {
           "title": "美国全国爆发反对特朗普政府集会",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%A8%E5%9B%BD%E7%88%86%E5%8F%91%E5%8F%8D%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E9%9B%86%E4%BC%9A%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
             1,
-            2
+            2,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时33分 ~ 14时10分]"
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 15时50分]"
         },
         {
           "title": "泽连斯基：我希望特朗普不会忘记乌克兰冲突。",
@@ -90,17 +126,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时27分 ~ 07时25分]"
-        },
-        {
-          "title": "全美超900万人举行抗议反对特朗普",
-          "url": "https://www.toutiao.com/trending/7621824327100940294/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时33分 ~ 14时10分]"
         },
         {
           "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
@@ -124,29 +149,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时25分]"
-        },
-        {
-          "title": "伦敦超十万人游行，高喊“反对极右翼、反对特朗普”",
-          "url": "https://news.ifeng.com/c/8rsRuzH8VRV",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时22分 ~ 14时10分]"
-        },
-        {
-          "title": "特朗普：战争总会有意外，“有些本应打赢的战争却输了”，北约这次不帮美国，美国以后也不会帮北约！",
-          "url": "https://wallstreetcn.com/articles/3768645",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 14时10分]"
         },
         {
           "title": "特朗普称战争总会有意外，「有些本应打赢的战争却输了」，北约这次不帮美国，美国以后也不帮北约，如何解读？",
@@ -228,22 +230,24 @@
           "ranks": [
             2,
             8,
-            3
+            3,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 14时10分]"
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 15时50分]"
         },
         {
           "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
           "url": "https://zhuanlan.zhihu.com/p/2020969476166808284",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 14时10分]"
+          "appearance_count": 4,
+          "time_info": "[14时09分 ~ 15时50分]"
         },
         {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
@@ -253,8 +257,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 14时10分]"
+          "appearance_count": 4,
+          "time_info": "[14时09分 ~ 15时50分]"
         },
         {
           "title": "RaBitQ 作者独家发文指出 Google的 ICLR 2026 TurboQuant 论文存在严重错误",
@@ -306,8 +310,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 14时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 15时50分]"
         },
         {
           "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
@@ -325,11 +329,12 @@
           "url": "https://wallstreetcn.com/articles/3768658",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 14时10分]"
+          "appearance_count": 4,
+          "time_info": "[14时09分 ~ 15时50分]"
         }
       ]
     },
