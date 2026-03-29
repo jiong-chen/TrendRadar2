@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T20:40:03.267286+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2026-03-29T21:49:16.567069+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时27分 ~ 20时40分]"
+          "appearance_count": 23,
+          "time_info": "[00时27分 ~ 21时49分]"
         },
         {
           "title": "全美超900万人举行抗议反对特朗普",
@@ -117,6 +117,21 @@
           "time_info": "[12时33分 ~ 15时50分]"
         },
         {
+          "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32856388",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时34分 ~ 21时49分]"
+        },
+        {
           "title": "泽连斯基：我希望特朗普不会忘记乌克兰冲突。",
           "url": "https://wallstreetcn.com/livenews/3078609",
           "source": "华尔街见闻-快讯",
@@ -138,21 +153,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 01时24分]"
-        },
-        {
-          "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32856388",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时34分 ~ 20时40分]"
         },
         {
           "title": "美媒：美国各地掀起“拒绝君王”集会 反对特朗普",
@@ -195,11 +195,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 20时40分]"
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 21时49分]"
         },
         {
           "title": "全美爆发第三轮“不要国王”示威，预计900万人上街抗议特朗普",
@@ -209,8 +210,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时39分 ~ 20时40分]"
+          "appearance_count": 3,
+          "time_info": "[20时39分 ~ 21时49分]"
         },
         {
           "title": "美国爆发反特朗普政府集会",
@@ -238,8 +239,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时09分 ~ 20时40分]"
+          "appearance_count": 12,
+          "time_info": "[14时09分 ~ 21时49分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -253,11 +254,12 @@
             16,
             18,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时51分 ~ 20时40分]"
+          "appearance_count": 14,
+          "time_info": "[09时51分 ~ 21时49分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -323,8 +325,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时24分 ~ 20时40分]"
+          "appearance_count": 4,
+          "time_info": "[19时24分 ~ 21时49分]"
         },
         {
           "title": "RaBitQ 作者独家发文指出 Google的 ICLR 2026 TurboQuant 论文存在严重错误",
@@ -401,8 +403,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时09分 ~ 20时40分]"
+          "appearance_count": 12,
+          "time_info": "[14时09分 ~ 21时49分]"
         }
       ]
     },
