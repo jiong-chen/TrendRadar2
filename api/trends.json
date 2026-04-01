@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T07:29:22.854585+08:00",
-  "total_titles_processed": 739,
+  "generated_at": "2026-04-01T09:58:15.366570+08:00",
+  "total_titles_processed": 912,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 67,
       "titles": [
         {
           "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
@@ -49,11 +49,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 09时58分]"
         },
         {
           "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
@@ -88,8 +89,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 09时58分]"
         },
         {
           "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
@@ -98,11 +99,12 @@
           "ranks": [
             11,
             12,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 09时58分]"
         },
         {
           "title": "特朗普围伊“救”俄",
@@ -159,9 +161,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "美以伊战争丨特朗普：不达成协议也能结束战争",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "美国总统特朗普：伊朗政权更迭并不是这次行动的目标。",
@@ -230,6 +243,17 @@
           "time_info": "06时29分"
         },
         {
+          "title": "美伊转折点？特朗普：将在“两到三周”内结束战争，协议亦可能达成！",
+          "url": "https://www.cls.cn/detail/2331376",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
           "title": "美国总统特朗普：（被问及降低汽油价格的计划）我只需要离开伊朗。我们很快就会做到。",
           "url": "https://flash.jin10.com/detail/20260401055556054800",
           "source": "金十数据",
@@ -264,6 +288,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时29分]"
+        },
+        {
+          "title": "俄10万吨石油抵达古巴，特朗普：没有任何意见",
+          "url": "https://news.ifeng.com/c/8rxB6hK0gY7",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 09时58分]"
         },
         {
           "title": "美国法官发布命令，暂时叫停美国总统特朗普的白宫宴会厅项目。",
@@ -312,6 +348,28 @@
           "time_info": "[05时34分 ~ 06时29分]"
         },
         {
+          "title": "白宫称特朗普将就伊朗问题发表讲话",
+          "url": "https://search.bilibili.com/all?keyword=%E7%99%BD%E5%AE%AB%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%B0%B1%E4%BC%8A%E6%9C%97%E9%97%AE%E9%A2%98%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "战争烂尾，特朗普要跑了",
+          "url": "https://news.ifeng.com/c/8rxhKnCdBaV",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
           "title": "美国总统特朗普：如果法国或其他国家想要获取石油，那就去霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260401055531767800",
           "source": "金十数据",
@@ -351,7 +409,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -395,20 +453,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
         {
-          "title": "俄10万吨石油抵达古巴，特朗普：没有任何意见",
-          "url": "https://news.ifeng.com/c/8rxB6hK0gY7",
-          "source": "凤凰网",
+          "title": "特朗普称将在“两到三周”内结束伊朗战事 霍尔木兹海峡由他国自行解决",
+          "url": "https://wallstreetcn.com/articles/3768931",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时29分"
+          "time_info": "09时58分"
         },
         {
           "title": "据AXIOS网站：特朗普表示“与伊朗的谈判进展顺利。”",
@@ -439,7 +497,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -494,7 +552,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -510,13 +568,24 @@
           "time_info": "03时53分"
         },
         {
+          "title": "特朗普将发表全国讲话，就伊朗问题发布“重要更新”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32869490",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
           "title": "美国总统特朗普：（被问及伊朗威胁打击中东地区美国公司）拿什么威胁？玩具枪（BB guns）吗？他们已经没什么可以拿来威胁的了。",
           "url": "https://flash.jin10.com/detail/20260401062411940800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -571,7 +640,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -593,7 +662,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -615,7 +684,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -681,7 +750,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -692,7 +761,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         }
@@ -700,7 +769,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
@@ -753,15 +822,67 @@
           "time_info": "[00时02分 ~ 05时34分]"
         },
         {
+          "title": "美股收盘：美伊均释放冲突缓和言论 道指飙升逾1100点 纳指涨3.8%",
+          "url": "https://www.cls.cn/detail/2331315",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时28分 ~ 09时58分]"
+        },
+        {
+          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
+          "url": "https://wallstreetcn.com/articles/3768902",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时28分 ~ 09时58分]"
+        },
+        {
           "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
           "url": "https://wallstreetcn.com/articles/3768819",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 09时58分]"
+        },
+        {
+          "title": "【早报】伊朗总统：愿在诉求满足前提下结束战争；美股大涨，科技股、中概股大幅走强",
+          "url": "https://www.cls.cn/detail/2331350",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 09时58分]"
+        },
+        {
+          "title": "美股黄金全线大涨！伊朗总统称伊方愿在诉求满足前提下结束战争",
+          "url": "https://www.cls.cn/detail/2331277",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时34分 ~ 09时58分]"
         },
         {
           "title": "美股后续会怎么走",
@@ -775,54 +896,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时02分 ~ 03时53分]"
-        },
-        {
-          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
-          "url": "https://wallstreetcn.com/articles/3768902",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "【早报】伊朗总统：愿在诉求满足前提下结束战争；美股大涨，科技股、中概股大幅走强",
-          "url": "https://www.cls.cn/detail/2331350",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "美股收盘：美伊均释放冲突缓和言论 道指飙升逾1100点 纳指涨3.8%",
-          "url": "https://www.cls.cn/detail/2331315",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "美股黄金全线大涨！伊朗总统称伊方愿在诉求满足前提下结束战争",
-          "url": "https://www.cls.cn/detail/2331277",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时34分 ~ 07时29分]"
         },
         {
           "title": "半导体ETF收涨超5.7%，在3月份收官日领跑美股行业ETF，一季度能源业ETF涨37.9%",
@@ -847,6 +920,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时29分]"
+        },
+        {
+          "title": "美股暴涨 三大股指悉数收高",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9A%B4%E6%B6%A8+%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E6%82%89%E6%95%B0%E6%94%B6%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "美股创下去年5月以来的最大单日涨幅 月线仍跌约5%",
@@ -902,12 +986,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "美股三大股指集体收涨纳指涨超3.8%",
+          "url": "https://www.toutiao.com/trending/7623563069813165609/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
@@ -953,6 +1048,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
+          "url": "https://www.cls.cn/detail/2331334",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "OpenAI按8520亿美元估值完成本轮1220亿美元规模的融资",
@@ -1019,6 +1125,62 @@
       ]
     },
     {
+      "keyword_group": "Claude",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "如何看待 Anthropic 官方工具 Claude Code 源码泄露事件？",
+          "url": "https://www.zhihu.com/question/2022394365436248248",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2,
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 09时58分]"
+        },
+        {
+          "title": "Claude Code源码意外泄露",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E6%84%8F%E5%A4%96%E6%B3%84%E9%9C%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时29分]"
+        },
+        {
+          "title": "深度解析Claude源码泄漏",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90Claude%E6%BA%90%E7%A0%81%E6%B3%84%E6%BC%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "史诗级泄露！51.2万行，Claude Code源代码开源了！",
+          "url": "https://wallstreetcn.com/articles/3768915",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 09时58分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -1059,45 +1221,19 @@
       ]
     },
     {
-      "keyword_group": "Claude",
-      "match_count": 3,
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
       "titles": [
         {
-          "title": "如何看待 Anthropic 官方工具 Claude Code 源码泄露事件？",
-          "url": "https://www.zhihu.com/question/2022394365436248248",
+          "title": "3 月 31 日 DeepSeek 服务中断一小时后恢复，什么情况？最近的三天两「崩」可能是什么原因？",
+          "url": "https://www.zhihu.com/question/2022371409997947809",
           "source": "知乎",
           "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 07时29分]"
-        },
-        {
-          "title": "Claude Code源码意外泄露",
-          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E6%84%8F%E5%A4%96%E6%B3%84%E9%9C%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            7,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 07时29分]"
-        },
-        {
-          "title": "史诗级泄露！51.2万行，Claude Code源代码开源了！",
-          "url": "https://wallstreetcn.com/articles/3768915",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时29分"
+          "time_info": "09时58分"
         }
       ]
     }
