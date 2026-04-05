@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T14:12:54.938559+08:00",
-  "total_titles_processed": 878,
+  "generated_at": "2026-04-05T15:53:19.120404+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "美以伊战争丨特朗普发通牒：地狱将降临到伊朗头上",
@@ -55,6 +55,17 @@
           "time_info": "[00时28分 ~ 07时25分]"
         },
         {
+          "title": "特朗普警告伊朗：还剩“48小时”，伊朗军方回应“让侵略者付出代价”，战争升级至海湾“基础设施”？",
+          "url": "https://wallstreetcn.com/articles/3769270",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 15时53分]"
+        },
+        {
           "title": "特朗普疑似嘲讽盟友的帖子得到了伊朗驻英国使馆的回复",
           "url": "https://flash.jin10.com/detail/20260405042122287800",
           "source": "金十数据",
@@ -78,17 +89,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时25分 ~ 09时52分]"
-        },
-        {
-          "title": "特朗普警告伊朗：还剩“48小时”，伊朗军方回应“让侵略者付出代价”，战争升级至海湾“基础设施”？",
-          "url": "https://wallstreetcn.com/articles/3769270",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 14时12分]"
         },
         {
           "title": "美国总统特朗普在社交平台上发布了三张图片，内容分别是：特朗普担任美国总统的支持率高达96%，94%的受访人员认为特朗普是他们一生中遇到的最好的总统，以及万斯担任美国副总统的支持率为92%。",
@@ -124,9 +124,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
+        },
+        {
+          "title": "自周三以来“未公开露面”！特朗普“一反常态”低调，周末“不停工作”连海湖庄园都不去了",
+          "url": "https://wallstreetcn.com/articles/3769276",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 15时53分]"
         },
         {
           "title": "特朗普就其移民政策发表最新讲话",
@@ -168,6 +181,20 @@
           "time_info": "[00时28分 ~ 01时25分]"
         },
         {
+          "title": "【早报】中国驻以使馆提醒：远离民用基础设施；特朗普再次警告伊朗",
+          "url": "https://www.cls.cn/detail/2335441",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时52分 ~ 15时53分]"
+        },
+        {
           "title": "特朗普：美军完成历史上“最大胆的搜救行动” 失踪飞行员均已获救",
           "url": "https://flash.jin10.com/detail/20260405121452100800",
           "source": "金十数据",
@@ -192,18 +219,6 @@
           "time_info": "[12时33分 ~ 14时12分]"
         },
         {
-          "title": "自周三以来“未公开露面”！特朗普“一反常态”低调，周末“不停工作”连海湖庄园都不去了",
-          "url": "https://wallstreetcn.com/articles/3769276",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 14时12分]"
-        },
-        {
           "title": "美国总统特朗普：美国军方营救了我们一位了不起的机组人员。",
           "url": "https://flash.jin10.com/detail/20260405121031640800",
           "source": "金十数据",
@@ -216,17 +231,41 @@
           "time_info": "[12时33分 ~ 14时12分]"
         },
         {
-          "title": "【早报】中国驻以使馆提醒：远离民用基础设施；特朗普再次警告伊朗",
-          "url": "https://www.cls.cn/detail/2335441",
-          "source": "财联社热门",
+          "title": "盘点｜绝对忠诚也非“铁饭碗”！特朗普为何连“砍”多位高官？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32904187",
+          "source": "澎湃新闻",
           "ranks": [
-            12,
-            8,
-            7
+            16,
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时52分 ~ 14时12分]"
+          "time_info": "[12时33分 ~ 15时53分]"
+        },
+        {
+          "title": "伊朗军方拒绝特朗普“48小时”通牒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32906731",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 15时53分]"
+        },
+        {
+          "title": "特朗普打的越猛，伊朗越强硬：霍尔木兹被推上谈判桌中央！",
+          "url": "https://wallstreetcn.com/articles/3769266",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 15时53分]"
         },
         {
           "title": "特朗普警告伊朗：若48小时内不重新开放霍尔木兹海峡 将进一步升级行动",
@@ -265,39 +304,27 @@
           "time_info": "[12时33分 ~ 14时12分]"
         },
         {
-          "title": "特朗普打的越猛，伊朗越强硬：霍尔木兹被推上谈判桌中央！",
-          "url": "https://wallstreetcn.com/articles/3769266",
-          "source": "华尔街见闻",
+          "title": "美军全球调拨隐形巡航导弹打伊朗，特朗普威胁“周一”地狱将至",
+          "url": "https://flash.jin10.com/detail/20260405131216500800",
+          "source": "金十数据",
           "ranks": [
-            10
+            12,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时33分 ~ 14时12分]"
+          "time_info": "[14时12分 ~ 15时53分]"
         },
         {
-          "title": "盘点｜绝对忠诚也非“铁饭碗”！特朗普为何连“砍”多位高官？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32904187",
-          "source": "澎湃新闻",
+          "title": "特朗普称已救回失踪飞行员",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B7%B2%E6%95%91%E5%9B%9E%E5%A4%B1%E8%B8%AA%E9%A3%9E%E8%A1%8C%E5%91%98",
+          "source": "bilibili 热搜",
           "ranks": [
-            16,
-            10
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 14时12分]"
-        },
-        {
-          "title": "伊朗军方拒绝特朗普“48小时”通牒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32906731",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 14时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "特朗普称已救回飞行员",
@@ -306,7 +333,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         },
@@ -317,7 +344,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         },
@@ -328,7 +355,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         },
@@ -344,6 +371,17 @@
           "time_info": "12时33分"
         },
         {
+          "title": "伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？",
+          "url": "https://www.cls.cn/detail/2335478",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
           "title": "伊朗军方拒绝特朗普“48小时”通牒",
           "url": "https://flash.jin10.com/detail/20260405064555743800",
           "source": "金十数据",
@@ -355,15 +393,15 @@
           "time_info": "09时52分"
         },
         {
-          "title": "美军全球调拨隐形巡航导弹打伊朗，特朗普威胁“周一”地狱将至",
-          "url": "https://flash.jin10.com/detail/20260405131216500800",
-          "source": "金十数据",
+          "title": "特朗普称被击落战机飞行员全部获救，伊朗称击落一架美军搜救飞机",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32907829",
+          "source": "澎湃新闻",
           "ranks": [
-            12
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时12分"
+          "time_info": "15时53分"
         },
         {
           "title": "特朗普一直呆在白宫",
@@ -394,7 +432,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         },
@@ -465,8 +503,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 14时12分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 15时53分]"
         }
       ]
     }
