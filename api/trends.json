@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T18:03:32.878318+08:00",
-  "total_titles_processed": 1534,
+  "generated_at": "2026-04-08T19:49:41.071615+08:00",
+  "total_titles_processed": 1674,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 110,
+      "match_count": 123,
       "titles": [
         {
           "title": "特朗普对伊朗发出最强威胁：若不达成协议 今晚整个文明将消亡",
@@ -20,6 +20,18 @@
           "time_info": "[00时50分 ~ 09时51分]"
         },
         {
+          "title": "以军空袭伊朗铁路和桥梁，伊朗最大产油岛遭美袭、民众人链保护电厂和桥，特朗普威胁“整个文明”消亡",
+          "url": "https://wallstreetcn.com/articles/3769398",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[05时38分 ~ 19时49分]"
+        },
+        {
           "title": "停火协议“希望渐灭”？美伊互下“最后通牒”：美以能源打击或已就绪，伊朗称特朗普“只剩20小时”！",
           "url": "https://wallstreetcn.com/articles/3769368",
           "source": "华尔街见闻",
@@ -30,18 +42,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时50分 ~ 14时18分]"
-        },
-        {
-          "title": "以军空袭伊朗铁路和桥梁，伊朗最大产油岛遭美袭、民众人链保护电厂和桥，特朗普威胁“整个文明”消亡",
-          "url": "https://wallstreetcn.com/articles/3769398",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时38分 ~ 18时03分]"
         },
         {
           "title": "特朗普威胁伊朗：整个文明将消亡",
@@ -85,8 +85,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时32分 ~ 18时03分]"
+          "appearance_count": 8,
+          "time_info": "[07时32分 ~ 19时49分]"
         },
         {
           "title": "以军空袭伊朗铁路和桥梁，伊朗最大产油岛哈尔克岛传出爆炸，特朗普称“整个文明将消亡”",
@@ -98,6 +98,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时50分 ~ 04时52分]"
+        },
+        {
+          "title": "距离“最后期限”不到一个半小时，特朗普同意与伊朗停火两周",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32921095",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 19时49分]"
         },
         {
           "title": "特朗普威胁伊朗：“整个文明将消亡”",
@@ -114,8 +128,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时50分 ~ 18时03分]"
+          "appearance_count": 16,
+          "time_info": "[00时50分 ~ 19时49分]"
         },
         {
           "title": "内塔尼亚胡：特朗普对我们评价极高，如今的以色列史上最强",
@@ -180,19 +194,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时50分 ~ 07时32分]"
-        },
-        {
-          "title": "距离“最后期限”不到一个半小时，特朗普同意与伊朗停火两周",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32921095",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 18时03分]"
         },
         {
           "title": "还剩最后16小时！特朗普会否在伊朗拒和后再次TACO？",
@@ -299,6 +300,20 @@
           "time_info": "[07时32分 ~ 16时09分]"
         },
         {
+          "title": "伊朗终止同美直接外交联系、仍通过调解人沟通，巴基斯坦提议宽限两周、特朗普将回应，报道称很快有好消息",
+          "url": "https://wallstreetcn.com/articles/3769420",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时32分 ~ 19时49分]"
+        },
+        {
           "title": "特朗普：同意在两周内暂停对伊朗的轰炸和袭击",
           "url": "https://www.cls.cn/detail/2337212",
           "source": "财联社热门",
@@ -366,20 +381,6 @@
           "time_info": "[06时32分 ~ 14时18分]"
         },
         {
-          "title": "伊朗终止同美直接外交联系、仍通过调解人沟通，巴基斯坦提议宽限两周、特朗普将回应，报道称很快有好消息",
-          "url": "https://wallstreetcn.com/articles/3769420",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时32分 ~ 18时03分]"
-        },
-        {
           "title": "伊媒：特朗普作出让步",
           "url": "https://news.ifeng.com/c/8s9FQwF88qL",
           "source": "凤凰网",
@@ -436,6 +437,17 @@
           "time_info": "16时09分"
         },
         {
+          "title": "伊朗战争丨万斯：伊朗若无诚意，会发现特朗普不好惹",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
           "title": "以媒：特朗普设定期限临近 美伊谈判出现进展",
           "url": "https://flash.jin10.com/detail/20260408060354542800",
           "source": "金十数据",
@@ -464,9 +476,23 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
+        },
+        {
+          "title": "一图看懂｜特朗普扬言“摧毁大桥和发电厂”，美以盯上伊朗经济根基",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32918306",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时32分 ~ 19时49分]"
         },
         {
           "title": "伊朗人这样做回应特朗普恐吓",
@@ -506,6 +532,28 @@
           "time_info": "12时33分"
         },
         {
+          "title": "美副总统万斯：美伊停火为“脆弱休战” 特朗普“急于看到进展”",
+          "url": "https://www.cls.cn/detail/2338136",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
+          "title": "美媒爆料：特朗普最后期限前，伊朗突然“松口”",
+          "url": "https://news.ifeng.com/c/8s9wZwOS9ih",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
           "title": "美媒：随着特朗普最后期限临近 伊朗谈判出现少许进展",
           "url": "https://flash.jin10.com/detail/20260408004138792800",
           "source": "金十数据",
@@ -534,9 +582,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
+        },
+        {
+          "title": "特朗普：能轻易恢复对伊朗动武",
+          "url": "https://news.ifeng.com/c/8sA26HlQssR",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
         },
         {
           "title": "据AXIOS网站：美以官员及消息人士称，过去24小时内，美国与伊朗之间的谈判取得了进展，但在特朗普设定的美东时间晚上8点的最后期限前达成停火协议的可能性似乎仍不大。",
@@ -589,7 +648,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -604,19 +663,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时51分 ~ 16时09分]"
-        },
-        {
-          "title": "一图看懂｜特朗普扬言“摧毁大桥和发电厂”，美以盯上伊朗经济根基",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32918306",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时32分 ~ 18时03分]"
         },
         {
           "title": "特朗普称美方正就伊朗战争进行“激烈谈判”",
@@ -725,6 +771,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 01时54分]"
+        },
+        {
+          "title": "尴尬！万斯演讲现场给特朗普打电话，手机那头传来：对不起…",
+          "url": "https://v.ifeng.com/c/8s9rZeXMBcT",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 19时49分]"
         },
         {
           "title": "布伦特原油期货目前跌3.16%，报106.30美元，此前（布油收盘之后）一度跳水至104.76美元。 据福克斯新闻： 特朗普拒就巴基斯坦提出的两周期限置评，特朗普称不便发表评论，因为目前我们正处于激烈谈判中。",
@@ -883,15 +940,15 @@
           "time_info": "12时33分"
         },
         {
-          "title": "尴尬！万斯演讲现场给特朗普打电话，手机那头传来：对不起…",
-          "url": "https://v.ifeng.com/c/8s9rZeXMBcT",
-          "source": "凤凰网",
+          "title": "特朗普：可能会有美伊联合项目管理霍尔木兹海峡通行费",
+          "url": "https://wallstreetcn.com/livenews/3084318",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时03分"
+          "time_info": "19时49分"
         },
         {
           "title": "美民主党议员酝酿弹劾特朗普",
@@ -900,7 +957,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -911,7 +968,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -925,6 +982,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "特朗普：美国正在与伊朗讨论制裁和关税减免。 美国正与伊朗合作，清除埋藏的核材料。",
+          "url": "https://wallstreetcn.com/livenews/3084316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
+          "title": "特朗普：美国将与伊朗密切合作。 不会允许伊朗进行铀浓缩。",
+          "url": "https://wallstreetcn.com/livenews/3084315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
         },
         {
           "title": "黄金短线拉升，WTI原油跳水2美元，巴基斯坦总理称，请求特朗普将对伊朗的最后期限延长两周。",
@@ -993,6 +1072,17 @@
           "time_info": "12时33分"
         },
         {
+          "title": "特朗普：将与伊朗讨论关税和制裁事宜 铀浓缩将被禁止",
+          "url": "https://flash.jin10.com/detail/20260408192822499800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
           "title": "伊朗第一副总统回应特朗普威胁，称：伊朗不会动摇",
           "url": "https://wallstreetcn.com/livenews/3083622",
           "source": "华尔街见闻-快讯",
@@ -1026,6 +1116,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "美国总统特朗普：美国正与伊朗合作清除掩埋的核材料。",
+          "url": "https://flash.jin10.com/detail/20260408192724987800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
           "title": "巴基斯坦总理提议：特朗普宽限两周，伊朗开放霍尔木兹海峡两周",
           "url": "https://wallstreetcn.com/livenews/3083699",
           "source": "华尔街见闻-快讯",
@@ -1035,6 +1136,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "据ABC新闻：美国总统特朗普表示，可能就霍尔木兹海峡过境费开展美伊联合项目。",
+          "url": "https://flash.jin10.com/detail/20260408192542534800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
+          "title": "特朗普称能轻易恢复对伊朗动武",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%83%BD%E8%BD%BB%E6%98%93%E6%81%A2%E5%A4%8D%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
         },
         {
           "title": "美国总统特朗普团队推动将滞留美国中东基地的阿富汗人转移。",
@@ -1059,6 +1182,17 @@
           "time_info": "12时33分"
         },
         {
+          "title": "美国总统特朗普：（谈伊朗问题）已就15点中的许多内容达成一致。",
+          "url": "https://flash.jin10.com/detail/20260408192441064800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
           "title": "特朗普认为是中国促使伊朗进行谈判？外交部回应",
           "url": "https://wallstreetcn.com/livenews/3084127",
           "source": "华尔街见闻-快讯",
@@ -1068,6 +1202,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
+        },
+        {
+          "title": "美国总统特朗普：美国将与伊朗就关税和制裁豁免问题进行谈判，不会允许伊朗进行铀浓缩。",
+          "url": "https://flash.jin10.com/detail/20260408192351027800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
         },
         {
           "title": "突发！特朗普同意暂停轰炸伊朗两周，WTI原油暴跌",
@@ -1314,8 +1459,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 18时03分]"
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 19时49分]"
         },
         {
           "title": "伊朗不再推进停火谈判，美股跌幅扩大，油价攀升，黄金转跌",
@@ -1357,6 +1502,17 @@
           "time_info": "[05时38分 ~ 07时32分]"
         },
         {
+          "title": "报复性反弹！美伊“停火两周”，美股盘前存储芯片股普涨，金价重上4830关口，油价创近六年最大跌幅",
+          "url": "https://wallstreetcn.com/articles/3769443",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 19时49分]"
+        },
+        {
           "title": "美伊接受巴基斯坦停火提议 美股期货贵金属暴涨、油价重挫 | 环球市场",
           "url": "https://www.cls.cn/detail/2337241",
           "source": "财联社热门",
@@ -1380,17 +1536,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
-        },
-        {
-          "title": "报复性反弹！美伊“停火两周”，美股盘前存储芯片股普涨，金价重上4830关口，油价创近六年最大跌幅",
-          "url": "https://wallstreetcn.com/articles/3769443",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时03分"
         },
         {
           "title": "周二（4月7日），美股行业ETF多数收涨，半导体ETF涨0.99%，能源业ETF涨0.8%，科技行业ETF涨0.48%，可选消费ETF则收队1.18%，日常消费品ETF跌1.69%。",
@@ -1510,11 +1655,12 @@
           "ranks": [
             7,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时32分 ~ 18时03分]"
+          "appearance_count": 6,
+          "time_info": "[12时32分 ~ 19时49分]"
         },
         {
           "title": "DeepSeek更新专家模式",
@@ -1636,11 +1782,12 @@
             4,
             21,
             19,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 18时03分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 19时49分]"
         },
         {
           "title": "UP主解读Claude新模型Mythos",
@@ -1670,11 +1817,12 @@
             16,
             15,
             20,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时50分 ~ 18时03分]"
+          "appearance_count": 16,
+          "time_info": "[00时50分 ~ 19时49分]"
         }
       ]
     }
