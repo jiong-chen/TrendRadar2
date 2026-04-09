@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T21:08:29.715539+08:00",
-  "total_titles_processed": 1693,
+  "generated_at": "2026-04-09T23:17:13.102000+08:00",
+  "total_titles_processed": 1844,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 84,
+      "match_count": 88,
       "titles": [
         {
           "title": "万斯威胁：特朗普没有多少耐心，希望尽快取得进展",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时55分 ~ 12时29分]"
+        },
+        {
+          "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
+          "url": "https://wallstreetcn.com/articles/3769517",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时31分 ~ 23时17分]"
         },
         {
           "title": "特朗普威胁对向伊朗供武国家加税",
@@ -77,16 +89,18 @@
           "time_info": "[00时55分 ~ 06时33分]"
         },
         {
-          "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
-          "url": "https://wallstreetcn.com/articles/3769517",
+          "title": "停火首日即遇变数：特朗普“反复横跳”，不承认伊朗“10点计划”做基础",
+          "url": "https://wallstreetcn.com/articles/3769534",
           "source": "华尔街见闻",
           "ranks": [
-            2,
-            1
+            8,
+            5,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时31分 ~ 21时08分]"
+          "appearance_count": 8,
+          "time_info": "[12时29分 ~ 23时17分]"
         },
         {
           "title": "特朗普最后一刻TACO：中间人来回传话，一天内多轮修改方案，伊朗高层最终拍板，幕后一片混乱",
@@ -102,20 +116,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时55分 ~ 14时18分]"
-        },
-        {
-          "title": "停火首日即遇变数：特朗普“反复横跳”，不承认伊朗“10点计划”做基础",
-          "url": "https://wallstreetcn.com/articles/3769534",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时29分 ~ 21时08分]"
         },
         {
           "title": "美伊停火的关键斡旋者：与特朗普私交甚好的巴基斯坦陆军元帅",
@@ -168,6 +168,19 @@
           "time_info": "[00时55分 ~ 12时29分]"
         },
         {
+          "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
+          "url": "https://wallstreetcn.com/articles/3769537",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时18分 ~ 23时17分]"
+        },
+        {
           "title": "“北约盟友没帮忙，特朗普打算这样惩罚”",
           "url": "https://news.ifeng.com/c/8sB098ZojvN",
           "source": "凤凰网",
@@ -208,19 +221,6 @@
           "time_info": "[09时31分 ~ 21时08分]"
         },
         {
-          "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
-          "url": "https://wallstreetcn.com/articles/3769537",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时18分 ~ 21时08分]"
-        },
-        {
           "title": "伊朗终止同美直接外交联系、仍通过调解人沟通，巴基斯坦提议宽限两周、特朗普将回应，报道称很快有好消息",
           "url": "https://wallstreetcn.com/articles/3769420",
           "source": "华尔街见闻",
@@ -230,6 +230,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时55分 ~ 05时37分]"
+        },
+        {
+          "title": "关税战没有赢家！外交部回应特朗普关税言论",
+          "url": "https://www.cls.cn/detail/2339082",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时18分 ~ 23时17分]"
         },
         {
           "title": "深度特写：特朗普是如何把美国\"拖入\"伊朗战争的？",
@@ -318,6 +331,20 @@
           "time_info": "07时33分"
         },
         {
+          "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32932623",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时16分 ~ 23时17分]"
+        },
+        {
           "title": "见完北约秘书长 特朗普仍“不解气”",
           "url": "https://wallstreetcn.com/livenews/3084821",
           "source": "华尔街见闻-快讯",
@@ -327,6 +354,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        },
+        {
+          "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
+          "url": "https://wallstreetcn.com/articles/3769556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时50分 ~ 23时17分]"
         },
         {
           "title": "法国总统马克龙：已告知伊朗总统佩泽希齐扬和美国总统特朗普，他们接受停火的决定是最佳选择。",
@@ -362,6 +402,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "特朗普被曝施压北约成员国：未来几天协助搞定霍尔木兹！",
+          "url": "https://flash.jin10.com/detail/20260409230812905800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "WTI原油期货维持3%的涨幅，特朗普：美军将“继续驻扎在伊朗境内及其周边”，直到达成的协议得到全面遵守",
@@ -471,19 +522,6 @@
           "time_info": "[16时16分 ~ 21时08分]"
         },
         {
-          "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32932623",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时16分 ~ 21时08分]"
-        },
-        {
           "title": "在特朗普2.0任期内炒股竟有秘诀：标普十大涨幅日九个和TACO有关",
           "url": "https://www.cls.cn/detail/2338928",
           "source": "财联社热门",
@@ -507,18 +545,6 @@
           "time_info": "[09时31分 ~ 14时18分]"
         },
         {
-          "title": "关税战没有赢家！外交部回应特朗普关税言论",
-          "url": "https://www.cls.cn/detail/2339082",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时18分 ~ 21时08分]"
-        },
-        {
           "title": "外交部回应特朗普认为是中国促使伊朗同意停火，「中方一直积极致力于促和止战」，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2025238372327723742",
           "source": "知乎",
@@ -532,16 +558,16 @@
           "time_info": "[12时29分 ~ 16时16分]"
         },
         {
-          "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
-          "url": "https://wallstreetcn.com/articles/3769556",
-          "source": "华尔街见闻",
+          "title": "白宫称特朗普考虑“退群”：北约背弃美国人民，没能通过考验",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32931462",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            6
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时50分 ~ 21时08分]"
+          "appearance_count": 3,
+          "time_info": "[21时08分 ~ 23时17分]"
         },
         {
           "title": "美国副总统万斯：伊朗人必须采取下一步行动，否则美国总统特朗普将有重返战争的选择。",
@@ -600,6 +626,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
+        },
+        {
+          "title": "IMF总裁：对于美国国会山批准IMF配额评估的前景，我相当乐观。 感谢总统特朗普的政府支持IMF的第 16 轮份额总检查（16th Quota Review）。 IMF就像一家储蓄银行，不需要财政拨款（Appropriations）。",
+          "url": "https://wallstreetcn.com/livenews/3085193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "市场消息：法国总统马克龙表示希望停火能得到尊重，包括在黎巴嫩。马克龙与伊朗总统佩泽希齐扬和美国总统特朗普进行了交谈。",
@@ -800,17 +837,6 @@
           "time_info": "12时29分"
         },
         {
-          "title": "白宫称特朗普考虑“退群”：北约背弃美国人民，没能通过考验",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32931462",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
           "title": "白宫新闻秘书莱维特：美国总统特朗普周二与以色列总理内塔尼亚胡进行了通话。",
           "url": "https://flash.jin10.com/detail/20260409014149272800",
           "source": "金十数据",
@@ -888,6 +914,17 @@
           "time_info": "05时37分"
         },
         {
+          "title": "WTI原油日内涨幅达7.5%，报101.52美元/桶。 国家经济委员会主任凯文·哈塞特表示，根据美国1977年《国际紧急经济权力法》（IEEPA），总统特朗普有权颁布新的涉伊关税。 哈塞特宣称，由于美国正处于“冲突状态”，该法案可以被启用，且“这显然属于总统的关税职权范围”。 若特朗普利用该紧急法征收关税，政府将面临一场说服法院其合法性的艰巨挑战，因为最高法院此前曾裁定该法案“并未授权总统征收关税”。",
+          "url": "https://wallstreetcn.com/livenews/3085177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：美国总统特朗普派遣由美国副总统万斯率领的代表团赴巴基斯坦谈判。",
           "url": "https://flash.jin10.com/detail/20260409013855708800",
           "source": "金十数据",
@@ -943,6 +980,17 @@
           "time_info": "02时03分"
         },
         {
+          "title": "格陵兰岛自治政府总理回应特朗普：我们不是一块冰",
+          "url": "https://flash.jin10.com/detail/20260409223524794800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "白宫：特朗普将与吕特讨论退出北约事宜",
           "url": "https://wallstreetcn.com/livenews/3084526",
           "source": "华尔街见闻-快讯",
@@ -990,8 +1038,21 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
+          "url": "https://wallstreetcn.com/articles/3769443",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时33分 ~ 23时17分]"
+        },
         {
           "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
           "url": "https://wallstreetcn.com/articles/3769370",
@@ -1003,18 +1064,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时55分 ~ 07时33分]"
-        },
-        {
-          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
-          "url": "https://wallstreetcn.com/articles/3769443",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时33分 ~ 21时08分]"
         },
         {
           "title": "报复性反弹！美伊“停火两周”，美股开盘集体上涨，美光涨超8%，现货钯金涨超9%，油价创近六年最大跌幅",
@@ -1137,6 +1186,17 @@
           "time_info": "[06时33分 ~ 07时33分]"
         },
         {
+          "title": "美伊停火持续性存疑 油价反弹美股震荡走弱 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2339594",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时16分 ~ 23时17分]"
+        },
+        {
           "title": "金十图示：2026年04月08日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260409040608867800",
           "source": "金十数据",
@@ -1173,6 +1233,17 @@
           "time_info": "[06时33分 ~ 07时33分]"
         },
         {
+          "title": "美股开盘：蔚来涨超3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E8%94%9A%E6%9D%A5%E6%B6%A8%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时16分 ~ 23时17分]"
+        },
+        {
           "title": "美股盘前，科技股普跌，英特尔跌超1.5%；存储股持续下挫，美光科技跌近2%，闪迪跌约1%。",
           "url": "https://wallstreetcn.com/livenews/3084915",
           "source": "华尔街见闻-快讯",
@@ -1201,7 +1272,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -1415,7 +1486,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
