@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T18:29:00.799086+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-04-11T19:25:41.216864+08:00",
+  "total_titles_processed": 1303,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时46分 ~ 18时29分]"
+          "appearance_count": 12,
+          "time_info": "[09时46分 ~ 19时25分]"
         },
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时46分 ~ 18时29分]"
+          "appearance_count": 12,
+          "time_info": "[09时46分 ~ 19时25分]"
         },
         {
           "title": "特朗普：谈判结果24小时内明朗",
@@ -75,11 +75,12 @@
             10,
             8,
             9,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时30分 ~ 18时29分]"
+          "appearance_count": 14,
+          "time_info": "[07时30分 ~ 19时25分]"
         },
         {
           "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
@@ -90,11 +91,12 @@
             8,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时30分 ~ 18时29分]"
+          "appearance_count": 14,
+          "time_info": "[07时30分 ~ 19时25分]"
         },
         {
           "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
@@ -323,6 +325,17 @@
           "time_info": "[06时31分 ~ 07时31分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-11）",
+          "url": "https://flash.jin10.com/detail/20260411182741167800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "美国总统特朗普：伊朗人在应对假新闻媒体和“公关”方面比打仗更在行！",
           "url": "https://flash.jin10.com/detail/20260411002832276800",
           "source": "金十数据",
@@ -460,8 +473,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时57分 ~ 18时29分]"
+          "appearance_count": 10,
+          "time_info": "[13时57分 ~ 19时25分]"
         },
         {
           "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
@@ -471,8 +484,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 18时29分]"
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 19时25分]"
         },
         {
           "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
@@ -593,11 +606,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时30分 ~ 18时29分]"
+          "appearance_count": 14,
+          "time_info": "[07时30分 ~ 19时25分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
@@ -643,11 +657,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 18时29分]"
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 19时25分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
