@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T16:57:52.369026+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2026-04-12T17:42:54.459198+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
@@ -29,6 +29,18 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时30分 ~ 16时57分]"
+        },
+        {
+          "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
+          "url": "https://wallstreetcn.com/articles/3769751",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时45分 ~ 17时42分]"
         },
         {
           "title": "仅3国掏钱，170亿就凑了个零头，特朗普的“和平委员会”要黄？",
@@ -66,18 +78,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时30分 ~ 09时57分]"
-        },
-        {
-          "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
-          "url": "https://wallstreetcn.com/articles/3769751",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时45分 ~ 16时57分]"
         },
         {
           "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
@@ -119,11 +119,12 @@
           "ranks": [
             3,
             10,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时22分 ~ 16时57分]"
+          "appearance_count": 4,
+          "time_info": "[14时22分 ~ 17时42分]"
         },
         {
           "title": "特朗普：是否与伊朗达成协议对我来说无关紧要",
@@ -301,6 +302,17 @@
           "time_info": "[00时31分 ~ 01时26分]"
         },
         {
+          "title": "英国官员：特朗普的言论让英美关系紧张",
+          "url": "https://news.ifeng.com/c/8sGY3tCnh0U",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
           "title": "特朗普再次发文抨击媒体",
           "url": "https://flash.jin10.com/detail/20260411232157423800",
           "source": "金十数据",
@@ -350,8 +362,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时30分 ~ 16时57分]"
+          "appearance_count": 18,
+          "time_info": "[00时30分 ~ 17时42分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -374,7 +386,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         }
@@ -412,8 +424,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时30分 ~ 16时57分]"
+          "appearance_count": 18,
+          "time_info": "[00时30分 ~ 17时42分]"
         },
         {
           "title": "环球下周看点：中东两周停火暂稳市场 美股财报季检验盈利韧性",
@@ -422,9 +434,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 17时42分]"
         }
       ]
     },
