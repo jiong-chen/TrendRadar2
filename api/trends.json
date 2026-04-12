@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T12:46:11.795043+08:00",
-  "total_titles_processed": 815,
+  "generated_at": "2026-04-12T14:22:24.730979+08:00",
+  "total_titles_processed": 890,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 12时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 14时22分]"
         },
         {
           "title": "仅3国掏钱，170亿就凑了个零头，特朗普的“和平委员会”要黄？",
@@ -39,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 12时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 14时22分]"
         },
         {
           "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
@@ -79,6 +79,17 @@
           "time_info": "[00时30分 ~ 05时27分]"
         },
         {
+          "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
+          "url": "https://wallstreetcn.com/articles/3769751",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时45分 ~ 14时22分]"
+        },
+        {
           "title": "伊朗战争丨特朗普：若谈判不顺，美国准备好“重启”",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -90,37 +101,15 @@
           "time_info": "[00时30分 ~ 00时31分]"
         },
         {
-          "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
-          "url": "https://wallstreetcn.com/articles/3769751",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 12时46分]"
-        },
-        {
-          "title": "特朗普转发威胁伊朗的报道链接",
-          "url": "https://flash.jin10.com/detail/20260412123247854800",
-          "source": "金十数据",
+          "title": "特朗普威胁通过控制霍尔木兹海峡打击伊朗经济",
+          "url": "https://wallstreetcn.com/livenews/3086335",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "伊朗谈判生变数 特朗普暗示或采取“海上封锁”手段",
-          "url": "https://flash.jin10.com/detail/20260412122206149800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
+          "time_info": "14时22分"
         },
         {
           "title": "特朗普：是否与伊朗达成协议对我来说无关紧要",
@@ -160,6 +149,41 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时25分 ~ 09时57分]"
+        },
+        {
+          "title": "特朗普转发威胁伊朗的报道链接",
+          "url": "https://flash.jin10.com/detail/20260412123247854800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 14时22分]"
+        },
+        {
+          "title": "伊朗谈判生变数 特朗普暗示或采取“海上封锁”手段",
+          "url": "https://flash.jin10.com/detail/20260412122206149800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 14时22分]"
+        },
+        {
+          "title": "特朗普、佩泽希齐扬、内塔尼亚胡，同日表态",
+          "url": "https://news.ifeng.com/c/8sG0csY9qWa",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时45分 ~ 14时22分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：正如特朗普所说，必须清除伊朗的浓缩铀，要么通过协议，要么通过其它方式。",
@@ -227,17 +251,6 @@
           "time_info": "[05时27分 ~ 07时28分]"
         },
         {
-          "title": "特朗普、佩泽希齐扬、内塔尼亚胡，同日表态",
-          "url": "https://news.ifeng.com/c/8sG0csY9qWa",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 12时46分]"
-        },
-        {
           "title": "美国法院再审特朗普关税，10%全球税率面临合法性考验",
           "url": "https://wallstreetcn.com/articles/3769745",
           "source": "华尔街见闻",
@@ -247,6 +260,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时45分 ~ 12时46分]"
+        },
+        {
+          "title": "美媒：美方谈判团队与特朗普至少六次通话 还与多名美政府官员进行了沟通",
+          "url": "https://flash.jin10.com/detail/20260412111803956800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 14时22分]"
         },
         {
           "title": "特朗普：若与伊谈判进展不顺 美国已准备好“重启”",
@@ -261,15 +286,15 @@
           "time_info": "[00时31分 ~ 01时26分]"
         },
         {
-          "title": "美媒：美方谈判团队与特朗普至少六次通话 还与多名美政府官员进行了沟通",
-          "url": "https://flash.jin10.com/detail/20260412111803956800",
+          "title": "美伊谈判结束后 特朗普再提欧洲",
+          "url": "https://flash.jin10.com/detail/20260412125636392800",
           "source": "金十数据",
           "ranks": [
-            16
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时46分"
+          "time_info": "14时22分"
         },
         {
           "title": "特朗普再次发文抨击媒体",
@@ -317,11 +342,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 12时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 14时22分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -354,8 +380,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 12时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 14时22分]"
         },
         {
           "title": "李大霄解读美股单周表现",
@@ -370,8 +396,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 12时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 14时22分]"
         }
       ]
     },
@@ -385,11 +411,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 12时46分]"
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 14时22分]"
         }
       ]
     }
