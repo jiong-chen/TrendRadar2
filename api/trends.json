@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-14T22:19:29.004787+08:00",
-  "total_titles_processed": 1750,
+  "generated_at": "2026-04-14T23:09:37.129413+08:00",
+  "total_titles_processed": 1843,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 73,
       "titles": [
+        {
+          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+          "url": "https://wallstreetcn.com/articles/3769872",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时57分 ~ 23时09分]"
+        },
         {
           "title": "特朗普：伊朗致电美方说希望达成协议",
           "url": "https://news.ifeng.com/c/8sIkl2LlAOK",
@@ -30,18 +42,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时57分 ~ 07时37分]"
-        },
-        {
-          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
-          "url": "https://wallstreetcn.com/articles/3769872",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时57分 ~ 22时19分]"
         },
         {
           "title": "美媒鼓噪：特朗普让美国利益遭四连击，中俄获利",
@@ -186,6 +186,21 @@
           "time_info": "[00时57分 ~ 06时38分]"
         },
         {
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            16,
+            13,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时43分 ~ 23时09分]"
+        },
+        {
           "title": "美伊谈判刚不欢而散，特朗普就下令海军封锁霍尔木兹海峡，有何意图？要效仿委内瑞拉模式吗？会带来哪些影响？",
           "url": "https://www.zhihu.com/question/2026779173369246174",
           "source": "知乎",
@@ -212,19 +227,17 @@
           "time_info": "[09时57分 ~ 18时11分]"
         },
         {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
+          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027301230691596085",
+          "source": "知乎",
           "ranks": [
-            11,
-            16,
-            13,
-            17,
-            23
+            14,
+            8,
+            11
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时43分 ~ 22时19分]"
+          "time_info": "[14时28分 ~ 23时09分]"
         },
         {
           "title": "伊朗强硬回应特朗普封锁威胁",
@@ -269,7 +282,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -283,19 +296,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
-        },
-        {
-          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2027301230691596085",
-          "source": "知乎",
-          "ranks": [
-            14,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时28分 ~ 22时19分]"
         },
         {
           "title": "美国总统特朗普：将于（当地时间）4月27日或之前再次提交针对《华尔街日报》的更新版诉讼。",
@@ -341,6 +341,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时57分 ~ 03时15分]"
+        },
+        {
+          "title": "特朗普赐两杯“毒酒”，万斯干了",
+          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时11分 ~ 23时09分]"
         },
         {
           "title": "美联邦法官驳回特朗普对《华尔街日报》的诽谤诉讼",
@@ -426,17 +437,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时28分 ~ 18时11分]"
-        },
-        {
-          "title": "特朗普赐两杯“毒酒”，万斯干了",
-          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时11分 ~ 22时19分]"
         },
         {
           "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
@@ -579,6 +579,17 @@
           "time_info": "16时24分"
         },
         {
+          "title": "巴西总统卢拉：不担心美国总统特朗普可能试图干预巴西选举。",
+          "url": "https://flash.jin10.com/detail/20260414224413755800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "连封锁霍尔木兹这招都用上了，特朗普在伊朗问题上已无牌可打？",
           "url": "https://wallstreetcn.com/articles/3769807",
           "source": "华尔街见闻",
@@ -612,6 +623,28 @@
           "time_info": "06时38分"
         },
         {
+          "title": "印度总理莫迪：接到美国总统特朗普的电话，我们讨论了西亚的局势。",
+          "url": "https://flash.jin10.com/detail/20260414224207207800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
+          "title": "特朗普再次呼吁英国开放北海石油钻探",
+          "url": "https://flash.jin10.com/detail/20260414224134330800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "一些矿业公司对美国总统特朗普的战略性关键矿产储备计划“金库计划”（Project Vault）表示担忧，警告称这可能会扭曲大宗商品市场，并造成“巨大的过剩”。",
           "url": "https://flash.jin10.com/detail/20260414120850356800",
           "source": "金十数据",
@@ -632,6 +665,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "印度总理莫迪：接到美国总统特朗普的电话。 讨论了西亚局势。",
+          "url": "https://wallstreetcn.com/livenews/3087822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "特朗普再次威胁古巴",
@@ -744,6 +788,17 @@
           "time_info": "01时59分"
         },
         {
+          "title": "美国总统特朗普谈及英国与北海石油。 再次要求英国开放北海石油的钻探。 “英国拒绝开放北海石油开发。” 继续批评风电场。",
+          "url": "https://wallstreetcn.com/livenews/3087813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "美国副总统万斯：罗马教皇应该“专注于道德问题”，让特朗普来主导美国的公共政策。",
           "url": "https://flash.jin10.com/detail/20260414092907197800",
           "source": "金十数据",
@@ -797,12 +852,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "印度总理莫迪与美国总统特朗普通电话。（PTI）",
+          "url": "https://wallstreetcn.com/livenews/3087805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美国“封锁”逼近，美股指低开，石油股上涨，布油破百，黄金回调，铝价四年新高",
@@ -829,6 +895,17 @@
           "time_info": "[07时37分 ~ 14时28分]"
         },
         {
+          "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
+          "url": "https://wallstreetcn.com/articles/3769897",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时09分]"
+        },
+        {
           "title": "金十图示：2026年04月13日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260414003156581800",
           "source": "金十数据",
@@ -838,17 +915,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
-        },
-        {
-          "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
-          "url": "https://wallstreetcn.com/articles/3769897",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
         },
         {
           "title": "金十图示：2026年04月13日（周一）热门中概股行情一览（美股盘中）",
@@ -967,6 +1033,17 @@
           "time_info": "18时11分"
         },
         {
+          "title": "美股高开 中概股普涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%AB%98%E5%BC%80+%E4%B8%AD%E6%A6%82%E8%82%A1%E6%99%AE%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "美股收盘：标普500指数收复本轮冲突以来的所有跌幅",
           "url": "https://flash.jin10.com/detail/20260414040247789800",
           "source": "金十数据",
@@ -1006,7 +1083,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1017,7 +1094,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1028,7 +1105,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         }
@@ -1201,6 +1278,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "月薪3万，去内蒙草原给DeepSeek守机房",
+          "url": "https://wallstreetcn.com/articles/3769935",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         }
       ]
     }
