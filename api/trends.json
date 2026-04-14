@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T12:43:55.755267+08:00",
-  "total_titles_processed": 1030,
+  "generated_at": "2026-04-14T14:28:52.631909+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
         {
           "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
@@ -41,8 +41,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 12时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 14时28分]"
+        },
+        {
+          "title": "特朗普：伊朗致电美方说希望达成协议",
+          "url": "https://news.ifeng.com/c/8sIkl2LlAOK",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时47分 ~ 14时28分]"
         },
         {
           "title": "特朗普呼吁中国购买美国和委内瑞拉石油，中方回应",
@@ -83,18 +95,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时57分 ~ 07时37分]"
-        },
-        {
-          "title": "特朗普：伊朗致电美方说希望达成协议",
-          "url": "https://news.ifeng.com/c/8sIkl2LlAOK",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时47分 ~ 12时43分]"
         },
         {
           "title": "特朗普宣布：今晚10点就封锁！霍尔木兹海峡再次完全中断，两艘船紧急掉头",
@@ -178,11 +178,24 @@
           "url": "https://wallstreetcn.com/articles/3769872",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 14时28分]"
+        },
+        {
+          "title": "【早报】中办、国办：推动行业协会商会深化改革；特朗普：已对所有进出伊朗港口船只实施封锁",
+          "url": "https://www.cls.cn/detail/2342892",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时37分 ~ 14时28分]"
         },
         {
           "title": "伊朗强硬回应特朗普封锁威胁",
@@ -241,18 +254,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
-        },
-        {
-          "title": "【早报】中办、国办：推动行业协会商会深化改革；特朗普：已对所有进出伊朗港口船只实施封锁",
-          "url": "https://www.cls.cn/detail/2342892",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时37分 ~ 12时43分]"
         },
         {
           "title": "特朗普重申将封锁进出伊朗港口船只 中方回应",
@@ -339,6 +340,17 @@
           "time_info": "[00时58分 ~ 01时59分]"
         },
         {
+          "title": "特朗普发了一张图，让西方大吃一惊",
+          "url": "https://news.ifeng.com/c/8sJFcW7Qqjq",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 14时28分]"
+        },
+        {
           "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
           "url": "https://www.cls.cn/detail/2342208",
           "source": "财联社热门",
@@ -351,17 +363,6 @@
           "time_info": "[00时57分 ~ 01时59分]"
         },
         {
-          "title": "特朗普发了一张图，让西方大吃一惊",
-          "url": "https://news.ifeng.com/c/8sJFcW7Qqjq",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 12时43分]"
-        },
-        {
           "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
           "url": "https://www.cls.cn/detail/2342938",
           "source": "财联社热门",
@@ -370,8 +371,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 14时28分]"
         },
         {
           "title": "美国总统特朗普将在任何时刻讲话。（福克斯新闻）",
@@ -384,6 +385,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 01时59分]"
+        },
+        {
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 14时28分]"
         },
         {
           "title": "特朗普：伊朗致电美方说希望达成协议",
@@ -524,15 +537,15 @@
           "time_info": "06时38分"
         },
         {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
+          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027301230691596085",
+          "source": "知乎",
           "ranks": [
-            11
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时43分"
+          "time_info": "14时28分"
         },
         {
           "title": "一些矿业公司对美国总统特朗普的战略性关键矿产储备计划“金库计划”（Project Vault）表示担忧，警告称这可能会扭曲大宗商品市场，并造成“巨大的过剩”。",
@@ -541,7 +554,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -566,6 +579,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "特朗普确认美军已开始封锁伊朗：美国不需要霍尔木兹海峡，是世界需要",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32964974",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "伊朗媒体：特朗普声称“34艘船只通过霍尔木兹海峡”说法不实",
@@ -737,8 +761,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时37分 ~ 12时43分]"
+          "appearance_count": 4,
+          "time_info": "[07时37分 ~ 14时28分]"
         },
         {
           "title": "金十图示：2026年04月13日（周一）美股热门股票行情一览（美股盘中）",
@@ -881,6 +905,57 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI伦敦设立永久办公室",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E4%BC%A6%E6%95%A6%E8%AE%BE%E7%AB%8B%E6%B0%B8%E4%B9%85%E5%8A%9E%E5%85%AC%E5%AE%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 14时28分]"
+        },
+        {
+          "title": "美国FBI局长：今天早上，FBI及合作伙伴在得州开展了一项行动，拘留了一名与上周五早上袭击OpenAI首席执行官Sam Altman家有关的嫌疑人。",
+          "url": "https://flash.jin10.com/detail/20260414043421131800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时42分]"
+        },
+        {
+          "title": "OpenAI 加速 GPT-6 研发，或主打「记忆」与「个性化」，这是否预示 AGI 即将到来？",
+          "url": "https://www.zhihu.com/question/2024505845799556342",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
+          "title": "诺和诺德与OpenAI合作，旨在革新药物研发方式。",
+          "url": "https://wallstreetcn.com/livenews/3087448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -929,46 +1004,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI伦敦设立永久办公室",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E4%BC%A6%E6%95%A6%E8%AE%BE%E7%AB%8B%E6%B0%B8%E4%B9%85%E5%8A%9E%E5%85%AC%E5%AE%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
-          "title": "美国FBI局长：今天早上，FBI及合作伙伴在得州开展了一项行动，拘留了一名与上周五早上袭击OpenAI首席执行官Sam Altman家有关的嫌疑人。",
-          "url": "https://flash.jin10.com/detail/20260414043421131800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时42分]"
-        },
-        {
-          "title": "OpenAI 加速 GPT-6 研发，或主打「记忆」与「个性化」，这是否预示 AGI 即将到来？",
-          "url": "https://www.zhihu.com/question/2024505845799556342",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
         }
       ]
     },
@@ -1022,7 +1057,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -1033,7 +1068,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         }
