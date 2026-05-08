@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T13:26:11.122740+08:00",
-  "total_titles_processed": 974,
+  "generated_at": "2026-05-08T15:21:08.994925+08:00",
+  "total_titles_processed": 1106,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 49,
       "titles": [
         {
           "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时02分 ~ 10时28分]"
+        },
+        {
+          "title": "特朗普回应打击伊朗：只是轻微敲打",
+          "url": "https://news.ifeng.com/c/8swugAgjYdA",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时48分 ~ 15时21分]"
         },
         {
           "title": "特朗普访华前瞻——台湾怎么办？",
@@ -40,19 +53,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时02分 ~ 05时51分]"
-        },
-        {
-          "title": "特朗普回应打击伊朗：只是轻微敲打",
-          "url": "https://news.ifeng.com/c/8swugAgjYdA",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时48分 ~ 13时26分]"
         },
         {
           "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
@@ -158,6 +158,18 @@
           "time_info": "[02时19分 ~ 04时09分]"
         },
         {
+          "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
+          "url": "https://news.ifeng.com/c/8sx7oAMkRMI",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 15时21分]"
+        },
+        {
           "title": "美国总统特朗普：三艘驱逐舰没有受到损坏，但伊朗攻击者遭受了重大损失。",
           "url": "https://flash.jin10.com/detail/20260508063514510800",
           "source": "金十数据",
@@ -168,6 +180,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时55分 ~ 07时49分]"
+        },
+        {
+          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035771230985380677",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 15时21分]"
         },
         {
           "title": "美国总统特朗普：三艘世界级的美国驱逐舰刚刚成功通过霍尔木兹海峡，期间遭到攻击。",
@@ -182,26 +206,27 @@
           "time_info": "[06时55分 ~ 07时49分]"
         },
         {
-          "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
-          "url": "https://news.ifeng.com/c/8sx7oAMkRMI",
+          "title": "晚宴枪击事件后，特朗普再为白宫宴会厅项目辩护",
+          "url": "https://news.ifeng.com/c/8sxEzEFSGYq",
           "source": "凤凰网",
           "ranks": [
-            7
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 15时21分]"
         },
         {
-          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2035771230985380677",
-          "source": "知乎",
+          "title": "黄仁勋：若受邀，将随特朗普一同访问中国",
+          "url": "https://news.ifeng.com/c/8sxPIPLXdSr",
+          "source": "凤凰网",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时25分 ~ 13时26分]"
+          "time_info": "[15时20分 ~ 15时21分]"
         },
         {
           "title": "特朗普回应打击伊朗：只是小惩罚，停火仍然有效",
@@ -228,15 +253,26 @@
           "time_info": "[06时55分 ~ 07时49分]"
         },
         {
-          "title": "晚宴枪击事件后，特朗普再为白宫宴会厅项目辩护",
-          "url": "https://news.ifeng.com/c/8sxEzEFSGYq",
-          "source": "凤凰网",
+          "title": "特朗普：美伊停火仍有效",
+          "url": "https://www.cls.cn/detail/2365528",
+          "source": "财联社热门",
           "ranks": [
-            8
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时25分 ~ 13时26分]"
+          "time_info": "[15时20分 ~ 15时21分]"
+        },
+        {
+          "title": "局势升级！美伊在霍尔木兹交火 特朗普：停火仍有效，只是“轻微敲打”",
+          "url": "https://www.cls.cn/detail/2365546",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 15时21分]"
         },
         {
           "title": "美国、巴西两国首脑华盛顿会晤，卢拉认为：特朗普不会对即将到来的巴西选举产任何影响",
@@ -249,6 +285,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时55分 ~ 07时49分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：若受邀，将随特朗普一同访问中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33120591",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 15时21分]"
         },
         {
           "title": "美国贸易法院裁定特朗普10%全球关税无效",
@@ -356,7 +403,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -477,7 +524,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -499,7 +546,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -530,6 +577,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时02分 ~ 06时55分]"
+        },
+        {
+          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
+          "url": "https://wallstreetcn.com/articles/3771708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时28分 ~ 15时21分]"
         },
         {
           "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
@@ -566,17 +624,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时02分 ~ 05时51分]"
-        },
-        {
-          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
-          "url": "https://wallstreetcn.com/articles/3771708",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时28分 ~ 13时26分]"
         },
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，金银冲高回落",
@@ -629,7 +676,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
@@ -639,22 +686,35 @@
             10,
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时19分 ~ 13时26分]"
+          "appearance_count": 11,
+          "time_info": "[02时19分 ~ 15时21分]"
+        },
+        {
+          "title": "软银将OpenAI保证金贷款目标削减40%，至60亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3100476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
           "url": "https://www.cls.cn/detail/2365554",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 15时21分]"
         },
         {
           "title": "OpenAI推出新模型，以供网络安全团队使用",
@@ -735,7 +795,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         }
