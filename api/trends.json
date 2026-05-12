@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T12:33:42.559070+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2026-05-12T15:40:20.896125+08:00",
+  "total_titles_processed": 1030,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 69,
       "titles": [
         {
           "title": "美国总统特朗普将于5月13日至15日访华",
@@ -74,11 +74,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            8
+            8,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 12时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 15时40分]"
         },
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
@@ -90,6 +91,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时27分 ~ 07时01分]"
+        },
+        {
+          "title": "【早报】特朗普将访华，中方回应；京沪高铁：部分线路涨价",
+          "url": "https://www.cls.cn/detail/2368498",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 15时40分]"
         },
         {
           "title": "外交部介绍特朗普访华具体安排和中方期待",
@@ -118,16 +131,27 @@
           "time_info": "[00时27分 ~ 08时05分]"
         },
         {
-          "title": "【早报】特朗普将访华，中方回应；京沪高铁：部分线路涨价",
-          "url": "https://www.cls.cn/detail/2368498",
-          "source": "财联社热门",
+          "title": "特朗普：中国是一个令人惊叹的国家",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%9B%BD%E5%AE%B6",
+          "source": "百度热搜",
           "ranks": [
-            3,
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 12时33分]"
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 15时40分]"
+        },
+        {
+          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
+          "url": "https://www.zhihu.com/question/2037161087863353508",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 15时40分]"
         },
         {
           "title": "美国参议院少数党领袖：特朗普将美国拖入战争 民主党将继续推动撤军",
@@ -139,18 +163,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
-        },
-        {
-          "title": "特朗普：中国是一个令人惊叹的国家",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%9B%BD%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 12时33分]"
         },
         {
           "title": "伊朗最高领袖顾问：我们在战场上打败了美国人，特朗普最好不要以为他会在外交上获胜。",
@@ -175,17 +187,6 @@
           "time_info": "00时27分"
         },
         {
-          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
-          "url": "https://www.zhihu.com/question/2037161087863353508",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
           "title": "美国总统特朗普谈Hantavirus：这种疾病早就存在了。",
           "url": "https://wallstreetcn.com/livenews/3101781",
           "source": "华尔街见闻-快讯",
@@ -195,6 +196,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "白银价格大涨逾7% 特朗普称停火协议已岌岌可危 | 环球市场",
+          "url": "https://www.cls.cn/detail/2368480",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 15时40分]"
         },
         {
           "title": "据华尔街日报：消息人士称，美国总统特朗普上个月在伊朗战争相关事件后，曾私下向代理司法部长抱怨媒体泄密问题。代理司法部长承诺将申请传票，目标涉及报道国家安全新闻的记者相关记录。",
@@ -209,6 +223,19 @@
           "time_info": "[06时01分 ~ 07时01分]"
         },
         {
+          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
+          "url": "https://wallstreetcn.com/articles/3772005",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 15时40分]"
+        },
+        {
           "title": "美国总统特朗普：非常期待中国之行",
           "url": "https://wallstreetcn.com/livenews/3101894",
           "source": "华尔街见闻-快讯",
@@ -221,28 +248,28 @@
           "time_info": "[07时01分 ~ 08时05分]"
         },
         {
-          "title": "白银价格大涨逾7% 特朗普称停火协议已岌岌可危 | 环球市场",
-          "url": "https://www.cls.cn/detail/2368480",
-          "source": "财联社热门",
+          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            6
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 12时33分]"
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 15时40分]"
         },
         {
-          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
-          "url": "https://wallstreetcn.com/articles/3772005",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：非常期待中国之行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            6
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 12时33分]"
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 15时40分]"
         },
         {
           "title": "特朗普金卡遇冷 白宫商业鬼才现原形",
@@ -255,6 +282,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 02时54分]"
+        },
+        {
+          "title": "特朗普发文称非常期待中国之行",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E7%A7%B0%E9%9D%9E%E5%B8%B8%E6%9C%9F%E5%BE%85%E4%B8%AD%E5%9B%BD%E4%B9%8B%E8%A1%8C%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 15时40分]"
         },
         {
           "title": "伊朗最高领袖顾问：特朗普想要利用现在的“平静”局势，这种想法太幼稚。",
@@ -301,6 +340,17 @@
           "time_info": "00时27分"
         },
         {
+          "title": "特朗普访华期间是否会讨论台湾和香港有关问题？外交部回应",
+          "url": "https://flash.jin10.com/detail/20260512151748258800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
           "title": "美国总统特朗普：与伊朗达成外交解决方案的可能性仍然存在。",
           "url": "https://wallstreetcn.com/livenews/3101777",
           "source": "华尔街见闻-快讯",
@@ -345,6 +395,17 @@
           "time_info": "00时27分"
         },
         {
+          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
           "title": "美国总统特朗普：我们等了伊朗四天，而他们的那份文件准备起来其实十分钟都用不了。",
           "url": "https://flash.jin10.com/detail/20260512000657529800",
           "source": "金十数据",
@@ -387,6 +448,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "特朗普称访华行程将非常精彩",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AE%BF%E5%8D%8E%E8%A1%8C%E7%A8%8B%E5%B0%86%E9%9D%9E%E5%B8%B8%E7%B2%BE%E5%BD%A9%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "美国总统特朗普：伊朗战争通过外交解决仍然可能。",
@@ -565,17 +637,6 @@
           "time_info": "00时27分"
         },
         {
-          "title": "美国总统特朗普：非常期待中国之行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
           "title": "特朗普称伊朗对美方案的回应愚蠢",
           "url": "https://flash.jin10.com/detail/20260512000040779800",
           "source": "金十数据",
@@ -607,17 +668,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
-        },
-        {
-          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
         },
         {
           "title": "美国总统特朗普夸赞（美国）股市表现。",
@@ -697,17 +747,6 @@
           "time_info": "08时05分"
         },
         {
-          "title": "特朗普发文称非常期待中国之行",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E7%A7%B0%E9%9D%9E%E5%B8%B8%E6%9C%9F%E5%BE%85%E4%B8%AD%E5%9B%BD%E4%B9%8B%E8%A1%8C%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
           "title": "美国总统特朗普：不打算因航空燃油价格上涨就对航空业实施救助。（CBS）",
           "url": "https://wallstreetcn.com/livenews/3101758",
           "source": "华尔街见闻-快讯",
@@ -736,7 +775,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
@@ -789,8 +828,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时01分 ~ 12时33分]"
+          "appearance_count": 5,
+          "time_info": "[07时01分 ~ 15时40分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
@@ -803,8 +842,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时01分 ~ 12时33分]"
+          "appearance_count": 6,
+          "time_info": "[06时01分 ~ 15时40分]"
         },
         {
           "title": "美股大类资产类ETF多数收涨，布油基金涨3.6%",
@@ -831,6 +870,18 @@
           "time_info": "[04时30分 ~ 06时01分]"
         },
         {
+          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
+          "url": "https://wallstreetcn.com/articles/3772023",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 15时40分]"
+        },
+        {
           "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
           "url": "https://www.cls.cn/detail/2368431",
           "source": "财联社热门",
@@ -841,6 +892,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时01分 ~ 12时33分]"
+        },
+        {
+          "title": "美股正重演2000年泡沫破灭剧本？“大空头”再发警告：纳指100将迎重大逆转！",
+          "url": "https://www.cls.cn/detail/2368550",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 15时40分]"
         },
         {
           "title": "周一（5月11日），美股人工智能（AI）赢家指数涨1.97%，报400.80点，成分股Lumentum涨16.52%，高意公司Coherent涨13.25%，康宁公司涨10.94%涨幅第三大，戴尔、超微电脑领跌。 AI软件先驱指数跌0.75%，报105.26点，成分股C3.ai收跌3.95%，Datadog则涨1.08%。",
@@ -875,28 +938,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
-        },
-        {
-          "title": "美股正重演2000年泡沫破灭剧本？“大空头”再发警告：纳指100将迎重大逆转！",
-          "url": "https://www.cls.cn/detail/2368550",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
-          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
-          "url": "https://wallstreetcn.com/articles/3772023",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 大型芯片股齐创新高",
@@ -999,7 +1040,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
@@ -1010,7 +1051,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         }
@@ -1094,9 +1135,26 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Claude Code上线新功能",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E4%B8%8A%E7%BA%BF%E6%96%B0%E5%8A%9F%E8%83%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         }
       ]
     }
