@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T22:50:34.279511+08:00",
-  "total_titles_processed": 1499,
+  "generated_at": "2026-05-16T23:53:07.116352+08:00",
+  "total_titles_processed": 1537,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 73,
       "titles": [
         {
           "title": "详讯丨习近平同美国总统特朗普在中南海小范围会晤",
@@ -195,6 +195,18 @@
           "time_info": "[00时00分 ~ 04时55分]"
         },
         {
+          "title": "听到特朗普这句话，台湾当局该醒了",
+          "url": "https://news.ifeng.com/c/8tB1vsSsITh",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时57分 ~ 23时53分]"
+        },
+        {
           "title": "美国总统特朗普结束访华离京",
           "url": "https://m.thepaper.cn/newsDetail_forward_33182040",
           "source": "澎湃新闻",
@@ -299,8 +311,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时00分 ~ 22时50分]"
+          "appearance_count": 23,
+          "time_info": "[00时00分 ~ 23时53分]"
         },
         {
           "title": "特朗普抵达美国现场画面",
@@ -316,6 +328,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[13时48分 ~ 22时50分]"
+        },
+        {
+          "title": "特朗普谈中国行：巨大成功 非常精彩",
+          "url": "https://www.toutiao.com/trending/7639309598792663066/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时54分 ~ 23时53分]"
         },
         {
           "title": "特朗普与高市早苗通电话，讨论访华细节",
@@ -341,18 +366,6 @@
           "time_info": "[00时00分 ~ 06时49分]"
         },
         {
-          "title": "听到特朗普这句话，台湾当局该醒了",
-          "url": "https://news.ifeng.com/c/8tB1vsSsITh",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时57分 ~ 22时50分]"
-        },
-        {
           "title": "特朗普称美伊停火系“应其他国家要求”",
           "url": "https://wallstreetcn.com/articles/3772383",
           "source": "华尔街见闻",
@@ -366,6 +379,17 @@
           "time_info": "[10时15分 ~ 21时07分]"
         },
         {
+          "title": "特朗普：不希望看到台湾有人闹“独立”",
+          "url": "https://news.ifeng.com/c/8tBHQ0gcJR0",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时50分 ~ 23时53分]"
+        },
+        {
           "title": "特朗普政府拟设17亿美元“赔偿基金” 补偿遭拜登调查盟友",
           "url": "https://flash.jin10.com/detail/20260516043257179800",
           "source": "金十数据",
@@ -375,19 +399,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时54分 ~ 07时50分]"
-        },
-        {
-          "title": "特朗普谈中国行：巨大成功 非常精彩",
-          "url": "https://www.toutiao.com/trending/7639309598792663066/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时54分 ~ 22时50分]"
         },
         {
           "title": "特朗普松口：可接受伊朗暂停核计划20年",
@@ -402,6 +413,17 @@
           "time_info": "[13时48分 ~ 17时25分]"
         },
         {
+          "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
+          "url": "https://news.ifeng.com/c/8tAvchdzOd1",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时57分 ~ 23时53分]"
+        },
+        {
           "title": "特朗普表态“不希望台湾走向独立”，引爆岛内舆论",
           "url": "https://news.ifeng.com/c/8tB3zroxR72",
           "source": "凤凰网",
@@ -411,17 +433,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
-        },
-        {
-          "title": "特朗普：不希望看到台湾有人闹“独立”",
-          "url": "https://news.ifeng.com/c/8tBHQ0gcJR0",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
         },
         {
           "title": "特朗普：“伊斯兰国”二号头目被消灭",
@@ -436,6 +447,18 @@
           "time_info": "[13时48分 ~ 17时25分]"
         },
         {
+          "title": "特朗普警告台独",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E5%8F%B0%E7%8B%AC%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时50分 ~ 23时53分]"
+        },
+        {
           "title": "美国加州州长纽森：去年，特朗普和共和党人选择提高数百万美国人在《平价医疗法案》（ACA）医保市场上的医疗保险保费。我提出的预算方案将继续为加州低收入居民保留每月0美元保费医保计划，以帮助收拾特朗普制造的财政混乱。",
           "url": "https://flash.jin10.com/detail/20260516095113788800",
           "source": "金十数据",
@@ -445,17 +468,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
-        },
-        {
-          "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
-          "url": "https://news.ifeng.com/c/8tAvchdzOd1",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时57分 ~ 22时50分]"
         },
         {
           "title": "特朗普抵达美国",
@@ -544,6 +556,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时49分 ~ 07时50分]"
+        },
+        {
+          "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
+          "url": "https://www.zhihu.com/question/2039019083463488463",
+          "source": "知乎",
+          "ranks": [
+            16,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时07分 ~ 23时53分]"
+        },
+        {
+          "title": "特朗普警告台湾不要试图走向“独立”",
+          "url": "https://www.toutiao.com/trending/7640462139869630015/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时07分 ~ 23时53分]"
         },
         {
           "title": "特朗普称随访美国商人是自己想来的",
@@ -642,6 +678,18 @@
           "time_info": "[01时42分 ~ 06时49分]"
         },
         {
+          "title": "美国总统特朗普：马里兰州刚刚曝光了50万张假邮寄选票。作为一个国家，我们不能再容忍下去了！选民身份验证和公民身份证明现在必须得到批准，不正当的邮寄投票必须被制止！",
+          "url": "https://flash.jin10.com/detail/20260516214439239800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时53分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗没有底牌。",
           "url": "https://wallstreetcn.com/livenews/3104657",
           "source": "华尔街见闻-快讯",
@@ -652,6 +700,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时49分 ~ 07时50分]"
+        },
+        {
+          "title": "美国总统特朗普：《拯救美国法案》现在就必须通过，要利用住房法案和《外国情报监控法》来推动它。",
+          "url": "https://flash.jin10.com/detail/20260516214353885800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时53分]"
         },
         {
           "title": "美国总统特朗普：美方已经在委内瑞拉石油问题上赚钱。",
@@ -690,18 +750,6 @@
           "time_info": "[07时50分 ~ 10时15分]"
         },
         {
-          "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
-          "url": "https://www.zhihu.com/question/2039019083463488463",
-          "source": "知乎",
-          "ranks": [
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时07分 ~ 22时50分]"
-        },
-        {
           "title": "美国总统特朗普：预计到我任期结束时，美国将拥有（全球）芯片业务的40%-50%。",
           "url": "https://wallstreetcn.com/livenews/3104653",
           "source": "华尔街见闻-快讯",
@@ -712,17 +760,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时49分 ~ 07时50分]"
-        },
-        {
-          "title": "特朗普警告台湾不要试图走向“独立”",
-          "url": "https://www.toutiao.com/trending/7640462139869630015/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时07分 ~ 22时50分]"
         },
         {
           "title": "美国总统特朗普与日本首相高市早苗就同盟关系进行通话",
@@ -748,6 +785,17 @@
           "time_info": "[13时48分 ~ 13时49分]"
         },
         {
+          "title": "特朗普结束访华后，明确表示「不希望看到（台湾）有人走向独立」，这一表态有多关键？",
+          "url": "https://www.zhihu.com/question/2039077052658049213",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
+        },
+        {
           "title": "市场消息：特朗普政府正推动加快阿拉斯加的石油许可。",
           "url": "https://flash.jin10.com/detail/20260516023552194800",
           "source": "金十数据",
@@ -759,28 +807,6 @@
           "time_info": "03时22分"
         },
         {
-          "title": "美国总统特朗普：马里兰州刚刚曝光了50万张假邮寄选票。作为一个国家，我们不能再容忍下去了！选民身份验证和公民身份证明现在必须得到批准，不正当的邮寄投票必须被制止！",
-          "url": "https://flash.jin10.com/detail/20260516214439239800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "美国总统特朗普：《拯救美国法案》现在就必须通过，要利用住房法案和《外国情报监控法》来推动它。",
-          "url": "https://flash.jin10.com/detail/20260516214353885800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
           "title": "【以军：以色列正在为重启对伊朗军事行动做准备】当地时间15日晚，总台记者获悉，一位以色列高级官员称，以色列正在为即将重启针对伊朗的军事行动做准备，军事行动可能将“持续数天甚至数周”。这位官员表示：“美国人明白与伊朗的谈判毫无进展”。他补充道：“我们正在为持续数天甚至数周的战斗做准备，并等待特朗普总统的最终决定。未来24小时内我们将了解更多情况”。（央视）",
           "url": "https://wallstreetcn.com/livenews/3104587",
           "source": "华尔街见闻-快讯",
@@ -790,17 +816,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
-        },
-        {
-          "title": "特朗普警告台独",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E5%8F%B0%E7%8B%AC%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
         },
         {
           "title": "据沙特媒体Alhadath：以色列方面表示，为可能与伊朗恢复战斗做好准备。恢复对伊朗的战争决定仍然取决于特朗普总统。",
@@ -883,7 +898,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "原油大涨掀债市抛售潮，美股回落，英伟达跌超4%，长债收益率创数年新高，金属重挫",
@@ -891,11 +906,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时50分 ~ 22时50分]"
+          "appearance_count": 14,
+          "time_info": "[07时50分 ~ 23时53分]"
         },
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -908,8 +924,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时50分 ~ 22时50分]"
+          "appearance_count": 14,
+          "time_info": "[07时50分 ~ 23时53分]"
         },
         {
           "title": "油价与美债收益率齐升 美股期指集体走低 芯片股盘前普跌 | 今夜看点",
@@ -1075,6 +1091,17 @@
           "time_info": "[01时43分 ~ 03时22分]"
         },
         {
+          "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
+          "url": "https://www.cls.cn/detail/2373172",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
+        },
+        {
           "title": "美股大类资产类ETF普遍收跌，新兴市场ETF跌超3.4%，黄金ETF跌超2.3%",
           "url": "https://wallstreetcn.com/livenews/3104648",
           "source": "华尔街见闻-快讯",
@@ -1177,11 +1204,12 @@
             7,
             6,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时48分 ~ 22时50分]"
+          "appearance_count": 12,
+          "time_info": "[13时48分 ~ 23时53分]"
         },
         {
           "title": "对冲基金经理比尔·阿克曼：我们出售了谷歌(GOOG.O)，购买了微软(MSFT.O)。",
@@ -1272,8 +1300,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时49分 ~ 22时50分]"
+          "appearance_count": 4,
+          "time_info": "[19时49分 ~ 23时53分]"
         },
         {
           "title": "市场消息：OpenAI与马耳他达成合作，向所有公民提供ChatGPT Plus服务。",
@@ -1343,6 +1371,19 @@
           "time_info": "[03时21分 ~ 10时15分]"
         },
         {
+          "title": "为什么 Deepseek 在输入 <think 后会匹配到疑似其他对话?",
+          "url": "https://www.zhihu.com/question/2038402853274915914",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时07分 ~ 23时53分]"
+        },
+        {
           "title": "网易新闻、网易小蜜蜂宣布已接入DeepSeek-V4",
           "url": "https://wallstreetcn.com/livenews/3104769",
           "source": "华尔街见闻-快讯",
@@ -1354,18 +1395,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时25分 ~ 19时49分]"
-        },
-        {
-          "title": "为什么 Deepseek 在输入 <think 后会匹配到疑似其他对话?",
-          "url": "https://www.zhihu.com/question/2038402853274915914",
-          "source": "知乎",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时07分 ~ 22时50分]"
         }
       ]
     },
