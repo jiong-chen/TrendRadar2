@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T10:41:28.271142+08:00",
-  "total_titles_processed": 764,
+  "generated_at": "2026-05-18T14:51:15.904964+08:00",
+  "total_titles_processed": 955,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "岛内称特朗普警告“台独”重击赖当局",
@@ -36,6 +36,17 @@
           "time_info": "[00时50分 ~ 06时47分]"
         },
         {
+          "title": "特朗普威胁伊朗，又开始倒计时了",
+          "url": "https://news.ifeng.com/c/8tDfE3dOA2C",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时41分 ~ 14时51分]"
+        },
+        {
           "title": "特朗普访华后续观察",
           "url": "https://www.douyin.com/hot/2502108",
           "source": "抖音",
@@ -49,15 +60,39 @@
           "time_info": "[00时50分 ~ 05时48分]"
         },
         {
-          "title": "特朗普威胁伊朗，又开始倒计时了",
-          "url": "https://news.ifeng.com/c/8tDfE3dOA2C",
+          "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
+          "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
           "source": "凤凰网",
           "ranks": [
-            1
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时41分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时41分 ~ 14时51分]"
+        },
+        {
+          "title": "特朗普涉台“四不”示警“台独”",
+          "url": "https://www.toutiao.com/trending/7641033902121058340/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时41分 ~ 14时51分]"
+        },
+        {
+          "title": "如何看待特朗普访华和战争威胁？伊朗民众回应",
+          "url": "https://news.ifeng.com/c/8tDhN597aTX",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 14时51分]"
         },
         {
           "title": "美国总统特朗普在社媒上分享了一张人工智能生成的与外星人的合照。",
@@ -77,18 +112,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
-          "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         },
@@ -115,17 +139,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时05分 ~ 07时53分]"
-        },
-        {
-          "title": "特朗普涉台“四不”示警“台独”",
-          "url": "https://www.toutiao.com/trending/7641033902121058340/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时41分"
         },
         {
           "title": "特朗普的格陵兰岛特使抵达当地首府努克",
@@ -228,6 +241,17 @@
           "time_info": "[02时59分 ~ 04时05分]"
         },
         {
+          "title": "特朗普涉台“四不”示警“台独”",
+          "url": "https://news.ifeng.com/c/8tDfE3dO9u7",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 14时51分]"
+        },
+        {
           "title": "据AXIOS网站：美国总统特朗普周六与万斯、威特科夫及鲁比奥见面，商讨伊朗问题。",
           "url": "https://flash.jin10.com/detail/20260518024439981800",
           "source": "金十数据",
@@ -268,7 +292,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         },
@@ -334,7 +358,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         },
@@ -364,7 +388,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
@@ -391,6 +415,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时47分 ~ 10时41分]"
+        },
+        {
+          "title": "美股不祥信号浮现？美债收益率狂飙 一文解析背后三大推手",
+          "url": "https://www.cls.cn/detail/2373864",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 14时51分]"
         },
         {
           "title": "美股股指期货周一小幅低开，其中道指期货跌0.3%。",
@@ -438,9 +473,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时41分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时41分 ~ 14时51分]"
         }
       ]
     }
