@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T14:32:20.632399+08:00",
-  "total_titles_processed": 816,
+  "generated_at": "2026-05-24T17:17:50.063133+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普变卦前，接到电话警告“会输给中国”",
@@ -105,6 +105,18 @@
           "time_info": "[05时48分 ~ 10时38分]"
         },
         {
+          "title": "中东再传利好！特朗普：美伊协议基本谈成 霍尔木兹海峡将开放",
+          "url": "https://www.cls.cn/detail/2379936",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 17时17分]"
+        },
+        {
           "title": "特朗普称美伊达成协议还是重启战事仍是“对半开”，又说美伊“越来越接近”达成协议",
           "url": "https://wallstreetcn.com/livenews/3108417",
           "source": "华尔街见闻-快讯",
@@ -117,6 +129,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时03分 ~ 10时38分]"
+        },
+        {
+          "title": "特朗普访华让印度有点傻眼了，鲁比奥“收拾烂摊子”",
+          "url": "https://news.ifeng.com/c/8tN4z0QKtP2",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡",
@@ -143,17 +166,6 @@
           "time_info": "[05时48分 ~ 10时38分]"
         },
         {
-          "title": "中东再传利好！特朗普：美伊协议基本谈成 霍尔木兹海峡将开放",
-          "url": "https://www.cls.cn/detail/2379936",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
           "title": "据News Nation白宫记者：周六晚上9:30（北京时间早上9:30），特朗普总统仍在椭圆形办公室办公。",
           "url": "https://flash.jin10.com/detail/20260524093809982800",
           "source": "金十数据",
@@ -163,6 +175,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
+          "url": "https://wallstreetcn.com/articles/3772980",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 17时17分]"
         },
         {
           "title": "据法新社援引知情人士报道，法国总统马克龙与特朗普及海湾领导人通话，呼吁通过谈判解决与伊朗的问题。",
@@ -218,18 +242,6 @@
           "time_info": "[04时03分 ~ 10时38分]"
         },
         {
-          "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
-          "url": "https://wallstreetcn.com/articles/3772980",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 14时32分]"
-        },
-        {
           "title": "美国总统特朗普对以色列第12频道表示，如果协议对以色列不利，我将不会签署。",
           "url": "https://flash.jin10.com/detail/20260524013822637800",
           "source": "金十数据",
@@ -240,6 +252,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时03分 ~ 04时03分]"
+        },
+        {
+          "title": "白宫附近传出数十声枪响！特朗普当时正在白宫内，特勤局：枪手被执法人员击中，送医后身亡",
+          "url": "https://wallstreetcn.com/articles/3772979",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 17时17分]"
         },
         {
           "title": "特朗普称美伊协议基本谈成",
@@ -401,6 +425,18 @@
           "time_info": "[04时03分 ~ 05时48分]"
         },
         {
+          "title": "1季度做了3711笔交易！高频交易、先买后吹——这是“白宫股神”特朗普的交易策略",
+          "url": "https://wallstreetcn.com/articles/3772984",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 17时17分]"
+        },
+        {
           "title": "特朗普称可能于24日决定是否恢复对伊军事行动",
           "url": "https://flash.jin10.com/detail/20260524000945140800",
           "source": "金十数据",
@@ -460,17 +496,6 @@
           "time_info": "[00时59分 ~ 02时03分]"
         },
         {
-          "title": "白宫附近传出数十声枪响！特朗普当时正在白宫内，特勤局：枪手被执法人员击中，送医后身亡",
-          "url": "https://wallstreetcn.com/articles/3772979",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
           "title": "美国官员：在特朗普所称协议中，伊朗同意放弃高浓缩铀",
           "url": "https://flash.jin10.com/detail/20260524091450206800",
           "source": "金十数据",
@@ -493,17 +518,6 @@
           "time_info": "00时59分"
         },
         {
-          "title": "1季度做了3711笔交易！高频交易、先买后吹——这是“白宫股神”特朗普的交易策略",
-          "url": "https://wallstreetcn.com/articles/3772984",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
           "title": "据以色列第12频道报道，以色列官员称，美国特使威特科夫正试图“不惜一切代价”促成协议，并且正是他在施压特朗普总统不要恢复战事。",
           "url": "https://flash.jin10.com/detail/20260524010941345800",
           "source": "金十数据",
@@ -521,7 +535,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -565,7 +579,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -664,7 +678,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -697,7 +711,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -749,20 +763,8 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "deepseek狂降价,友商被卷哭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 14时32分]"
-        },
         {
           "title": "永久2.5折！DeepSeek宣布V4-Pro模型API降价",
           "url": "https://m.thepaper.cn/newsDetail_forward_33220418",
@@ -772,11 +774,25 @@
             15,
             14,
             17,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 14时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 17时17分]"
+        },
+        {
+          "title": "deepseek狂降价,友商被卷哭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 17时17分]"
         },
         {
           "title": "DeepSeek宣布：永久降价",
@@ -799,8 +815,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 14时32分]"
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 17时17分]"
         },
         {
           "title": "DeepSeek宣布，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。DeepSeek在社交媒体上表示，“将把折扣永久化！”根据官方介绍，百万tokens输入（缓存命中）价格将为0.025元，百万tokens输入（缓存未命中）价格为3元，百万tokens输出价格为6元。（澎湃新闻）",
@@ -827,6 +843,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时38分 ~ 14时32分]"
+        },
+        {
+          "title": "DeepSeek 引入 API 并发限制，这对开发者意味着什么？",
+          "url": "https://www.zhihu.com/question/2041119709844788638",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         }
       ]
     },
@@ -844,8 +882,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 14时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 17时17分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -857,8 +895,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 14时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 17时17分]"
         },
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
