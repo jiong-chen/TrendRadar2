@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T07:55:29.779994+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-05-25T10:48:00.079250+08:00",
+  "total_titles_processed": 769,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -149,6 +149,17 @@
           "time_info": "[00时02分 ~ 03时07分]"
         },
         {
+          "title": "智胜特朗普？美媒酸了：中国取消对非关税这招太“高明”了",
+          "url": "https://news.ifeng.com/c/8tOEfLcy7On",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时47分 ~ 10时48分]"
+        },
+        {
           "title": "特朗普：美伊协议“尚未完全谈妥”",
           "url": "https://flash.jin10.com/detail/20260525035821576800",
           "source": "金十数据",
@@ -184,13 +195,24 @@
           "time_info": "03时07分"
         },
         {
+          "title": "特朗普的伊朗算盘遇到新对手：美债！若收益率不跌，美国人一年多付数百亿利息",
+          "url": "https://flash.jin10.com/detail/20260525103922806800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
           "title": "特朗普称美伊协议“未谈妥”",
           "url": "https://www.douyin.com/hot/2511044",
           "source": "抖音",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -267,7 +289,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         }
@@ -286,8 +308,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时55分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 10时48分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
@@ -307,22 +329,24 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时55分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 10时48分]"
         },
         {
           "title": "deepseek狂降价,友商被卷哭",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时55分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 10时48分]"
         }
       ]
     },
