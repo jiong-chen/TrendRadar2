@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T11:58:02.671559+08:00",
-  "total_titles_processed": 787,
+  "generated_at": "2026-05-26T15:43:18.985763+08:00",
+  "total_titles_processed": 957,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
@@ -37,8 +37,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 15时43分]"
+        },
+        {
+          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
+          "url": "https://wallstreetcn.com/articles/3773076",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时00分 ~ 15时43分]"
         },
         {
           "title": "特朗普：浓缩铀要么移交给美国 要么销毁",
@@ -50,18 +63,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
-        },
-        {
-          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
-          "url": "https://wallstreetcn.com/articles/3773076",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时00分 ~ 11时58分]"
         },
         {
           "title": "特朗普要求先签“亚伯拉罕协议” 沙特方面回应",
@@ -80,11 +81,12 @@
           "url": "https://www.cls.cn/detail/2381211",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 15时43分]"
         },
         {
           "title": "据AXIOS：一位美国高级官员透露，特朗普政府将支持以色列加大对真主党的军事打击力度。",
@@ -145,6 +147,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 05时01分]"
+        },
+        {
+          "title": "创纪录！特朗普最新民调曝光",
+          "url": "https://news.ifeng.com/c/8tRHolWd0Kl",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "特朗普要求先签“亚伯拉罕协议” 沙特方面回应",
@@ -230,9 +243,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
+        },
+        {
+          "title": "特朗普民调支持率创新低",
+          "url": "https://www.toutiao.com/trending/7642998344314634276/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "特朗普敦促沙特承认以色列，将其作为伊朗协议的一部分",
@@ -350,11 +374,12 @@
           "url": "https://www.zhihu.com/question/2033335202307647295",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 15时43分]"
         }
       ]
     },
@@ -372,6 +397,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI CEO：人工智能不太可能引发就业末日",
+          "url": "https://flash.jin10.com/detail/20260526152940860800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         }
       ]
     }
