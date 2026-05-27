@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-05-27T07:05:03.321511+08:00",
-  "total_titles_processed": 521,
+  "generated_at": "2026-05-27T10:46:04.969753+08:00",
+  "total_titles_processed": 730,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "特朗普提了一个非分要求",
+          "url": "https://news.ifeng.com/c/8tSb04uTeLk",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
+          "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 10时46分]"
+        },
         {
           "title": "美伊谈判关键之际 特朗普与内塔尼亚胡通话",
           "url": "https://flash.jin10.com/detail/20260527033724525800",
@@ -28,19 +53,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
-        },
-        {
-          "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时54分 ~ 07时05分]"
         },
         {
           "title": "美国总统特朗普：确保商品期货交易委员会对预测市场专属管辖权得到维护至关重要。",
@@ -195,7 +207,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -206,7 +218,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -217,7 +229,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -239,7 +251,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -250,7 +262,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -261,7 +273,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         }
@@ -269,7 +281,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美伊边打边谈，美股开盘半导体股普涨，美光大涨12%，美债收益率回落，金银下挫",
@@ -291,19 +303,31 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时54分 ~ 07时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 10时46分]"
+        },
+        {
+          "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
+          "url": "https://www.cls.cn/detail/2382303",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
           "url": "https://www.cls.cn/detail/2382288",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时04分 ~ 07时05分]"
+          "appearance_count": 4,
+          "time_info": "[07时04分 ~ 10时46分]"
         },
         {
           "title": "金十图示：2026年05月26日（周二）美股热门股票行情一览（美股盘中）",
