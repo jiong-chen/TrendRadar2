@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T17:42:04.968877+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2026-05-29T20:44:58.821209+08:00",
+  "total_titles_processed": 1197,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3773313",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时06分 ~ 17时42分]"
+          "appearance_count": 5,
+          "time_info": "[08时06分 ~ 20时44分]"
         },
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
@@ -224,8 +225,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时59分 ~ 17时42分]"
+          "appearance_count": 8,
+          "time_info": "[01时59分 ~ 20时44分]"
         },
         {
           "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
@@ -262,20 +263,20 @@
           "time_info": "[01时59分 ~ 08时06分]"
         },
         {
-          "title": "美国或迎来印有特朗普头像的250美元钞票 美国财长称已做好准备",
-          "url": "https://www.cls.cn/detail/2385033",
-          "source": "财联社热门",
+          "title": "黄仁勋披露访华细节：特朗普让我在华盛顿登机，可我在西海岸",
+          "url": "https://news.ifeng.com/c/8tW3etoYczE",
+          "source": "凤凰网",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 20时44分]"
         },
         {
-          "title": "黄仁勋披露访华细节：特朗普让我在华盛顿登机，可我在西海岸",
-          "url": "https://news.ifeng.com/c/8tW3etoYczE",
-          "source": "凤凰网",
+          "title": "美国或迎来印有特朗普头像的250美元钞票 美国财长称已做好准备",
+          "url": "https://www.cls.cn/detail/2385033",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
@@ -323,7 +324,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         }
@@ -338,11 +339,12 @@
           "url": "https://www.zhihu.com/question/2043515093007303790",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 20时44分]"
         },
         {
           "title": "claude opus 4.8 发布了，相较于 opus4.7，有什么提升的地方？",
@@ -488,11 +490,12 @@
           "url": "https://wallstreetcn.com/articles/3773389",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 20时44分]"
         },
         {
           "title": "OpenAI正调查影响用户登录和使用ChatGPT的故障",
@@ -542,8 +545,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 20时44分]"
         }
       ]
     }
