@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T02:01:00.326115+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2026-05-31T03:22:18.090332+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 03时22分]"
         },
         {
           "title": "美国总统特朗普：将不在“自由250”音乐会上演出，但会在华盛顿特区同一地点的竞选集会上发表演讲。",
@@ -50,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时22分]"
         },
         {
           "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
@@ -59,11 +60,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时22分]"
         },
         {
           "title": "美国法官裁定将特朗普名字从肯尼迪中心移除",
@@ -74,8 +76,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时22分]"
         },
         {
           "title": "一图看懂｜“不听话就炸掉”，特朗普威胁/攻击过哪些国家？",
@@ -86,8 +88,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时22分]"
         },
         {
           "title": "白宫公布特朗普年度体检报告：增重超6公斤，腿部肿胀已经减轻",
@@ -97,8 +99,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 03时22分]"
         },
         {
           "title": "被“除名” 遭停工 特朗普最新回应：震惊 史上最不公对待",
@@ -108,8 +110,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 03时22分]"
         }
       ]
     },
@@ -122,11 +124,12 @@
           "url": "https://wallstreetcn.com/articles/3773491",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时22分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
@@ -136,8 +139,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时22分]"
         }
       ]
     },
@@ -150,11 +153,12 @@
           "url": "https://www.zhihu.com/question/2040472846393161206",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 03时22分]"
         }
       ]
     },
@@ -170,8 +174,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 03时22分]"
         }
       ]
     },
@@ -184,11 +188,12 @@
           "url": "https://wallstreetcn.com/articles/3773482",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时22分]"
         }
       ]
     }
