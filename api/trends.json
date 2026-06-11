@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-06-11T15:25:48.448703+08:00",
-  "total_titles_processed": 908,
+  "generated_at": "2026-06-11T20:05:57.976220+08:00",
+  "total_titles_processed": 1118,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
-        {
-          "title": "美贸易法院：特朗普，快退钱！",
-          "url": "https://news.ifeng.com/c/8tqRZQUDFAS",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时06分 ~ 10时55分]"
-        },
         {
           "title": "特朗普威胁打击伊朗电厂、桥梁，油价应声攀升，俄外交部：袭击民用设施“绝对不可接受”",
           "url": "https://wallstreetcn.com/articles/3774340",
@@ -30,8 +18,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时06分 ~ 15时25分]"
+          "appearance_count": 6,
+          "time_info": "[02时06分 ~ 20时05分]"
+        },
+        {
+          "title": "美贸易法院：特朗普，快退钱！",
+          "url": "https://news.ifeng.com/c/8tqRZQUDFAS",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 10时55分]"
         },
         {
           "title": "特朗普公开了一个秘密，全世界都有点懵",
@@ -74,7 +74,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -171,6 +171,17 @@
           "time_info": "02时06分"
         },
         {
+          "title": "不断强调“接近协议”，如今又开启“强硬打击”，特朗普能打破美伊“不战不和”僵局吗？",
+          "url": "https://wallstreetcn.com/articles/3774371",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
+        {
           "title": "美国参议院少数党领袖舒默：特朗普居然真的说出了“我爱通胀”，而且是在镜头前，让全美国都听到了。他对你们的轻蔑没有底线。",
           "url": "https://flash.jin10.com/detail/20260611013844173800",
           "source": "金十数据",
@@ -243,7 +254,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -295,7 +306,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
@@ -305,8 +316,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 15时25分]"
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 20时05分]"
         },
         {
           "title": "美股收盘：避险情绪升温芯片板块再现抛售潮 道指纳指跌近2%",
@@ -339,9 +350,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 20时05分]"
         },
         {
           "title": "亚马逊扩张零担物流业务，引爆美股运输板块新一轮暴跌，传统货运巨头全线重挫",
@@ -386,6 +397,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "超微电脑美股盘前涨幅收窄至2.5%，公司以每股存托股份50美元的价格定价发行7500万股存托股份。",
+          "url": "https://wallstreetcn.com/livenews/3118110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
         }
       ]
     },
@@ -422,7 +444,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -500,7 +522,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -514,6 +536,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek为何发力Agent",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%B8%BA%E4%BD%95%E5%8F%91%E5%8A%9BAgent%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
         }
       ]
     },
