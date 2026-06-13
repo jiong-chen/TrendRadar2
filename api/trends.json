@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T07:11:34.883649+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-06-13T10:45:02.867283+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
@@ -17,6 +17,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时34分 ~ 07时11分]"
+        },
+        {
+          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
+          "url": "https://wallstreetcn.com/articles/3774481",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时11分 ~ 10时45分]"
+        },
+        {
+          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
+          "url": "https://www.cls.cn/detail/2398916",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时11分 ~ 10时45分]"
         },
         {
           "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
@@ -31,15 +55,17 @@
           "time_info": "[01时34分 ~ 05时48分]"
         },
         {
-          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
-          "url": "https://wallstreetcn.com/articles/3774481",
-          "source": "华尔街见闻",
+          "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
+          "url": "https://www.cls.cn/detail/2398893",
+          "source": "财联社热门",
           "ranks": [
-            5
+            13,
+            10,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时48分 ~ 10时45分]"
         },
         {
           "title": "金十图示：2026年06月12日（周五）美股热门股票行情一览（美股收盘）",
@@ -70,18 +96,6 @@
           "ranks": [
             9,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时48分 ~ 07时11分]"
-        },
-        {
-          "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
-          "url": "https://www.cls.cn/detail/2398893",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -170,21 +184,21 @@
           "time_info": "01时34分"
         },
         {
-          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
-          "url": "https://www.cls.cn/detail/2398916",
-          "source": "财联社热门",
+          "title": "周五（6月12日），美股人工智能（AI）赢家指数涨1.93%，报424.15点，本周累计上涨5.43%。 成分股中，Arm控股收涨11.27%，希捷科技涨7.25%，西部数据涨6.35%，高意公司Coherent涨5.90%表现第四，阿斯麦ADR收跌1.89%跌幅第四大。",
+          "url": "https://wallstreetcn.com/livenews/3119107",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "10时45分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
@@ -198,23 +212,35 @@
           "time_info": "[01时34分 ~ 03时59分]"
         },
         {
-          "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
-          "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时34分 ~ 07时11分]"
-        },
-        {
           "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
           "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
           "source": "澎湃新闻",
           "ranks": [
             13,
-            14
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时34分 ~ 10时45分]"
+        },
+        {
+          "title": "特朗普说打死委内瑞拉一黑帮团伙头目",
+          "url": "https://wallstreetcn.com/livenews/3119112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
+          "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
+          "source": "凤凰网",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -233,6 +259,17 @@
           "time_info": "[03时59分 ~ 07时11分]"
         },
         {
+          "title": "特朗普：美军打死“阿拉瓜火车”组织首领尼尼奥·格雷罗",
+          "url": "https://flash.jin10.com/detail/20260613092918763800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
           "title": "美国总统特朗普称伊朗外长阿拉格齐在X上发的帖子“非常积极”。 特朗普称他已要求伊朗澄清有关美伊协议的报道。 可能会在周末、或下周一签署协议。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3119010",
           "source": "华尔街见闻-快讯",
@@ -242,6 +279,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "美国总统特朗普：此次行动是在与我们委内瑞拉的朋友密切协调下进行的，我们与委内瑞拉方面合作得非常顺利。",
+          "url": "https://flash.jin10.com/detail/20260613090715507800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "美国总统特朗普：在我重返总统办公室之前，乔·拜登向数百万非法犯罪分子敞开了我们的南部边境，任由这支外来军队强暴、残害、谋杀美国公民而完全不受惩罚。",
+          "url": "https://flash.jin10.com/detail/20260613090651699800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "美国总统特朗普：在我的指示下，美国南方司令部发动了一次迅速而致命的打击，成功击毙了“阿拉瓜火车”这一地球上最残暴的恐怖组织之一的臭名昭著的头目“尼诺·格雷罗”（Niño Guerrero）。",
+          "url": "https://flash.jin10.com/detail/20260613090539450800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         }
       ]
     },
@@ -274,6 +344,34 @@
       ]
     },
     {
+      "keyword_group": "Claude",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "亚马逊云服务(AWS)：Anthropic已要求我们撤销所有用户在全部区域范围内对Claude Fable 5和Claude Mythos 5的访问权限。所有其他Anthropic模型不受影响。",
+          "url": "https://wallstreetcn.com/livenews/3119114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "亚马逊云服务(AWS)：Anthropic已要求我们撤销所有用户在全部区域范围内对Claude Fable 5和Claude Mythos 5的访问权限。所有其他Anthropic模型不受影响。",
+          "url": "https://flash.jin10.com/detail/20260613093036412800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -287,6 +385,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3119103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         }
       ]
     }
