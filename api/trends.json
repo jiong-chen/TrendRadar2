@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T18:12:16.224506+08:00",
-  "total_titles_processed": 1063,
+  "generated_at": "2026-06-18T22:00:02.652746+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
@@ -21,6 +21,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时49分 ~ 18时12分]"
+        },
+        {
+          "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
+          "url": "https://wallstreetcn.com/articles/3774946",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时11分 ~ 22时00分]"
         },
         {
           "title": "“马克龙想借中国，来跟特朗普讨价还价”",
@@ -91,19 +104,6 @@
           "time_info": "[08时11分 ~ 08时12分]"
         },
         {
-          "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
-          "url": "https://wallstreetcn.com/articles/3774946",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时11分 ~ 18时12分]"
-        },
-        {
           "title": "特朗普对记者大喊：我们签了，在凡尔赛宫里签的",
           "url": "https://v.ifeng.com/c/8u3B5EM0Jqc",
           "source": "凤凰网",
@@ -143,7 +143,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -172,6 +172,19 @@
           "time_info": "[13时50分 ~ 18时12分]"
         },
         {
+          "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
+          "url": "https://wallstreetcn.com/articles/3774952",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时50分 ~ 22时00分]"
+        },
+        {
           "title": "提醒：美国总统特朗普在七国集团（G7）峰会期间的新闻发布会结束。",
           "url": "https://wallstreetcn.com/livenews/3121170",
           "source": "华尔街见闻-快讯",
@@ -183,16 +196,29 @@
           "time_info": "01时49分"
         },
         {
-          "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
-          "url": "https://wallstreetcn.com/articles/3774952",
-          "source": "华尔街见闻",
+          "title": "美官员称特朗普亲自签署美伊谅解备忘录",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33404444",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            6
+            15,
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时50分 ~ 22时00分]"
+        },
+        {
+          "title": "美学者：特朗普凡尔赛签约离谱至极",
+          "url": "https://news.ifeng.com/c/8u3ct1grAdS",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时50分 ~ 18时12分]"
+          "time_info": "[18时12分 ~ 22时00分]"
         },
         {
           "title": "特朗普G7峰会迟到，还宣布“我是老大”",
@@ -219,16 +245,16 @@
           "time_info": "[01时49分 ~ 04时05分]"
         },
         {
-          "title": "美官员称特朗普亲自签署美伊谅解备忘录",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33404444",
+          "title": "特朗普：高市早苗是我的头号粉丝，不信你问她",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33405392",
           "source": "澎湃新闻",
           "ranks": [
-            15,
+            18,
             14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时50分 ~ 18时12分]"
+          "time_info": "[18时12分 ~ 22时00分]"
         },
         {
           "title": "伊朗小学被炸，特朗普首次公开松口：难免出错，没人是故意的",
@@ -251,6 +277,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时50分 ~ 13时51分]"
+        },
+        {
+          "title": "特朗普：4周耗尽石油储备！美国最大商业原油储存枢纽库存跌至警戒线",
+          "url": "https://wallstreetcn.com/articles/3774931",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时00分]"
+        },
+        {
+          "title": "美以历史上十分罕见！“特朗普可能意识到自己被骗了”",
+          "url": "https://news.ifeng.com/c/8u33RqAGLKg",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时00分]"
+        },
+        {
+          "title": "特朗普爆料：苹果将与英特尔合作 在美国设计和制造芯片",
+          "url": "https://www.cls.cn/detail/2403606",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时00分]"
         },
         {
           "title": "FED独立性保住了？特朗普“笃信”沃什：按兵不动没问题，可能会加息！",
@@ -281,18 +340,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
-        },
-        {
-          "title": "美学者：特朗普凡尔赛签约离谱至极",
-          "url": "https://news.ifeng.com/c/8u3ct1grAdS",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -336,7 +384,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -358,7 +406,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -460,17 +508,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
-        },
-        {
-          "title": "特朗普：高市早苗是我的头号粉丝，不信你问她",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33405392",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
         },
         {
           "title": "美国总统特朗普：上周日与俄罗斯总统普京通话。",
@@ -663,7 +700,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 18,
       "titles": [
         {
           "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
@@ -674,8 +711,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时17分 ~ 18时12分]"
+          "appearance_count": 9,
+          "time_info": "[07时17分 ~ 22时00分]"
         },
         {
           "title": "美股收盘：沃什首秀吓坏市场！三大指数尾盘跳水",
@@ -743,11 +780,23 @@
           "url": "https://wallstreetcn.com/articles/3774939",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时50分 ~ 18时12分]"
+          "appearance_count": 5,
+          "time_info": "[13时50分 ~ 22时00分]"
+        },
+        {
+          "title": "风险偏好重燃，美股高开，半导体股普涨，英特尔涨9%，SpaceX跌6%，油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3774963",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时00分]"
         },
         {
           "title": "美股三大指数尾盘跳水",
@@ -761,6 +810,28 @@
           "time_info": "[08时11分 ~ 08时12分]"
         },
         {
+          "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2403938",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时00分]"
+        },
+        {
+          "title": "美股盘初，主要行业ETF多数上涨，半导体ETF涨超4%，全球科技股指数ETF、全球航空业ETF涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3121739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
           "title": "美股费城银行指数转跌，此前一度涨1.6%。",
           "url": "https://wallstreetcn.com/livenews/3121232",
           "source": "华尔街见闻-快讯",
@@ -772,6 +843,39 @@
           "time_info": "04时05分"
         },
         {
+          "title": "美股盘初：纳指涨1.6%，费城半导体指数涨4.6%，英特尔涨约9%，QuantumScape涨约15%",
+          "url": "https://wallstreetcn.com/livenews/3121732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
+          "title": "金十图示：2026年06月18日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260618214232940800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
+          "title": "QuantumScape美股盘前涨超22%，公司宣布，与本田汽车旗下子公司本田技术研究所签署联合研发协议。双方将整合各自技术优势，共同推进 QS 固态电池技术平台落地，合作项目为多年期规划，聚焦固态电池研发及配套量产工艺开发。",
+          "url": "https://wallstreetcn.com/livenews/3121727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
           "title": "美股股指期货小幅上涨，纳指期货涨近0.5%，此前美伊签署电子备忘录。",
           "url": "https://flash.jin10.com/detail/20260618060137337800",
           "source": "金十数据",
@@ -781,6 +885,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3121716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌2.63%，报355.89点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌1.82%，报2450.24点。 在美股时段交易的原材料指数收跌1%，报251.98点，彭博数据显示，北京时间21:51曾瞬间跳水至零、又瞬间恢复至之前的水平。 在美股时段交易的金属与矿业指数收跌1.63%，报295.95点。",
@@ -797,7 +912,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Faker拍谷歌广告血赚7个亿",
@@ -805,11 +920,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时50分 ~ 18时12分]"
+          "appearance_count": 5,
+          "time_info": "[13时50分 ~ 22时00分]"
         },
         {
           "title": "台积电产能告急！三星代工需求火热：谷歌、英伟达、AMD都来了…",
@@ -834,6 +950,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "谷歌在Google Ad Manager中推出“Ask Ad Manager”AI 智能体。",
+          "url": "https://wallstreetcn.com/livenews/3121725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
         }
       ]
     },
@@ -886,11 +1013,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时50分 ~ 18时12分]"
+          "appearance_count": 5,
+          "time_info": "[13时50分 ~ 22时00分]"
         }
       ]
     },
@@ -905,7 +1033,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         }
