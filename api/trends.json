@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T18:51:34.771626+08:00",
-  "total_titles_processed": 1229,
+  "generated_at": "2026-06-30T21:07:15.914907+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时32分 ~ 11时27分]"
+        },
+        {
+          "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
+          "url": "https://news.ifeng.com/c/8uNrdCXnoF5",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 21时07分]"
         },
         {
           "title": "特朗普宣布美伊将会谈，伊朗却公开否认！双方连会不会见面都没谈拢",
@@ -135,6 +146,18 @@
           "time_info": "[03时48分 ~ 05时20分]"
         },
         {
+          "title": "美最高法院裁定库克暂时留任，特朗普称将确保其不影响重大货币政策决定",
+          "url": "https://wallstreetcn.com/articles/3775773",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 21时07分]"
+        },
+        {
           "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
           "url": "https://news.ifeng.com/c/8uN6TfbvLaw",
           "source": "凤凰网",
@@ -147,6 +170,17 @@
           "time_info": "[11时27分 ~ 18时51分]"
         },
         {
+          "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
+          "url": "https://news.ifeng.com/c/8uNYuN5imVw",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 21时07分]"
+        },
+        {
           "title": "美伊和谈前景不明！特朗普坚称今日举行会谈 伊方连连否认",
           "url": "https://www.cls.cn/detail/2412327",
           "source": "财联社热门",
@@ -157,18 +191,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时27分 ~ 15时45分]"
-        },
-        {
-          "title": "美最高法院裁定库克暂时留任，特朗普称将确保其不影响重大货币政策决定",
-          "url": "https://wallstreetcn.com/articles/3775773",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 18时51分]"
         },
         {
           "title": "美国总统特朗普：（最高法院）裁决后预计不会有更多解职。",
@@ -260,17 +282,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
-        },
-        {
-          "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
-          "url": "https://news.ifeng.com/c/8uNYuN5imVw",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
         },
         {
           "title": "解雇美联储理事？特朗普在最高法院“碰钉子”",
@@ -444,7 +455,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         }
@@ -452,7 +463,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "【早报】美股大反弹；3大存储巨头，遭集体诉讼；金银下跌，油价收涨",
@@ -501,6 +512,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3126823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "周一（6月29日），美股行业ETF多数收涨，半导体ETF涨3.33%，可选消费ETF、科技行业ETF、网络股指数ETF至少涨2.22%，能源业ETF则收跌0.48%，区域银行ETF跌0.56%，全球航空业ETF跌0.60%。 标普500指数的11个板块中，电信板块收涨3.11%，可选消费板块涨2.68%，信息技术/科技板块涨1.69%表现第三，能源板块收跌0.62%，房地产板块跌0.73%，原材料板块跌1.86%。",
@@ -593,7 +615,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -653,6 +675,17 @@
           "time_info": "05时20分"
         },
         {
+          "title": "芝商所7月27日推出单只股票期货，覆盖英伟达、SpaceX等50余只美股",
+          "url": "https://wallstreetcn.com/livenews/3126797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "美股扩大涨幅，纳指涨超2%， 标普500指数涨1.15%，道指涨0.67%。",
           "url": "https://flash.jin10.com/detail/20260630024742708800",
           "source": "金十数据",
@@ -673,6 +706,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "美股太阳能股盘前上涨，Enphase Energy涨12%，SolarEdge Technologies涨11%，Sunrun涨3.5%，Fluence Energy涨6.3%。",
+          "url": "https://wallstreetcn.com/livenews/3126785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         }
       ]
     },
@@ -698,11 +742,12 @@
           "url": "https://www.zhihu.com/question/2055040930516824522",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 21时07分]"
         },
         {
           "title": "AI账单越来越高 企业开始转向更便宜的模型 DeepSeek等中国AI有望受益",
@@ -805,11 +850,12 @@
           "url": "https://wallstreetcn.com/articles/3775727",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时57分 ~ 18时51分]"
+          "appearance_count": 7,
+          "time_info": "[07时57分 ~ 21时07分]"
         },
         {
           "title": "谷歌母公司支持旨在助推太空产业的金融科技公司",
