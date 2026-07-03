@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T20:04:19.185544+08:00",
-  "total_titles_processed": 1357,
+  "generated_at": "2026-07-03T23:05:22.901859+08:00",
+  "total_titles_processed": 1525,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
@@ -105,11 +105,12 @@
           "ranks": [
             17,
             16,
-            15
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时56分 ~ 20时04分]"
+          "appearance_count": 5,
+          "time_info": "[14时56分 ~ 23时05分]"
         },
         {
           "title": "特朗普参加活动后直接拿走剪刀",
@@ -124,6 +125,18 @@
           "time_info": "[01时40分 ~ 06时05分]"
         },
         {
+          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
+          "url": "https://wallstreetcn.com/articles/3776099",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时04分 ~ 23时05分]"
+        },
+        {
           "title": "王冰汝谈特朗普一年躺赚20亿美元",
           "url": "https://www.toutiao.com/trending/7658084486650793498/",
           "source": "今日头条",
@@ -133,6 +146,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时56分 ~ 14时57分]"
+        },
+        {
+          "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
+          "url": "https://news.ifeng.com/c/8uSuVg66mIs",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "美国总统特朗普：美国必须在人工智能领域领先。",
@@ -232,17 +256,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
-        },
-        {
-          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
-          "url": "https://wallstreetcn.com/articles/3776099",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时04分"
         },
         {
           "title": "美国总统特朗普：我的生意都是我孩子在打理，我一点儿也不插手。",
@@ -498,6 +511,17 @@
           "time_info": "07时59分"
         },
         {
+          "title": "特朗普说自己是对以色列最好的总统",
+          "url": "https://wallstreetcn.com/livenews/3128731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "特朗普认为马斯克会向“特朗普账户”捐赠SpaceX股票",
           "url": "https://flash.jin10.com/detail/20260703055138280800",
           "source": "金十数据",
@@ -523,7 +547,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "【早报】美股存储、半导体板块连日大跌；一批A股公司中报业绩预计大增；油价微升、黄金走强；西班牙晋级世界杯16强",
@@ -551,6 +575,18 @@
           "time_info": "[07时59分 ~ 14时57分]"
         },
         {
+          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
+          "url": "https://wallstreetcn.com/articles/3776105",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时56分 ~ 23时05分]"
+        },
+        {
           "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
           "url": "https://www.cls.cn/detail/2415987",
           "source": "财联社热门",
@@ -575,17 +611,6 @@
           "time_info": "[04时58分 ~ 06时05分]"
         },
         {
-          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
-          "url": "https://wallstreetcn.com/articles/3776105",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时56分 ~ 20时04分]"
-        },
-        {
           "title": "美股行业ETF涨跌各异，生物科技ETF收涨超2.9%，半导体ETF跌超4.5%",
           "url": "https://wallstreetcn.com/livenews/3128212",
           "source": "华尔街见闻-快讯",
@@ -607,6 +632,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
+          "url": "https://wallstreetcn.com/articles/3776091",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "金十图示：2026年07月02日（周四）热门中概股行情一览（美股收盘）",
@@ -699,6 +735,93 @@
       ]
     },
     {
+      "keyword_group": "Claude",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "阿里内部将全面禁用 Claude Code，因存在植入后门风险，可能会带来哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/2056384180200498322",
+          "source": "知乎",
+          "ranks": [
+            17,
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时53分 ~ 23时05分]"
+        },
+        {
+          "title": "曝阿里禁用Claude",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%98%BF%E9%87%8C%E7%A6%81%E7%94%A8Claude%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 20时04分]"
+        },
+        {
+          "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
+          "url": "https://www.cls.cn/detail/2416593",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时04分 ~ 23时05分]"
+        },
+        {
+          "title": "我决定卸载Claude Code",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%86%B3%E5%AE%9A%E5%8D%B8%E8%BD%BDClaude%20Code",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 14时57分]"
+        },
+        {
+          "title": "阿里内部全面禁用Claude Code",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E5%86%85%E9%83%A8%E5%85%A8%E9%9D%A2%E7%A6%81%E7%94%A8Claude+Code",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
+          "title": "曝阿里7月10日起全面禁用Claude",
+          "url": "https://www.toutiao.com/trending/7658254613019102783/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
+          "title": "阿里内部全面禁用Claude Code",
+          "url": "https://wallstreetcn.com/livenews/3128460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 6,
       "titles": [
@@ -776,80 +899,6 @@
       ]
     },
     {
-      "keyword_group": "Claude",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "阿里内部将全面禁用 Claude Code，因存在植入后门风险，可能会带来哪些连锁反应？",
-          "url": "https://www.zhihu.com/question/2056384180200498322",
-          "source": "知乎",
-          "ranks": [
-            17,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时53分 ~ 20时04分]"
-        },
-        {
-          "title": "曝阿里禁用Claude",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%98%BF%E9%87%8C%E7%A6%81%E7%94%A8Claude%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时53分 ~ 20时04分]"
-        },
-        {
-          "title": "我决定卸载Claude Code",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%86%B3%E5%AE%9A%E5%8D%B8%E8%BD%BDClaude%20Code",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 14时57分]"
-        },
-        {
-          "title": "阿里内部全面禁用Claude Code",
-          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E5%86%85%E9%83%A8%E5%85%A8%E9%9D%A2%E7%A6%81%E7%94%A8Claude+Code",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
-          "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
-          "url": "https://www.cls.cn/detail/2416593",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "阿里内部全面禁用Claude Code",
-          "url": "https://wallstreetcn.com/livenews/3128460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek",
       "match_count": 5,
       "titles": [
@@ -904,7 +953,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         },
@@ -915,7 +964,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         }
