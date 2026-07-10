@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T06:55:24.101281+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-07-11T07:54:05.493287+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
@@ -16,19 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 07时54分]"
         },
         {
           "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
           "url": "https://www.cls.cn/detail/2423160",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 07时54分]"
         },
         {
           "title": "SK海力士首日开盘价170美元，美股指盘中涨跌互现，英伟达涨超3%，布油跌超1%",
@@ -44,13 +45,38 @@
           "time_info": "[00时19分 ~ 05时56分]"
         },
         {
+          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
+          "url": "https://wallstreetcn.com/articles/3776651",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 07时54分]"
+        },
+        {
+          "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2423243",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 07时54分]"
+        },
+        {
           "title": "AI叙事助美股三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
           "url": "https://wallstreetcn.com/articles/3776623",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
         },
@@ -66,31 +92,6 @@
           "time_info": "00时19分"
         },
         {
-          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
-          "url": "https://wallstreetcn.com/articles/3776651",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 06时55分]"
-        },
-        {
-          "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2423243",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 06时55分]"
-        },
-        {
           "title": "存储芯片巨头SK海力士登陆美股",
           "url": "https://www.baidu.com/s?wd=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%99%BB%E9%99%86%E7%BE%8E%E8%82%A1",
           "source": "百度热搜",
@@ -102,6 +103,18 @@
           "time_info": "[00时19分 ~ 06时55分]"
         },
         {
+          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
+          "url": "https://wallstreetcn.com/articles/3776680",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时55分 ~ 07时54分]"
+        },
+        {
           "title": "美股大类资产类ETF涨跌各异，日元做多收涨超0.4%",
           "url": "https://wallstreetcn.com/livenews/3132248",
           "source": "华尔街见闻-快讯",
@@ -110,8 +123,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时55分]"
+          "appearance_count": 3,
+          "time_info": "[05时56分 ~ 07时54分]"
         },
         {
           "title": "周五（7月10日），美股行业ETF普遍上涨，日常消费品ETF收涨超1.1%，银行业ETF、半导体ETF至少涨0.54%，科技行业ETF、全球科技股指数ETF、网络股指数ETF涨约0.2%，全球航空业ETF跌0.99%，生物科技指数ETF跌2.68%。 2026年迄今，半导体ETF累涨69.67%，全球科技股指数ETF累涨34.19%，科技行业ETF、能源业ETF至少涨24.89%，可选消费ETF则跌1.42%。",
@@ -122,8 +135,19 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时56分 ~ 07时54分]"
+        },
+        {
+          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
+          "url": "https://www.cls.cn/detail/2423438",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时55分]"
+          "time_info": "[07时53分 ~ 07时54分]"
         },
         {
           "title": "SK海力士美股首日开涨14%",
@@ -135,17 +159,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
-        },
-        {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时55分"
         }
       ]
     },
@@ -154,17 +167,6 @@
       "match_count": 10,
       "titles": [
         {
-          "title": "美国总统特朗普与沙特王储讨论伊朗问题。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3132269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时55分"
-        },
-        {
           "title": "特朗普称将授权乌克兰本土生产“爱国者”导弹，专家：只是画大饼",
           "url": "https://news.ifeng.com/c/8uec7dkVT5P",
           "source": "凤凰网",
@@ -172,8 +174,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 07时54分]"
         },
         {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
@@ -183,8 +185,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 07时54分]"
+        },
+        {
+          "title": "美国总统特朗普与沙特王储讨论伊朗问题。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3132269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时54分]"
         },
         {
           "title": "特朗普：伊朗要求继续谈判 美已同意",
@@ -192,11 +205,12 @@
           "source": "今日头条",
           "ranks": [
             13,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 06时55分]"
+          "appearance_count": 6,
+          "time_info": "[02时19分 ~ 07时54分]"
         },
         {
           "title": "市场消息：四名美国参议员称，已与特朗普政府达成协议，将推进对俄制裁法案。",
@@ -289,9 +303,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时54分]"
         },
         {
           "title": "苹果起诉OpenAI窃取其顶级商业机密，引发重磅诉讼",
@@ -302,8 +316,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时55分]"
+          "appearance_count": 3,
+          "time_info": "[05时56分 ~ 07时54分]"
         },
         {
           "title": "苹果起诉OpenAI涉嫌窃取商业机密",
@@ -314,8 +328,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时55分]"
+          "appearance_count": 3,
+          "time_info": "[05时56分 ~ 07时54分]"
         },
         {
           "title": "市场消息：法院文件显示，苹果(AAPL.O)起诉OpenAI，指控其挪用商业机密。",
@@ -326,8 +340,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时55分]"
+          "appearance_count": 3,
+          "time_info": "[05时56分 ~ 07时54分]"
         }
       ]
     },
