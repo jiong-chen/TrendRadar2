@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T22:46:42.153126+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2026-07-11T23:48:16.299453+08:00",
+  "total_titles_processed": 1536,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时44分 ~ 22时46分]"
+          "appearance_count": 9,
+          "time_info": "[15时44分 ~ 23时48分]"
+        },
+        {
+          "title": "特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时44分 ~ 23时48分]"
         },
         {
           "title": "特朗普称将授权乌克兰本土生产“爱国者”导弹，专家：只是画大饼",
@@ -42,19 +56,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时19分 ~ 13时17分]"
-        },
-        {
-          "title": "特朗普：1000枚导弹已瞄准伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时44分 ~ 22时46分]"
         },
         {
           "title": "特朗普：伊朗要求继续谈判 美已同意",
@@ -321,7 +322,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         },
@@ -365,8 +366,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时55分 ~ 22时46分]"
+          "appearance_count": 16,
+          "time_info": "[06时55分 ~ 23时48分]"
+        },
+        {
+          "title": "美股处于“极度脆弱”的时候，财报季开启了",
+          "url": "https://wallstreetcn.com/articles/3776694",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时44分 ~ 23时48分]"
         },
         {
           "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
@@ -407,8 +422,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时53分 ~ 22时46分]"
+          "appearance_count": 15,
+          "time_info": "[07时53分 ~ 23时48分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
@@ -427,20 +442,6 @@
           "time_info": "[00时19分 ~ 15时44分]"
         },
         {
-          "title": "美股处于“极度脆弱”的时候，财报季开启了",
-          "url": "https://wallstreetcn.com/articles/3776694",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时44分 ~ 22时46分]"
-        },
-        {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2423243",
           "source": "财联社热门",
@@ -451,8 +452,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时19分 ~ 22时46分]"
+          "appearance_count": 20,
+          "time_info": "[00时19分 ~ 23时48分]"
         },
         {
           "title": "SK海力士首日开盘价170美元，美股指盘中涨跌互现，英伟达涨超3%，布油跌超1%",
