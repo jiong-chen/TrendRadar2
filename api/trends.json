@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T10:02:23.649774+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2026-07-17T13:36:08.206574+08:00",
+  "total_titles_processed": 1046,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时12分 ~ 07时56分]"
+        },
+        {
+          "title": "白宫：特朗普将出席世界杯决赛",
+          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 13时36分]"
         },
         {
           "title": "美国首例！特朗普恼火：可怕的决定，要输给中国了",
@@ -48,18 +59,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "白宫：特朗普将出席世界杯决赛",
-          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -97,6 +97,18 @@
           "time_info": "03时18分"
         },
         {
+          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 13时36分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：白宫提词器操作员被停职。 美国总统特朗普认为，被控参与下注的提词器操作员“行为可耻”。",
           "url": "https://wallstreetcn.com/livenews/3135212",
           "source": "华尔街见闻-快讯",
@@ -107,6 +119,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时02分 ~ 03时18分]"
+        },
+        {
+          "title": "白宫官宣特朗普将出席世界杯决赛",
+          "url": "https://www.toutiao.com/trending/7663253128728657971/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时35分 ~ 13时36分]"
         },
         {
           "title": "白宫：特朗普总统始终愿意进行外交谈判。",
@@ -137,7 +160,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -175,17 +198,6 @@
           "time_info": "02时02分"
         },
         {
-          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
           "title": "特朗普将赴世界杯现场观看决赛",
           "url": "https://flash.jin10.com/detail/20260717021058975800",
           "source": "金十数据",
@@ -208,13 +220,24 @@
           "time_info": "07时56分"
         },
         {
+          "title": "特朗普政府收紧签证规则 逾1.3万韩国人在美身份或受影响",
+          "url": "https://flash.jin10.com/detail/20260717131017081800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
           "title": "特朗普：很快就会看到在伊朗的成果。",
           "url": "https://wallstreetcn.com/livenews/3135354",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -247,7 +270,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -335,6 +358,18 @@
           "time_info": "00时12分"
         },
         {
+          "title": "谷歌Gemini模型发布延期传闻引发担忧 股价盘中跳水逾3%",
+          "url": "https://www.cls.cn/detail/2428944",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 13时36分]"
+        },
+        {
           "title": "欧盟要求谷歌开放安卓AI功能并共享搜索数据",
           "url": "https://wallstreetcn.com/livenews/3135211",
           "source": "华尔街见闻-快讯",
@@ -356,17 +391,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
-        },
-        {
-          "title": "谷歌Gemini模型发布延期传闻引发担忧 股价盘中跳水逾3%",
-          "url": "https://www.cls.cn/detail/2428944",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
         },
         {
           "title": "市场消息：英特尔(INTC.O)将整合先进的Gemini驱动的生成式人工智能，覆盖其全球员工。",
@@ -507,6 +531,29 @@
           "time_info": "[00时12分 ~ 05时59分]"
         },
         {
+          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时56分 ~ 13时36分]"
+        },
+        {
+          "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
+          "url": "https://www.cls.cn/detail/2428987",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时56分 ~ 13时36分]"
+        },
+        {
           "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
           "url": "https://www.cls.cn/detail/2428765",
           "source": "财联社热门",
@@ -519,27 +566,17 @@
           "time_info": "[00时12分 ~ 10时02分]"
         },
         {
-          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时56分 ~ 10时02分]"
-        },
-        {
-          "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
-          "url": "https://www.cls.cn/detail/2428987",
+          "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
+          "url": "https://www.cls.cn/detail/2428956",
           "source": "财联社热门",
           "ranks": [
-            4,
-            1
+            5,
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时56分 ~ 10时02分]"
+          "appearance_count": 4,
+          "time_info": "[07时56分 ~ 13时36分]"
         },
         {
           "title": "百胜餐饮集团美股盘后下跌4%，美国食品药品监督管理局（FDA）将就塔可钟（Taco Bell）的生菜问题发布警告。",
@@ -562,18 +599,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
-        },
-        {
-          "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
-          "url": "https://www.cls.cn/detail/2428956",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时56分 ~ 10时02分]"
         },
         {
           "title": "美股大类资产类ETF普遍下跌，新兴市场收跌2.1%，与黄金ETF、可转债ETF领跌",
@@ -600,6 +625,18 @@
           "time_info": "[04时51分 ~ 05时59分]"
         },
         {
+          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
+          "url": "https://www.cls.cn/detail/2429026",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 13时36分]"
+        },
+        {
           "title": "美股芯片股深夜大跌",
           "url": "https://www.toutiao.com/trending/7663271539885739558/",
           "source": "今日头条",
@@ -621,17 +658,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
-        },
-        {
-          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
-          "url": "https://www.cls.cn/detail/2429026",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
         },
         {
           "title": "奈飞二季度营收125.6亿美元，分析师预期125.8亿美元。 二季度每股收益（EPS）为0.80美元，分析师预期0.79美元。 预计全年营收510亿-514亿美元，公司原本预计507亿-517亿美元。 预计三季度营收128.6亿美元，分析师预期130亿美元。 预计三季度EPS为0.82美元，分析师预期0.84美元。 “我们观看了啥”（What we Watched）的发布频率将从半年一次降低至一年一次。 奈飞美股盘后跌3%。",
@@ -720,8 +746,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
+          "url": "https://wallstreetcn.com/articles/3777152",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时35分 ~ 13时36分]"
+        },
         {
           "title": "OpenAI董事长称对其他公司的商业机密“没有兴趣”",
           "url": "https://flash.jin10.com/detail/20260717022344954800",
