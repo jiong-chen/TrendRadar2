@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T13:36:08.206574+08:00",
-  "total_titles_processed": 1046,
+  "generated_at": "2026-07-17T15:57:56.075341+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -24,11 +24,12 @@
           "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 13时36分]"
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 15时57分]"
         },
         {
           "title": "美国首例！特朗普恼火：可怕的决定，要输给中国了",
@@ -102,11 +103,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 13时36分]"
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 15时57分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：白宫提词器操作员被停职。 美国总统特朗普认为，被控参与下注的提词器操作员“行为可耻”。",
@@ -198,6 +200,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "白宫再曝内幕交易丑闻！特朗普御用提词员利用演讲信息牟利遭调查",
+          "url": "https://www.cls.cn/detail/2429184",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
           "title": "特朗普将赴世界杯现场观看决赛",
           "url": "https://flash.jin10.com/detail/20260717021058975800",
           "source": "金十数据",
@@ -226,7 +239,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
         },
@@ -538,8 +551,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时56分 ~ 13时36分]"
+          "appearance_count": 5,
+          "time_info": "[07时56分 ~ 15时57分]"
         },
         {
           "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
@@ -590,6 +603,19 @@
           "time_info": "05时59分"
         },
         {
+          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
+          "url": "https://www.cls.cn/detail/2429026",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 15时57分]"
+        },
+        {
           "title": "金十图示：2026年07月16日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260717040547992800",
           "source": "金十数据",
@@ -623,18 +649,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时59分]"
-        },
-        {
-          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
-          "url": "https://www.cls.cn/detail/2429026",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 13时36分]"
         },
         {
           "title": "美股芯片股深夜大跌",
@@ -756,8 +770,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时35分 ~ 13时36分]"
+          "appearance_count": 3,
+          "time_info": "[13时35分 ~ 15时57分]"
         },
         {
           "title": "OpenAI董事长称对其他公司的商业机密“没有兴趣”",
