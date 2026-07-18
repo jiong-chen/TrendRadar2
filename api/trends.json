@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T18:13:47.668202+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2026-07-18T19:48:43.415442+08:00",
+  "total_titles_processed": 1296,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -32,6 +32,18 @@
           "time_info": "[01时05分 ~ 06时42分]"
         },
         {
+          "title": "白宫声称特朗普并非针对中国",
+          "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时46分 ~ 19时48分]"
+        },
+        {
           "title": "白宫：特朗普将出席世界杯决赛",
           "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
           "source": "凤凰网",
@@ -41,18 +53,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时05分 ~ 04时04分]"
-        },
-        {
-          "title": "白宫声称特朗普并非针对中国",
-          "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时46分 ~ 18时13分]"
         },
         {
           "title": "特朗普：6月通胀传来“好消息”，美国迎来“黄金时代”",
@@ -110,6 +110,18 @@
           "time_info": "04时04分"
         },
         {
+          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
+          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 19时48分]"
+        },
+        {
           "title": "美国总统特朗普再次赞赏6月通胀数据。",
           "url": "https://wallstreetcn.com/livenews/3135890",
           "source": "华尔街见闻-快讯",
@@ -122,18 +134,6 @@
           "time_info": "[04时04分 ~ 05时45分]"
         },
         {
-          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
-          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 18时13分]"
-        },
-        {
           "title": "特朗普媒体科技集团提议，对“Truth API”收取10万美元的月租。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3135845",
           "source": "华尔街见闻-快讯",
@@ -144,6 +144,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时05分 ~ 02时57分]"
+        },
+        {
+          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时57分 ~ 19时48分]"
         },
         {
           "title": "特朗普再谈巴洛贡红牌事件",
@@ -181,19 +194,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时45分 ~ 07时46分]"
-        },
-        {
-          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时57分 ~ 18时13分]"
         },
         {
           "title": "特朗普：因凡蒂诺建议中美合办世界杯",
@@ -297,6 +297,28 @@
           "time_info": "04时04分"
         },
         {
+          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-18）",
+          "url": "https://flash.jin10.com/detail/20260718182916461800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
           "title": "据以色列媒体：以色列总理内塔尼亚胡推迟访美，不仅是因为已故共和党参议员林赛·格雷厄姆的葬礼安排有变，还因与特朗普政府分歧加剧，尤其是美国副总统万斯近期严厉批评以色列。",
           "url": "https://flash.jin10.com/detail/20260718014652994800",
           "source": "金十数据",
@@ -334,8 +356,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时42分 ~ 18时13分]"
+          "appearance_count": 8,
+          "time_info": "[06时42分 ~ 19时48分]"
         },
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -376,11 +398,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时46分 ~ 18时13分]"
+          "appearance_count": 3,
+          "time_info": "[16时46分 ~ 19时48分]"
         },
         {
           "title": "美股存储芯片指数本周跌超17%，较收盘历史最高位已回撤超31%",
@@ -465,7 +488,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -517,7 +540,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
@@ -529,19 +552,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时46分 ~ 18时13分]"
+          "appearance_count": 7,
+          "time_info": "[07时46分 ~ 19时48分]"
         },
         {
           "title": "DeepSeek最新估值意外曝光",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%80%E6%96%B0%E4%BC%B0%E5%80%BC%E6%84%8F%E5%A4%96%E6%9B%9D%E5%85%89",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 19时48分]"
         },
         {
           "title": "DeepSeek准确估值意外曝光",
@@ -553,6 +577,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
+        },
+        {
+          "title": "Kimi K3重演“DeepSeek时刻”",
+          "url": "https://www.toutiao.com/trending/7663776827566984767/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         }
       ]
     },
