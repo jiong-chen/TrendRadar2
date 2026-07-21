@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T07:52:13.978139+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2026-07-21T10:02:06.287490+08:00",
+  "total_titles_processed": 759,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普：伊朗每杀死一名美军，必将付出数倍代价",
@@ -19,29 +19,18 @@
           "time_info": "[03时30分 ~ 07时52分]"
         },
         {
-          "title": "如何看特朗普不愿离开颁奖台",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%84%BF%E7%A6%BB%E5%BC%80%E9%A2%81%E5%A5%96%E5%8F%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 07时52分]"
-        },
-        {
           "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
           "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
           "source": "澎湃新闻",
           "ranks": [
             10,
             9,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 07时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时31分 ~ 10时02分]"
         },
         {
           "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
@@ -49,6 +38,18 @@
           "source": "知乎",
           "ranks": [
             16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时31分 ~ 10时02分]"
+        },
+        {
+          "title": "如何看特朗普不愿离开颁奖台",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%84%BF%E7%A6%BB%E5%BC%80%E9%A2%81%E5%A5%96%E5%8F%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -72,7 +73,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -83,7 +84,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -122,6 +123,28 @@
           "time_info": "[03时30分 ~ 05时04分]"
         },
         {
+          "title": "美伊对峙愈演愈烈？美军伤亡与日俱增，特朗普扬言要伊朗付数倍代价！",
+          "url": "https://www.cls.cn/detail/2431976",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "纽约市长威胁逮捕内塔尼亚胡，特朗普表态",
+          "url": "https://news.ifeng.com/c/8uvU7ssA8qW",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
           "title": "美国总统特朗普：与其讨论了北海石油、贸易、军事同盟以及霍尔木兹海峡扫雷事宜。",
           "url": "https://flash.jin10.com/detail/20260721062036986800",
           "source": "金十数据",
@@ -144,6 +167,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时52分 ~ 07时52分]"
+        },
+        {
+          "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
+          "url": "https://news.ifeng.com/c/8uvIalkczmR",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
           "title": "美国总统特朗普：与英国新任首相进行了非常好的交谈。",
@@ -210,7 +244,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -287,6 +321,29 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2431734",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时31分 ~ 10时02分]"
+        },
+        {
+          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
+          "url": "https://wallstreetcn.com/articles/3777383",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时51分 ~ 10时02分]"
+        },
+        {
           "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
           "url": "https://wallstreetcn.com/articles/3777383",
           "source": "华尔街见闻",
@@ -299,38 +356,29 @@
           "time_info": "[01时31分 ~ 05时04分]"
         },
         {
-          "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2431734",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 07时52分]"
-        },
-        {
-          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
-          "url": "https://wallstreetcn.com/articles/3777383",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 07时52分]"
-        },
-        {
           "title": "【早报】美股光通信、存储板块全线走强，中概股多数上涨；油价上行、黄金微跌；三环集团、三花智控、东山精密等计划回购股份",
           "url": "https://www.cls.cn/detail/2431956",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 07时52分]"
+          "appearance_count": 4,
+          "time_info": "[07时51分 ~ 10时02分]"
+        },
+        {
+          "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
+          "url": "https://www.cls.cn/detail/2431934",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时52分 ~ 10时02分]"
         },
         {
           "title": "中东局势与财报季双重压力下，美股高开走低，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -353,18 +401,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时31分 ~ 06时52分]"
-        },
-        {
-          "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
-          "url": "https://www.cls.cn/detail/2431934",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时52分 ~ 07时52分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
@@ -450,8 +486,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 07时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时31分 ~ 10时02分]"
         },
         {
           "title": "如何看待追光总裁称《三国第一部：争洛阳》以曹操为主角，是参考了 DeepSeek 的建议?",
@@ -479,6 +515,45 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
+          "url": "https://www.cls.cn/detail/2431896",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
+          "url": "https://wallstreetcn.com/livenews/3137082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3777467",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -500,23 +575,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
-          "url": "https://wallstreetcn.com/livenews/3137082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 1,
