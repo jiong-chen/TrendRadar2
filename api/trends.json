@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T02:14:25.780806+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-07-22T04:17:02.536956+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普放话将轰炸伊朗“镐山” 认为可能存放离心机",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
         },
@@ -34,11 +34,12 @@
           "url": "https://www.zhihu.com/question/2062849285499138343",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时17分]"
         },
         {
           "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
@@ -48,8 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时17分]"
         },
         {
           "title": "特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价",
@@ -60,8 +61,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时17分]"
         },
         {
           "title": "特朗普警告胡塞武装：若封锁红海 美国将“采取行动”",
@@ -70,7 +71,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
         },
@@ -106,6 +107,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "美国总统特朗普：允许美国所有的航空公司直飞黎巴嫩。",
+          "url": "https://wallstreetcn.com/livenews/3137726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "美国总统特朗普：已指示政府允许所有美国航空公司开通飞往黎巴嫩的直飞航班。",
+          "url": "https://flash.jin10.com/detail/20260722032500875800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
         },
         {
           "title": "金十提示：美国总统特朗普与黎巴嫩总统白宫会晤的媒体公开部分结束。",
@@ -147,7 +170,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
         },
@@ -210,7 +233,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -220,8 +243,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时17分]"
         },
         {
           "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
@@ -231,8 +254,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时17分]"
+        },
+        {
+          "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 04时17分]"
         },
         {
           "title": "全球科技股反弹！美股存储芯片指数涨超10%，布油重回90美元上方，现货白银涨4%",
@@ -246,15 +281,15 @@
           "time_info": "00时25分"
         },
         {
-          "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
+          "title": "美股存储芯片指数初步收涨11.2%，半导体指数涨5.2%。 标普500指数初步收涨0.9%，科技板块涨2.4%，能源板块涨1.1%，电信板块跌0.7%，日用消费品板块跌0.9%。 纳斯达克100指数初步收涨1.9%，成分股中，Nebius集团初步收涨19%，闪迪涨14%，西部数据涨12.5%，希捷科技涨11.2%，英特尔涨8.8%，Adobe跌3.1%，CrowdStrike跌3.7%，Workday跌3.9%，汤森路透跌5%。",
+          "url": "https://wallstreetcn.com/livenews/3137738",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时14分"
+          "time_info": "04时17分"
         },
         {
           "title": "金十图示：2026年07月21日（周二）热门中概股行情一览（美股盘中）",
@@ -263,7 +298,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
         },
@@ -274,7 +309,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
         },
@@ -296,7 +331,90 @@
           "ranks": [
             30
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "据华尔街日报：OpenAI在首次公开募股前增聘两名独立董事，分别为数字银行Nubank创始人兼首席执行官大卫·贝莱兹以及纽约梅隆银行首席执行官罗宾·文斯。",
+          "url": "https://flash.jin10.com/detail/20260722034543375800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "OpenAI表示，Hugging Face遭遇的安全漏洞事件是由其旗下一个模型导致的。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3137736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "OpenAI负责人抨击Kimi开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时17分]"
+        },
+        {
+          "title": "OpenAI的CEO Altman将向美国官员们介绍下一波AI模型。",
+          "url": "https://wallstreetcn.com/livenews/3137675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "OpenAI产品负责人Tibo表示，Codex和 ChatGPT Work每周活跃用户已突破1000万人。",
+          "url": "https://wallstreetcn.com/livenews/3137702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "OpenAI新增两名独董到董事会。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3137732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "OpenAI：宣布推出面向小型企业的ChatGPT服务计划。ChatGPT Work和GPT-5.6今日起面向小型企业开放。",
+          "url": "https://flash.jin10.com/detail/20260722010658774800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
         }
@@ -325,8 +443,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时17分]"
         },
         {
           "title": "Alphabet旗下谷歌公司推出Gemini 3.6 Flash，3.5 Flash-LITE、以及3.5 Flash Cyber。 目前，Gemini 3.5 Pro处于与合作伙伴的测试过程中。",
@@ -346,57 +464,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI负责人抨击Kimi开源",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时14分]"
-        },
-        {
-          "title": "OpenAI的CEO Altman将向美国官员们介绍下一波AI模型。",
-          "url": "https://wallstreetcn.com/livenews/3137675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "OpenAI产品负责人Tibo表示，Codex和 ChatGPT Work每周活跃用户已突破1000万人。",
-          "url": "https://wallstreetcn.com/livenews/3137702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "OpenAI：宣布推出面向小型企业的ChatGPT服务计划。ChatGPT Work和GPT-5.6今日起面向小型企业开放。",
-          "url": "https://flash.jin10.com/detail/20260722010658774800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "02时14分"
         }
@@ -414,8 +482,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数涨超0.2%，日元跌穿163",
+          "url": "https://wallstreetcn.com/livenews/3137725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
         }
       ]
     }
