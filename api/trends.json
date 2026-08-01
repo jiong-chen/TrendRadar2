@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T22:55:02.147043+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2026-08-01T23:57:00.631583+08:00",
+  "total_titles_processed": 1476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时49分 ~ 22时55分]"
+          "appearance_count": 12,
+          "time_info": "[13时49分 ~ 23时57分]"
         },
         {
           "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
@@ -53,8 +53,24 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时49分 ~ 22时55分]"
+          "appearance_count": 12,
+          "time_info": "[13时49分 ~ 23时57分]"
+        },
+        {
+          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            12,
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时08分 ~ 23时57分]"
         },
         {
           "title": "多国应对西班牙飞地移民危机，特朗普：这是入侵",
@@ -67,21 +83,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时07分 ~ 18时30分]"
-        },
-        {
-          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            12,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时08分 ~ 22时55分]"
         },
         {
           "title": "美官员：特朗普已下令对伊朗发动新一轮袭击",
@@ -106,6 +107,17 @@
           "time_info": "[01时27分 ~ 10时08分]"
         },
         {
+          "title": "特朗普：伊朗确实挺硬气",
+          "url": "https://news.ifeng.com/c/8vErXsygJc0",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时58分 ~ 23时57分]"
+        },
+        {
           "title": "五角大楼发言人：美国国防部随时准备执行特朗普总统的指示。",
           "url": "https://flash.jin10.com/detail/20260801054306728800",
           "source": "金十数据",
@@ -128,17 +140,6 @@
           "time_info": "[06时40分 ~ 07时10分]"
         },
         {
-          "title": "特朗普：伊朗确实挺硬气",
-          "url": "https://news.ifeng.com/c/8vErXsygJc0",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时58分 ~ 22时55分]"
-        },
-        {
           "title": "特朗普最新支持率公布",
           "url": "https://wallstreetcn.com/livenews/3143570",
           "source": "华尔街见闻-快讯",
@@ -149,6 +150,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时09分 ~ 18时30分]"
+        },
+        {
+          "title": "特朗普威胁参议员通过其司法部长人选",
+          "url": "https://flash.jin10.com/detail/20260801195052778800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时18分 ~ 23时57分]"
+        },
+        {
+          "title": "特朗普敦促参议员批准Blanche担任美国司法部长。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3143604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时18分 ~ 23时57分]"
         },
         {
           "title": "你和特朗普谁是老大？内塔尼亚胡：他是大股东，但我也有底线",
@@ -197,18 +223,6 @@
           "time_info": "[19时59分 ~ 21时18分]"
         },
         {
-          "title": "特朗普威胁参议员通过其司法部长人选",
-          "url": "https://flash.jin10.com/detail/20260801195052778800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时18分 ~ 22时55分]"
-        },
-        {
           "title": "美官员称特朗普已下令对伊朗发动新一轮袭击，最早可能周末开始行动",
           "url": "https://wallstreetcn.com/livenews/3143485",
           "source": "华尔街见闻-快讯",
@@ -221,18 +235,6 @@
           "time_info": "[06时40分 ~ 07时10分]"
         },
         {
-          "title": "特朗普敦促参议员批准Blanche担任美国司法部长。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3143604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时18分 ~ 22时55分]"
-        },
-        {
           "title": "特朗普否认允许乌生产爱国者拦截弹",
           "url": "https://wallstreetcn.com/livenews/3143400",
           "source": "华尔街见闻-快讯",
@@ -243,6 +245,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 03时14分]"
+        },
+        {
+          "title": "特朗普说伊朗确实挺硬气",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E7%A1%AE%E5%AE%9E%E6%8C%BA%E7%A1%AC%E6%B0%94%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时56分 ~ 23时57分]"
         },
         {
           "title": "特朗普：以色列在哈马斯解除武装计划方面“表现出色”",
@@ -417,6 +430,18 @@
           "time_info": "[01时27分 ~ 06时40分]"
         },
         {
+          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
+          "url": "https://www.zhihu.com/question/2066595452238160814",
+          "source": "知乎",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时58分 ~ 23时57分]"
+        },
+        {
           "title": "DeepSeek（官方 API 接入 Agent）居然会对用户说「我去吃饭了」、「我去睡了」，为啥会这样？",
           "url": "https://www.zhihu.com/question/2066223484309434997",
           "source": "知乎",
@@ -450,18 +475,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时27分 ~ 07时10分]"
-        },
-        {
-          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
-          "url": "https://www.zhihu.com/question/2066595452238160814",
-          "source": "知乎",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时58分 ~ 22时55分]"
         },
         {
           "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
@@ -561,8 +574,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时09分 ~ 22时55分]"
+          "appearance_count": 16,
+          "time_info": "[07时09分 ~ 23时57分]"
+        },
+        {
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时29分 ~ 23时57分]"
         },
         {
           "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
@@ -578,20 +605,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[01时27分 ~ 21时18分]"
-        },
-        {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时29分 ~ 22时55分]"
         },
         {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
@@ -713,7 +726,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
@@ -809,6 +822,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时58分 ~ 19时59分]"
+        },
+        {
+          "title": "OpenAI 价格战",
+          "url": "https://s.weibo.com/weibo?q=OpenAI%20%E4%BB%B7%E6%A0%BC%E6%88%98&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时56分 ~ 23时57分]"
         },
         {
           "title": "美媒：OpenAI面临投资者担忧与竞争压力，IPO或推迟至明年",
