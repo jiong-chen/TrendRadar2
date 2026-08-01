@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T18:30:02.082933+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2026-08-01T19:59:00.048293+08:00",
+  "total_titles_processed": 1238,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
@@ -44,6 +44,19 @@
           "time_info": "[10时07分 ~ 18时30分]"
         },
         {
+          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
+          "url": "https://wallstreetcn.com/articles/3778460",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时49分 ~ 19时59分]"
+        },
+        {
           "title": "美官员：特朗普已下令对伊朗发动新一轮袭击",
           "url": "https://news.ifeng.com/c/8vDwIljTGY5",
           "source": "凤凰网",
@@ -66,17 +79,16 @@
           "time_info": "[01时27分 ~ 10时08分]"
         },
         {
-          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
-          "url": "https://wallstreetcn.com/articles/3778460",
-          "source": "华尔街见闻",
+          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
+          "url": "https://www.cls.cn/detail/2443172",
+          "source": "财联社热门",
           "ranks": [
             9,
-            6,
-            5
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时49分 ~ 18时30分]"
+          "appearance_count": 7,
+          "time_info": "[13时49分 ~ 19时59分]"
         },
         {
           "title": "五角大楼发言人：美国国防部随时准备执行特朗普总统的指示。",
@@ -101,16 +113,17 @@
           "time_info": "[06时40分 ~ 07时10分]"
         },
         {
-          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
-          "url": "https://www.cls.cn/detail/2443172",
-          "source": "财联社热门",
+          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            8
+            16,
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时49分 ~ 18时30分]"
+          "appearance_count": 6,
+          "time_info": "[16时08分 ~ 19时59分]"
         },
         {
           "title": "特朗普最新支持率公布",
@@ -123,18 +136,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时09分 ~ 18时30分]"
-        },
-        {
-          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时08分 ~ 18时30分]"
         },
         {
           "title": "你和特朗普谁是老大？内塔尼亚胡：他是大股东，但我也有底线",
@@ -171,6 +172,17 @@
           "time_info": "[06时40分 ~ 07时10分]"
         },
         {
+          "title": "特朗普：伊朗确实挺硬气",
+          "url": "https://news.ifeng.com/c/8vErXsygJc0",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 19时59分]"
+        },
+        {
           "title": "美官员称特朗普已下令对伊朗发动新一轮袭击，最早可能周末开始行动",
           "url": "https://wallstreetcn.com/livenews/3143485",
           "source": "华尔街见闻-快讯",
@@ -193,6 +205,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 03时14分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-01）",
+          "url": "https://flash.jin10.com/detail/20260801184158588800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "特朗普：以色列在哈马斯解除武装计划方面“表现出色”",
@@ -296,182 +319,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
-          "url": "https://www.cls.cn/detail/2442818",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时27分 ~ 18时30分]"
-        },
-        {
-          "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
-          "url": "https://www.cls.cn/detail/2443155",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时09分 ~ 18时30分]"
-        },
-        {
-          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2442973",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            10,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时27分 ~ 18时30分]"
-        },
-        {
-          "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
-          "url": "https://wallstreetcn.com/articles/3778379",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 04时57分]"
-        },
-        {
-          "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
-          "url": "https://www.zhihu.com/question/2066288437683032785",
-          "source": "知乎",
-          "ranks": [
-            9,
-            12,
-            14,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时27分 ~ 07时10分]"
-        },
-        {
-          "title": "周五（7月31日），美股行业ETF涨跌各异，可选消费ETF收涨3.29%，网络股指数ETF涨2.59%，能源业ETF涨1%，半导体ETF涨0.3%，科技行业ETF跌0.22%，医疗业ETF跌0.59%，生物科技指数ETF跌1.87%。 2026年1-7月，半导体ETF累计上涨50.09%，能源业ETF涨35.03%，全球科技股指数ETF、科技行业ETF至少涨22.09%，可选消费ETF则累跌2.39%。",
-          "url": "https://wallstreetcn.com/livenews/3143468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 06时40分]"
-        },
-        {
-          "title": "美股三大指数集体高开 苹果跌超8%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E8%8B%B9%E6%9E%9C%E8%B7%8C%E8%B6%858%25",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时40分 ~ 07时10分]"
-        },
-        {
-          "title": "美股三大股指全线收涨",
-          "url": "https://www.douyin.com/hot/2592807",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
-        },
-        {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 18时30分]"
-        },
-        {
-          "title": "周五（7月31日），美股存储芯片与硬件供应链指数跌1.58%，报189.63点，本周累跌5.30%，7月份累计下跌29.25%、整体持续下挫。 2026年1-7月，成分股闪迪累积上涨411.77%，西部数据涨216.5%，希捷科技涨211.64%，美光科技涨188.53%，应用材料涨98.04%，泰瑞达涨90.11%，拉姆研究涨71.50%，Rambus跌0.94%。此外，最近美国IPO的SK海力士ADR跌14.45%。",
-          "url": "https://wallstreetcn.com/livenews/3143461",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "金十图示：2026年07月31日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260801003858873800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "金十图示：2026年07月31日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260801040734896800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "金十图示：2026年07月31日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260801003848048800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "金十图示：2026年07月31日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260801040711867800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
@@ -481,8 +330,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时08分 ~ 18时30分]"
+          "appearance_count": 6,
+          "time_info": "[16时08分 ~ 19时59分]"
         },
         {
           "title": "实测DeepSeek V4 Flash",
@@ -492,11 +341,24 @@
             3,
             18,
             8,
-            17
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时07分 ~ 19时59分]"
+        },
+        {
+          "title": "DeepSeek V4 flash 上线，相较 Kimi K3 各有哪些优劣？现版本大模型中你的选择是啥？",
+          "url": "https://www.zhihu.com/question/2066599476764964006",
+          "source": "知乎",
+          "ranks": [
+            5,
+            9
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[10时07分 ~ 18时30分]"
+          "time_info": "[13时49分 ~ 19时59分]"
         },
         {
           "title": "DeepSeek V4 Flash正式版强在哪",
@@ -512,18 +374,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时27分 ~ 10时08分]"
-        },
-        {
-          "title": "DeepSeek V4 flash 上线，相较 Kimi K3 各有哪些优劣？现版本大模型中你的选择是啥？",
-          "url": "https://www.zhihu.com/question/2066599476764964006",
-          "source": "知乎",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时49分 ~ 18时30分]"
         },
         {
           "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
@@ -586,6 +436,17 @@
           "time_info": "[01时27分 ~ 03时14分]"
         },
         {
+          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
+          "url": "https://www.zhihu.com/question/2066595452238160814",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 19时59分]"
+        },
+        {
           "title": "DeepSeek V4 Flash模型权重发布",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Flash",
           "source": "bilibili 热搜",
@@ -595,6 +456,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时08分 ~ 16时09分]"
+        },
+        {
+          "title": "DeepSeekV4Flash 便宜",
+          "url": "https://s.weibo.com/weibo?q=DeepSeekV4Flash%20%E4%BE%BF%E5%AE%9C&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 19时59分]"
         },
         {
           "title": "DeepSeek-V4-Flash 正式版API上线",
@@ -632,8 +504,183 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
+          "url": "https://www.cls.cn/detail/2442818",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[01时27分 ~ 19时59分]"
+        },
+        {
+          "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
+          "url": "https://www.cls.cn/detail/2443155",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时09分 ~ 19时59分]"
+        },
+        {
+          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2442973",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            10,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[01时27分 ~ 19时59分]"
+        },
+        {
+          "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
+          "url": "https://wallstreetcn.com/articles/3778379",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 04时57分]"
+        },
+        {
+          "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
+          "url": "https://www.zhihu.com/question/2066288437683032785",
+          "source": "知乎",
+          "ranks": [
+            9,
+            12,
+            14,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时10分]"
+        },
+        {
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 19时59分]"
+        },
+        {
+          "title": "周五（7月31日），美股行业ETF涨跌各异，可选消费ETF收涨3.29%，网络股指数ETF涨2.59%，能源业ETF涨1%，半导体ETF涨0.3%，科技行业ETF跌0.22%，医疗业ETF跌0.59%，生物科技指数ETF跌1.87%。 2026年1-7月，半导体ETF累计上涨50.09%，能源业ETF涨35.03%，全球科技股指数ETF、科技行业ETF至少涨22.09%，可选消费ETF则累跌2.39%。",
+          "url": "https://wallstreetcn.com/livenews/3143468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时40分]"
+        },
+        {
+          "title": "美股三大指数集体高开 苹果跌超8%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E8%8B%B9%E6%9E%9C%E8%B7%8C%E8%B6%858%25",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时40分 ~ 07时10分]"
+        },
+        {
+          "title": "美股三大股指全线收涨",
+          "url": "https://www.douyin.com/hot/2592807",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
+          "title": "周五（7月31日），美股存储芯片与硬件供应链指数跌1.58%，报189.63点，本周累跌5.30%，7月份累计下跌29.25%、整体持续下挫。 2026年1-7月，成分股闪迪累积上涨411.77%，西部数据涨216.5%，希捷科技涨211.64%，美光科技涨188.53%，应用材料涨98.04%，泰瑞达涨90.11%，拉姆研究涨71.50%，Rambus跌0.94%。此外，最近美国IPO的SK海力士ADR跌14.45%。",
+          "url": "https://wallstreetcn.com/livenews/3143461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "金十图示：2026年07月31日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260801003858873800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时27分"
+        },
+        {
+          "title": "金十图示：2026年07月31日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260801040734896800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "金十图示：2026年07月31日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260801003848048800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时27分"
+        },
+        {
+          "title": "金十图示：2026年07月31日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260801040711867800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
@@ -646,8 +693,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时07分 ~ 18时30分]"
+          "appearance_count": 9,
+          "time_info": "[10时07分 ~ 19时59分]"
+        },
+        {
+          "title": "如何评价OpenAI的数学能力",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7OpenAI%E7%9A%84%E6%95%B0%E5%AD%A6%E8%83%BD%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 19时59分]"
         },
         {
           "title": "报道：OpenAI本周预览了AI模型Astra",
@@ -707,6 +765,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时10分]"
+        },
+        {
+          "title": "如何看待 OpenAI 下一代模型 Astra 大量解决数学猜想？",
+          "url": "https://www.zhihu.com/question/2066915812980560727",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 19时59分]"
         },
         {
           "title": "美媒：OpenAI面临投资者担忧与竞争压力，IPO或推迟至明年",
