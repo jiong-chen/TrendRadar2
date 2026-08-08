@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T14:40:06.635863+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2026-08-08T15:43:51.904814+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时05分 ~ 14时40分]"
+          "appearance_count": 8,
+          "time_info": "[09时05分 ~ 15时43分]"
         },
         {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
@@ -32,8 +32,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时47分 ~ 14时40分]"
+          "appearance_count": 15,
+          "time_info": "[03时47分 ~ 15时43分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -52,11 +52,26 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时19分 ~ 14时40分]"
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 15时43分]"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时50分 ~ 15时43分]"
         },
         {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
@@ -79,19 +94,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时50分 ~ 14时40分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)、亚马逊(AMZN.O)、耐克(NKE.N)在特朗普政府关税退款问题上遭到美国民主党参议员沃伦的质询。沃伦在信函中敦促企业向消费者退还关税款项。",
@@ -491,8 +493,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时45分 ~ 14时40分]"
+          "appearance_count": 18,
+          "time_info": "[00时45分 ~ 15时43分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -501,11 +503,12 @@
           "ranks": [
             10,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时28分 ~ 14时40分]"
+          "appearance_count": 11,
+          "time_info": "[06时28分 ~ 15时43分]"
         },
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
@@ -517,8 +520,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时05分 ~ 14时40分]"
+          "appearance_count": 8,
+          "time_info": "[09时05分 ~ 15时43分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -639,6 +642,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2068108635620774765",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时05分 ~ 15时43分]"
+        },
+        {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
           "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
           "source": "澎湃新闻",
@@ -649,8 +665,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时47分 ~ 14时40分]"
+          "appearance_count": 15,
+          "time_info": "[03时47分 ~ 15时43分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -662,18 +678,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时45分 ~ 07时28分]"
-        },
-        {
-          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2068108635620774765",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时05分 ~ 14时40分]"
         }
       ]
     },
@@ -738,8 +742,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时45分 ~ 14时40分]"
+          "appearance_count": 18,
+          "time_info": "[00时45分 ~ 15时43分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
