@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T11:42:39.070769+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-08-16T14:28:27.807689+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普誓言美航母重回锅气时代",
@@ -28,8 +28,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时53分 ~ 11时42分]"
+          "appearance_count": 5,
+          "time_info": "[08时53分 ~ 14时28分]"
+        },
+        {
+          "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
+          "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "美国总统特朗普周日日程一览",
@@ -86,11 +97,67 @@
           "url": "https://flash.jin10.com/detail/20260816102212922800",
           "source": "金十数据",
           "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 14时28分]"
+        },
+        {
+          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
+          "url": "https://wallstreetcn.com/articles/3779521",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "美媒：应特朗普要求，美国海军正研究重新设计战舰",
+          "url": "https://flash.jin10.com/detail/20260816130111375800",
+          "source": "金十数据",
+          "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时42分"
+          "time_info": "14时28分"
+        },
+        {
+          "title": "特朗普称林肯号部署时间不够长",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9E%97%E8%82%AF%E5%8F%B7%E9%83%A8%E7%BD%B2%E6%97%B6%E9%97%B4%E4%B8%8D%E5%A4%9F%E9%95%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "民调：大多数美国选民认为，在特朗普领导下生活状况变得更糟",
+          "url": "https://flash.jin10.com/detail/20260816123425273800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
+          "url": "https://www.cls.cn/detail/2455050",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "美国总统特朗普在社交平台上发布图片，图中他佩戴“Trump 2028”的帽子，并配文“我们将会赢（We are going to win）”。",
@@ -107,30 +174,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
           "url": "https://www.cls.cn/detail/2455147",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时53分 ~ 11时42分]"
-        },
-        {
-          "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
-          "url": "https://wallstreetcn.com/livenews/3150021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时19分 ~ 11时42分]"
+          "appearance_count": 5,
+          "time_info": "[08时53分 ~ 14时28分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -138,11 +194,36 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            6
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时18分 ~ 14时28分]"
+        },
+        {
+          "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
+          "url": "https://wallstreetcn.com/livenews/3150021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时18分 ~ 11时42分]"
+          "time_info": "[10时19分 ~ 14时28分]"
+        },
+        {
+          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
+          "url": "https://wallstreetcn.com/articles/3779526",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
@@ -159,7 +240,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek-V4-Pro-0813 已发布，体验下来怎么样？",
@@ -186,15 +267,54 @@
           "time_info": "[08时53分 ~ 11时42分]"
         },
         {
+          "title": "“千问办公”首发上线GLM-5.3、DeepSeek V4 Pro两款模型",
+          "url": "https://wallstreetcn.com/livenews/3150028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "DeepSeek Harness实测",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
           "source": "bilibili 热搜",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://wallstreetcn.com/livenews/3150029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://flash.jin10.com/detail/20260816122604848800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         }
       ]
     },
@@ -211,8 +331,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时53分 ~ 11时42分]"
+          "appearance_count": 5,
+          "time_info": "[08时53分 ~ 14时28分]"
         },
         {
           "title": "高瓴旗下HHLR披露最新美股持仓 二季度增持英伟达",
@@ -220,11 +340,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时19分 ~ 11时42分]"
+          "appearance_count": 3,
+          "time_info": "[10时19分 ~ 14时28分]"
         }
       ]
     }
